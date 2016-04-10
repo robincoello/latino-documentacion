@@ -13,7 +13,7 @@
 * [Métodos propios](metodos_propios.md)
 * [Clases](clases.md)
 * [Números](numeros.md)
-* Teoría
+* [Teoría](teoria.md)
 * [si - (if)](si_-_if.md)
 * [si sino (if else)](si_sino_if_else.md)
 * [hacer - (do)](hacer_-_do.md)
