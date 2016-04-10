@@ -14,7 +14,7 @@ nombre_funcion(argumentos)
 
 
 
-### Función promedio
+### Ejemplo de funciones
 
 ```
 funcion promedio(a,b)
