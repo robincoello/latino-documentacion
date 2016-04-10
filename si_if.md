@@ -2,7 +2,7 @@
 # si (if)
 
 
-### valor logico directo
+### valor lógico directo
 ```
 si(verdadero)
     imprimir("es verdadero")
