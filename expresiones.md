@@ -6,12 +6,13 @@
 i = 1
 d = 10.05
 ```
-
-``` ###entero + entero
+###entero + entero
+``` 
 escribir(i + i)  #a 1 se le suma 1 da como resultado 2
 ```
 
-``` ###entero + decimal
+``` 
+###entero + decimal
 escribir(i + d) #a 1 se le suma 10.05 da como resultado 11.05
 ```
 
@@ -47,11 +48,13 @@ escribir(i * i) #da como resultado el decimal 1
 ```
 
 
-``` ###entero * decimal
+``` 
+###entero * decimal
 escribir(i * d) #da como resultado el decimal 10.05
 ```
 
-``` ###decimal * entero
+``` 
+###decimal * entero
 escribir(d * i) #da como resultado el decimal 10.05
 ```
 
