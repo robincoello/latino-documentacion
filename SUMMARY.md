@@ -8,4 +8,5 @@
 * [si (if)](si_if.md)
 * [si sino (if else)](si_sino_if_else.md)
 * [mientras ( while)](mientras__while.md)
+* hacer (do)
 
