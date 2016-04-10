@@ -14,6 +14,7 @@ funcion promedio(a,b)
 fin
 ```
 
+```
 funcion max(a,b)
     si (a > b)
         retorno a
@@ -21,6 +22,7 @@ funcion max(a,b)
         retorno b
     fin
 fin
+```
 
 funcion min(a,b)
     si (a < b)
