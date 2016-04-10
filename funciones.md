@@ -8,7 +8,7 @@ fin
 ```
 Para hacer el llamado a la funcion se usa el siguiente formato
 ```
-nombre_funcion()
+nombre_funcion(argumentos)
 imprimir(promedio(3, 5)) #4
 imprimir(max(3, 5)) #5
 imprimir(min(3, 5)) #3
