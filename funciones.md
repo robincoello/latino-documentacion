@@ -1,4 +1,4 @@
-# funciones
+# Funciones
 Para crear una funcion debes usar el siguente formato
 
 ```
