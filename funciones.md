@@ -6,6 +6,15 @@ funcion nombre(argumentos)
   código interno a la funcion
 fin
 ```
+Para hacer el llamado a la funcion se usa el siguiente formato
+```
+nombre_funcion()
+imprimir(promedio(3, 5)) #4
+imprimir(max(3, 5)) #5
+imprimir(min(3, 5)) #3
+```
+
+
 
 
 ### Función promedio
@@ -26,6 +35,7 @@ funcion max(a,b)
 fin
 ```
 
+```
 funcion min(a,b)
     si (a < b)
         retorno a
@@ -33,7 +43,10 @@ funcion min(a,b)
         retorno b
     fin
 fin
+```
 
+```
 imprimir(promedio(3, 5)) #4
 imprimir(max(3, 5)) #5
 imprimir(min(3, 5)) #3
+```
