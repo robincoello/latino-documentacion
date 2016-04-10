@@ -11,4 +11,5 @@
 * Matrices e interaciones
 * Métodos propios
 * Clases
+* Instalar latino
 
