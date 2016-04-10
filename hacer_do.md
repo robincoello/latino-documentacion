@@ -9,6 +9,9 @@ cuando (condicion)
 
 
 
+### Muestra del 0 al 9
+
+
 
 ```
 i = 0
