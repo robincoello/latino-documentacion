@@ -9,5 +9,8 @@ nombre = 'Latino'
 ```
 
 ### Variable con valor númerico
+```
+metros = 250.5
+```
 
 
