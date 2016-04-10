@@ -2,7 +2,7 @@
 Para crear una funcion debes usar el siguente formato
 
 ```
-funcion nombre(argumentos)
+funcion nombre_de_la_funcion(argumentos)
   código interno a la funcion
 fin
 ```
