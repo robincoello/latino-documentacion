@@ -11,4 +11,5 @@
 * [hacer (do)](hacer_do.md)
 * [desde (for)](desde.md)
 * elejir
+* variables
 
