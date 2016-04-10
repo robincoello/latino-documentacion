@@ -59,7 +59,8 @@ escribir(i * d) #da como resultado el decimal 10.05
 escribir(d * i) #da como resultado el decimal 10.05
 ```
 
-``` ###decimal * decimal
+###decimal * decimal
+``` 
 escribir(d * 0.5) #da como resultado el decimal 5.025
 ```
 
