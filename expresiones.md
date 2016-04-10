@@ -34,7 +34,9 @@ imprimir(i - d) #a 1 se le suma 10.05 da como resultado -9.05
 ```
 
 ###decimal - entero
+```
 imprimir(d - i) #da como resultado el decimal 9.05
+```
 
 ###decimal - decimal
 imprimir(d - 0.05) #da como resultado el decimal 10
