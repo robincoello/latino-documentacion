@@ -17,4 +17,5 @@
 * si - if
 * si sino (if else)
 * hacer - (do)
+* mientras - (while)
 
