@@ -11,7 +11,7 @@ d = 10.05
 escribir(i + i)  # a 1 se le suma 1 da como resultado 2
 ```
 
-###entero + decimal
+### entero + decimal
 ```
 imprimir(i + d) #a 1 se le suma 10.05 da como resultado 11.05
 ```
