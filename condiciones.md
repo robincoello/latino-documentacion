@@ -52,4 +52,6 @@ sino
     imprimir("error")
 fin
 
+Ejemplos
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GoPpFjNJfVE" frameborder="0" allowfullscreen></iframe>
 
