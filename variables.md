@@ -31,6 +31,9 @@ var = f
 var = 0
 ```
 
+> El valor cero es falso, y todo valor diferente a cero es verdadero. 
+
+
 
 
 
