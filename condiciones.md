@@ -39,7 +39,7 @@ sino si(i > 0)
 fin
 ```
 
-
+```
 si(verdadero)
     imprimir("hola latino")
 fin
@@ -52,6 +52,7 @@ si(g)
 sino
     imprimir("error")
 fin
+```
 
 Ejemplos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GoPpFjNJfVE" frameborder="0" allowfullscreen></iframe>
