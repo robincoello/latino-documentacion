@@ -41,6 +41,25 @@ Antes de empezar debes instalar latino en tu computadora
 En vista que vamos a trabajar con el sistema ”Latino” vamos a usar los recursos que ponen a nuestra disposicion el sitio oficial de latino http://lenguaje-latino.org/ aca puedes tener la última versión de este lenguaje de programacón.
 
 
+Numeros
+Textos 
+Variables
+Conversiones
+Metodos
+Condiciones
+Matrices e interaciones
+Metodos propios
+Clases
+Bloques
+Acerca de este libro
+
+
+
+
+
+
+
+
 
 Cómo colaborar con Latino?
 Si eres un programador avanzado, puedes colaborar con el crecimiento de latino, creando nuevas funciones, etc, para ello entra al sitio http://lenguaje-latino.org > Comunidad, alli nos encontraras a todos lo que hacemos latino, necesitamos personas que colaboren en: la documentacion, haciendo ejemplo, escribiendo articúlos de latino para su difusión, gente que pruebe el lenguaje y reporte los errores, también nuevas ideas son bienvenidas, animadores de redes sociales, etc etc,  seguro hay una labor en la que puedes colaborar y ser parte de este proyecto, Animate y escribenos, no importa el nivel de programación, siempre hay un lugar donde podras encajar en Latino. 
