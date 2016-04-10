@@ -22,5 +22,9 @@ fin
 ```
 
 ### Verifica si un numero es positivo
-``````
-
+```
+numero = 15
+si()
+  escribir("El numero es potitivo")
+fin  
+```
