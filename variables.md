@@ -14,7 +14,13 @@ metros = 250.5
 hora = 12
 ```
 
-### Valor lógico, boleano
+### Valor lógico, verdadero
+```
+var = verdadero
+var = v
+var = 1
+
+```
 
 
 
