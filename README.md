@@ -1,3 +1,4 @@
+![](lat-logo-1.jpg)
 #Latino
 
 ## Si sabes leer y escribir, sabes programar! 
