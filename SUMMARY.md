@@ -10,4 +10,5 @@
 * [Metodos](métodos.md)
 * Condiciones
 * Matrices e interaciones
+* Métodos propios
 
