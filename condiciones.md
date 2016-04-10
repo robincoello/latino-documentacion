@@ -8,20 +8,25 @@ fin
 ```
 
 #asignado a una variable
+```
 b = verdadero
 si(b)
     imprimir("es verdad")
 fin
+```
 
 #si-sino
+```
 b = falso
 si(b)
     imprimir("verdad")
 sino
     imprimir("falsedad")
 fin
+```
 
 #si anidado
+```
 i = 10
 si(i == 0)
     imprimir(0)
@@ -31,6 +36,7 @@ sino si(i > 0)
         imprimir(-1)
     fin
 fin
+```
 
 si(verdadero)
     imprimir("hola latino")
