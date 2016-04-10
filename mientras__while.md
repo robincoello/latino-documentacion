@@ -7,6 +7,15 @@ fin
 ```
 
 
+### Escribe 5 veces la frase "Debo estudiar"
+```
+i = 0
+mientras (i < 5 )
+  escribir("Debo estudiar")
+  i = i + 1
+fin  
+```
+
 
 ```
 i = 0
