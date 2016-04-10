@@ -5,7 +5,7 @@
    * [Acerca de Latino](acerca_de_latino.md)
    * [nomenclatura](introduccion/nomenclatura.md)
 * [Variables](teoria/variables.md)
-* [Conversiones](conversiones.md)
+* [Conversiones](teoria/conversiones.md)
 * [Metodos](métodos.md)
 * [Condiciones](condiciones.md)
 * Matrices e interaciones
