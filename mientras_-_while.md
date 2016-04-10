@@ -1,2 +1,0 @@
-# mientras - (while)
-
