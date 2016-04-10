@@ -1,17 +1,10 @@
-
 # si (if)
-
 El si verifica si la condicion se cumple ejecuta el codigo
-
 ```
 si( condicion )
   codigo a ejecutarse
 fin
 ```
-
-
-
-
 ### valor lógico directo
 ```
 si(verdadero)
