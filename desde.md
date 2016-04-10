@@ -12,7 +12,7 @@ fin
 
 ```
 desde(i=0; i<10; i++)
-    imprimir(i)
+    escribir(i)
 fin
 ```
 
