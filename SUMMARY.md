@@ -5,7 +5,7 @@
    * [Acerca de Latino](acerca_de_latino.md)
    * [nomenclatura](introduccion/nomenclatura.md)
 * [Números](numeros.md)
-* Textos
+* [Textos](textos.md)
 * Variables
 * Conversiones
 * [Metodos](métodos.md)
