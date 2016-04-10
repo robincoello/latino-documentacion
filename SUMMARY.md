@@ -5,6 +5,6 @@
 * Teoría
 * [hola mundo](hola_mundo.md)
 * [comentarios](comentarios.md)
-* si (if)
+* [si (if)](si_if.md)
 * si sino (if else)
 
