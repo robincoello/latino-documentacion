@@ -15,15 +15,18 @@ si(b)
     imprimir("es verdad")
 fin
 
-#si-sino
+### si-sino
+```
 b = falso
 si(b)
     imprimir("verdad")
 sino
     imprimir("falsedad")
 fin
+```
 
-#si anidado
+### si anidado
+```
 i = 10
 si(i == 0)
     imprimir(0)
@@ -33,11 +36,15 @@ sino si(i > 0)
         imprimir(-1)
     fin
 fin
+```
 
+```
 si(verdadero)
     imprimir("hola latino")
 fin
+```
 
+```
 g = verdadero
 imprimir(g)
 si(g)
@@ -46,3 +53,6 @@ si(g)
 sino
     imprimir("error")
 fin
+```
+
+
