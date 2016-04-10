@@ -17,14 +17,3 @@
 
 
 > Esto es un blocquote
-
-
-
-Este es un texto h1
-Este es un texto en 
-Este es un texto en 
-Este es un texto en 
-Este es un texto en 
-Este es un texto en 
-
-
