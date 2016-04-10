@@ -11,9 +11,9 @@ fin
 ### valor lógico directo
 ```
 si(verdadero)
-    imprimir("es verdadero")
+    escribir("es verdadero")
 sino
-    imprimir("es falso")
+    escribir("es falso")
 fin
 ```
 
