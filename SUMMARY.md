@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
    * [Instalar latino](introduccion/instalar_latino.md)
-* [variables](teoria/variables.md)
 * [Teoría](teoria.md)
 * [hola mundo](hola_mundo.md)
 * [comentarios](comentarios.md)
