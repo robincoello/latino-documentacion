@@ -9,7 +9,7 @@ fin
 ### valor lógico directo
 ```
 si(verdadero)
-    imprimir("es verdadero")
+    escribir("es verdadero")
 fin
 ```
 
@@ -17,7 +17,7 @@ fin
 ```
 b = verdadero
 si(b)
-    imprimir("es verdad")
+    escribir("es verdad")
 fin
 ```
 
