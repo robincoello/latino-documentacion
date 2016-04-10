@@ -8,9 +8,11 @@ fin
 ```
 
 
+```
 funcion promedio(a,b)
     retorno (a+b)/2
 fin
+```
 
 funcion max(a,b)
     si (a > b)
