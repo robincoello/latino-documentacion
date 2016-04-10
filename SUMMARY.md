@@ -14,7 +14,7 @@
 * Clases
 * [Números](numeros.md)
 * Teoría
-* si - if
+* si - (if)
 * si sino (if else)
 * hacer - (do)
 * mientras - (while)
