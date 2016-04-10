@@ -10,7 +10,7 @@
 * [Condiciones](condiciones.md)
 * Matrices e interaciones
 * [Métodos propios](metodos_propios.md)
-* [Clases](clases.md)
+* [Clases](teoria/clasesmd.md)
 * [Números](numeros.md)
 * [Teoría](teoria.md)
 * [Textos](textos.md)
