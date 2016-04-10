@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * Instalar latino
    * [Acerca de Latino](acerca_de_latino.md)
 * Números
 * Textos
@@ -11,5 +12,4 @@
 * Matrices e interaciones
 * Métodos propios
 * Clases
-* Instalar latino
 
