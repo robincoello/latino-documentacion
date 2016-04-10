@@ -24,10 +24,14 @@ imprimir(d + d) #da como resultado el decimal 20.1
 
 
 ###entero - entero
+```
 imprimir(i - (-1))  #a 1 se le resta -1 da como resultado 2
+```
 
 ###entero - decimal
+```
 imprimir(i - d) #a 1 se le suma 10.05 da como resultado -9.05
+```
 
 ###decimal - entero
 imprimir(d - i) #da como resultado el decimal 9.05
