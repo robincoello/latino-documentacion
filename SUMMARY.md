@@ -9,7 +9,7 @@
 * Conversiones
 * [Metodos](métodos.md)
 * [Condiciones](condiciones.md)
-* Matrices e interaciones
+* [Matrices e interaciones](matrices_e_interaciones.md)
 * [Métodos propios](metodos_propios.md)
 * [Clases](clases.md)
 * [Números](numeros.md)
