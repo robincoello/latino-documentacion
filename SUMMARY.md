@@ -9,6 +9,6 @@
 * [si sino (if else)](si_sino_if_else.md)
 * [mientras ( while)](mientras__while.md)
 * [hacer (do)](hacer_do.md)
-* elejir
 * desde
+* elejir
 
