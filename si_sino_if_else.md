@@ -33,7 +33,7 @@ numero = 15
 si(numero >= 0 )
   escribir("El numero es potitivo")
 sino
-    escribir("El número es negativo ")  
+  escribir("El número es negativo ")  
 fin  
 ```
 
