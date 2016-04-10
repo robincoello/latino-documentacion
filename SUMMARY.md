@@ -11,7 +11,7 @@
 * [Condiciones](condiciones.md)
 * Matrices e interaciones
 * Métodos propios
-* Clases
+* [Clases](clases.md)
 * [Números](numeros.md)
 * Teoría
 * [si - (if)](si_-_if.md)
