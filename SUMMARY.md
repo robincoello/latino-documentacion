@@ -4,7 +4,7 @@
    * [Instalar latino](introduccion/instalar_latino.md)
    * [Acerca de Latino](acerca_de_latino.md)
    * [nomenclatura](introduccion/nomenclatura.md)
-* [Variables](variables.md)
+* [Variables](teoria/variables.md)
 * [Conversiones](conversiones.md)
 * [Metodos](métodos.md)
 * [Condiciones](condiciones.md)
