@@ -41,17 +41,18 @@ Antes de empezar debes instalar latino en tu computadora
 En vista que vamos a trabajar con el sistema ”Latino” vamos a usar los recursos que ponen a nuestra disposicion el sitio oficial de latino http://lenguaje-latino.org/ aca puedes tener la última versión de este lenguaje de programacón.
 
 
-Numeros
-Textos 
-Variables
-Conversiones
-Metodos
-Condiciones
-Matrices e interaciones
-Metodos propios
-Clases
-Bloques
-Acerca de este libro
+
+### Numeros
+### Textos 
+### Variables
+### Conversiones
+### Metodos
+### Condiciones
+### Matrices e interaciones
+### Metodos propios
+### Clases
+### Bloques
+### Acerca de este libro
 
 
 
