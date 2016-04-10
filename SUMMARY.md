@@ -8,4 +8,5 @@
 * Variables
 * Conversiones
 * [Metodos](métodos.md)
+* Condiciones
 
