@@ -3,8 +3,7 @@ Ejecuta el código mientras la condición se cumpla
 
 ```
 hacer
-    imprimir(i)
-    
+    imprimir(i)    
 cuando (condicion)
 ```
 
