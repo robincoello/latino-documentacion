@@ -3,6 +3,7 @@
 * [Introduction](README.md)
    * [Instalar latino](introduccion/instalar_latino.md)
 * Teoría
+* variables
 * [hola mundo](hola_mundo.md)
 * [comentarios](comentarios.md)
 * [si (if)](si_if.md)
@@ -11,5 +12,4 @@
 * [hacer (do)](hacer_do.md)
 * [desde (for)](desde.md)
 * elejir
-* variables
 
