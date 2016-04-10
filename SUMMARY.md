@@ -8,7 +8,7 @@
 * Variables
 * Conversiones
 * [Metodos](métodos.md)
-* Condiciones
+* [Condiciones](condiciones.md)
 * Matrices e interaciones
 * Métodos propios
 * Clases
