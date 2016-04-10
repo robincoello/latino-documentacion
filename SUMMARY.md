@@ -7,4 +7,5 @@
 * Textos
 * Variables
 * Conversiones
+* Metodos
 
