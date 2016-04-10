@@ -21,11 +21,14 @@ Glosario
 
 
 
-A quién está destinado?
+
+### A quién está destinado?
 Este libro está destinado a personas con muy pocos conocimientos de programación, explicaremos conceptos informáticos sin mucha complicación
-Objetivo
+
+### Objetivo
 Al final de la lectura de este libro podrás ser capaz de hacer un programa informático 
-Método de enseñanza
+
+### Método de enseñanza
 A lo largo de este libro se trabajara con un ejemplos y se usará el lenguaje de programación “Latino” que es un lenguaje con sintaxis en espanol
 
 Lo que necesitas para empezar
