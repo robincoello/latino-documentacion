@@ -19,7 +19,6 @@ hora = 12
 var = verdadero
 var = v
 var = 1
-
 ```
 
 
