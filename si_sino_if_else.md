@@ -42,6 +42,8 @@ fin
 clave = 'robinson'
 si (clave == '123abc') 
   escribir("La clave es correcta, puede entrar")
+sino
+  escribir("Clave incorrecta, intentelo nuevamente ")   
 fin
 ```
 
