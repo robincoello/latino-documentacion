@@ -39,6 +39,7 @@ sino si(i > 0)
 fin
 ```
 
+
 si(verdadero)
     imprimir("hola latino")
 fin
