@@ -7,5 +7,5 @@
 * Textos
 * Variables
 * Conversiones
-* Metodos
+* [Metodos](métodos.md)
 
