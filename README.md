@@ -37,6 +37,7 @@ No necesitas mayor cosa, solo el deseo de aprender, y saber que: Programando es 
 
 
 ### Instalar Latino
+Antes de empezar debes instalar latino en tu computadora 
 En vista que vamos a trabajar con el sistema ”Latino” vamos a usar los recursos que ponen a nuestra disposicion el sitio oficial de latino http://lenguaje-latino.org/ aca puedes tener la última versión de este lenguaje de programacón.
 
 
