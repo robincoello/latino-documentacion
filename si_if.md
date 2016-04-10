@@ -1,4 +1,4 @@
-# si (if)
+ero # si (if)
 El si verifica si la condicion se cumple ejecuta el codigo
 ```
 si( condicion )
@@ -24,7 +24,7 @@ fin
 ### Verifica si un numero es positivo
 ```
 numero = 15
-si()
+si(numero > 0 )
   escribir("El numero es potitivo")
 fin  
 ```
