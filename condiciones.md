@@ -1,9 +1,11 @@
 # Condiciones
 #valor logico directo
 
-```si(verdadero)
+```
+si(verdadero)
     imprimir("es verdadero")
-fin```
+fin
+```
 
 #asignado a una variable
 b = verdadero
