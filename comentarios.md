@@ -1,5 +1,5 @@
 # Comentarios
-Los comentarios con lineas que tu escribes en el código como notas, solo para recordar algo, explicar para que sirbe el código, dejar alguna nota para tu colega de trabajo,  etc. su formato es el siguiente.
+Los comentarios son lineas que tu escribes en el código como notas, solo para recordar algo, explicar para que sirve el código, dejar alguna nota para tu colega de trabajo,  etc. su formato es el siguiente.
 
 ```
 # esto es un comentario 
