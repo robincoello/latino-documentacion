@@ -2,7 +2,7 @@
 Para crear una funcion debes usar el siguente formato
 
 ```
-funcion nombre_de_la_funcion(argumentos)
+funcion nombre(argumentos)
   código interno a la funcion
 fin
 ```
@@ -42,6 +42,8 @@ funcion min(a,b)
 fin
 ```
 
+
+### Llamado de las funciones anteriores
 ```
 imprimir(promedio(3, 5)) #4
 imprimir(max(3, 5)) #5
