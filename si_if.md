@@ -1,4 +1,4 @@
-ero # si (if)
+# si (if)
 El si verifica si la condicion se cumple ejecuta el codigo
 ```
 si( condicion )
