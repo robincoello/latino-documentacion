@@ -6,10 +6,10 @@
    * [nomenclatura](introduccion/nomenclatura.md)
 * [Textos](textos.md)
 * Variables
-* Conversiones
+* [Conversiones](conversiones.md)
 * [Metodos](métodos.md)
 * [Condiciones](condiciones.md)
-* [Matrices e interaciones](matrices_e_interaciones.md)
+* Matrices e interaciones
 * [Métodos propios](metodos_propios.md)
 * [Clases](clases.md)
 * [Números](numeros.md)
