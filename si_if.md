@@ -5,6 +5,7 @@ si( condicion )
   codigo a ejecutarse
 fin
 ```
+
 ### valor lógico directo
 ```
 si(verdadero)
@@ -17,11 +18,5 @@ fin
 b = verdadero
 si(b)
     imprimir("es verdad")
-fin
-```
-
-```
-si(verdadero)
-    imprimir("hola latino")
 fin
 ```
