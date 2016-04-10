@@ -39,11 +39,14 @@ imprimir(d - i) #da como resultado el decimal 9.05
 ```
 
 ###decimal - decimal
+```
 imprimir(d - 0.05) #da como resultado el decimal 10
-
+```
 
 ###entero * entero
+```
 imprimir(i * i) #da como resultado el decimal 1
+```
 
 ###entero * decimal
 imprimir(i * d) #da como resultado el decimal 10.05
