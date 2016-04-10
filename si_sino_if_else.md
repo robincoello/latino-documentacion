@@ -21,9 +21,9 @@ fin
 ```
 b = verdadero
 si(b)
-    imprimir("es verdad")
+    escribir("es verdad")
 sino
-    imprimir("es falso")
+    escribir("es falso")
 fin
 ```
 
