@@ -30,7 +30,7 @@ fin
 ### Verifica si un número es positivo
 ```
 numero = 15
-si(numero > 0 )
+si(numero >= 0 )
   escribir("El numero es potitivo")
 sino
     imprimir("El número es negativo ")  
