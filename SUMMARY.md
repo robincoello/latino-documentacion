@@ -4,7 +4,6 @@
    * [Instalar latino](introduccion/instalar_latino.md)
    * [Acerca de Latino](acerca_de_latino.md)
    * [nomenclatura](introduccion/nomenclatura.md)
-* [Números](numeros.md)
 * [Textos](textos.md)
 * Variables
 * Conversiones
@@ -13,5 +12,6 @@
 * Matrices e interaciones
 * Métodos propios
 * Clases
+* [Números](numeros.md)
 * Teoría
 
