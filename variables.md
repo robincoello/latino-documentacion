@@ -8,3 +8,6 @@ Para definir una variable en "Latino" se lo hace de la siguiente manera:
 nombre = 'Latino' 
 ```
 
+### Variable con valor númerico
+
+
