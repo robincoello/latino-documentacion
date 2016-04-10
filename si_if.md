@@ -20,11 +20,12 @@ fin
 ```
 
 ### asignado a una variable
+```
 b = verdadero
 si(b)
     imprimir("es verdad")
 fin
-
+```
 ### si-sino
 ```
 b = falso
