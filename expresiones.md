@@ -68,14 +68,17 @@ escribir(d * 0.5) #da como resultado el decimal 5.025
 escribir(i / i) #da como resultado el entero 1
 ```
 
-``` ###entero / decimal
+###entero / decimal
+```
 escribir(i / d) #da como resultado el decimal 0.099502487562189
 ```
 
-``` ###decimal / entero
+###decimal / entero
+```
 escribir(d / i) #da como resultado el entero 10
 ```
 
-``` ###decimal / decimal
+###decimal / decimal
+``` 
 escribir(d / 0.5) #da como resultado el decimal 20.1
 ```
