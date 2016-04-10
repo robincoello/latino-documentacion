@@ -21,10 +21,21 @@ si(b)
 fin
 ```
 
-### Verifica si un numero es positivo
+### Verifica si un número es positivo
 ```
 numero = 15
 si(numero > 0 )
   escribir("El numero es potitivo")
 fin  
 ```
+
+### Verifica si la clave es correcta
+```
+clave = 'robinson'
+si (clave == '123abc') 
+  escribir("La clave es correcta, puede entrar")
+fin
+```
+
+
+
