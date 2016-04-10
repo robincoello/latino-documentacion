@@ -13,4 +13,5 @@
 * Matrices e interaciones
 * Métodos propios
 * Clases
+* Teoría
 
