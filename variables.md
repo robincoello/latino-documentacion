@@ -7,6 +7,7 @@ Para definir una variable en "Latino" se lo hace de la siguiente manera:
 ```
 var = 'a'
 var = 'Latino'
+var = 'Latino, lenguaje de programación en espñol'
 
 
 ```
