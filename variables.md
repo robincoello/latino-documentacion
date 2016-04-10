@@ -4,6 +4,7 @@ Para definir una variable en "Latino" se lo hace de la siguiente manera:
 
 
 ### variable con texto
+
 ```
 var = 'a'
 var = 'Latino'
@@ -14,8 +15,8 @@ var = 'Latino, lenguaje de programación en español'
 
 ### Variable con valor númerico
 ```
-metros = 250.5
-hora = 12
+var = 250.5
+var = 12
 ```
 
 ### Valor lógico, verdadero
