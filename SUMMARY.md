@@ -11,4 +11,5 @@
 * Condiciones
 * Matrices e interaciones
 * Métodos propios
+* Clases
 
