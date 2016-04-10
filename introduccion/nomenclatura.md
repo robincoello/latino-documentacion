@@ -10,6 +10,12 @@
 **Este es un texto en negilla**
 *Este es un texto en inclinado*
 ~~Este es un texto en tachado~~
+
+* Esto es un elemento de una lista
+* Esto es un elemento de una lista 
+* Esto es un elemento de una lista
+
+
 Este es un texto h1
 Este es un texto en 
 Este es un texto en 
