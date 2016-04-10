@@ -16,10 +16,3 @@ desde(i=0; i<10; i++)
 fin
 ```
 
-```
-imprimir("10 a 1:")
-desde(i=10; i>0; i--)
-    imprimir(i)
-fin
-```
-
