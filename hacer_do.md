@@ -1,5 +1,5 @@
 # hacer (do)
-Ejecuta el código mientras la condición se cumpla
+Ejecuta el código y cuando la condicion se cumple paramos de ejecutarlo
 
 ```
 hacer
