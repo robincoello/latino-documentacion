@@ -1,6 +1,6 @@
 #Latino
 
-##Si sabes leer y escribir, sabes programar! 
+## Si sabes leer y escribir, sabes programar! 
 
 Documentación en desarrollo, si quieres contribuir, eres bienvenido
 
