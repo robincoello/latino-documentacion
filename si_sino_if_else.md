@@ -2,7 +2,7 @@
 Verifica si la condición se cumple, ejecuta el código sino ejecuta el otro 
 ```
 si( condicion )
-  codigo a ejecutarse si se cumple la consición
+  codigo a ejecutarse si se cumple la condición
 sino
   código a ejecutarse si no se cumple la condición
 fin
