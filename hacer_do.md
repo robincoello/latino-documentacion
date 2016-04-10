@@ -1,5 +1,5 @@
 # hacer (do)
-Ejecuta el codigo minetras la condición se cumpla
+Ejecuta el código mientras la condición se cumpla
 
 ```
 hacer
