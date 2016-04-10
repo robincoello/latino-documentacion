@@ -1,23 +1,19 @@
 # si sino (if else)
-
-
-# si (if)
-
-El si verifica si la condicion se cumple ejecuta el codigo
-
+Verifica si la condición se cumple, ejecuta el código sino ejecuta el otro 
 ```
 si( condicion )
-  codigo a ejecutarse
+  codigo a ejecutarse si se cumple la consición
+sino
+  código a ejecutarse si no se cumple la condición
 fin
 ```
-
-
-
 
 ### valor lógico directo
 ```
 si(verdadero)
     imprimir("es verdadero")
+sino
+    imprimir("es falso")
 fin
 ```
 
@@ -26,45 +22,26 @@ fin
 b = verdadero
 si(b)
     imprimir("es verdad")
-fin
-```
-### si-sino
-```
-b = falso
-si(b)
-    imprimir("verdad")
 sino
-    imprimir("falso")
-fin
-```
-### si anidado
-```
-i = 10
-si(i == 0)
-    imprimir(0)
-sino si(i > 0)
-        imprimir(1)
-    sino
-        imprimir(-1)
-    fin
+    imprimir("es falso")
 fin
 ```
 
+### Verifica si un número es positivo
 ```
-si(verdadero)
-    imprimir("hola latino")
+numero = 15
+si(numero > 0 )
+  escribir("El numero es potitivo")
+fin  
+```
+
+### Verifica si la clave es correcta
+```
+clave = 'robinson'
+si (clave == '123abc') 
+  escribir("La clave es correcta, puede entrar")
 fin
 ```
 
-```
-g = verdadero
-imprimir(g)
-si(g)
-    imprimir(verdadero)
-    imprimir('a')
-sino
-    imprimir("error")
-fin
-```
 
 
