@@ -15,7 +15,7 @@
 * [Números](numeros.md)
 * Teoría
 * [si - (if)](si_-_if.md)
-* si sino (if else)
+* [si sino (if else)](si_sino_if_else.md)
 * hacer - (do)
 * mientras - (while)
 * desde - (for)
