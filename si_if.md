@@ -1,5 +1,5 @@
 # si (if)
-Verifica si la condición se cumple, ejecuta el código
+Verifica si la condición se cumple y ejecuta el código
 ```
 si( condicion )
   codigo a ejecutarse
