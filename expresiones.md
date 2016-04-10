@@ -1,7 +1,9 @@
 # expresiones
 
+```
 i = 1
 d = 10.05
+```
 
 
 ###entero + entero
