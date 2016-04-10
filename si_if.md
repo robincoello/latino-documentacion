@@ -35,7 +35,6 @@ sino
     imprimir("falso")
 fin
 ```
-
 ### si anidado
 ```
 i = 10
