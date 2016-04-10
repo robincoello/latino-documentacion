@@ -3,7 +3,7 @@ Ejecuta el código cuando la condicion se cumple
 
 ```
 hacer
-    imprimir(i)    
+    código a ejecutarse   
 cuando (condicion)
 ```
 
