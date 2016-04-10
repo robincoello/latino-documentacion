@@ -4,18 +4,6 @@
 
 Documentación en desarrollo, si quieres contribuir, eres bienvenido
 
-A quién está destinado?
-Objetivo
-Método de enseñanza
-Lo que necesitas para empezar
-Donde conseguir Latino (.lat) y ayuda?
-Cómo colaborar con Latino?
-Ejercicios
-Glosario
-
-
-
-
 ### A quién está destinado?
 Este libro está destinado a personas con muy pocos conocimientos de programación, explicaremos conceptos informáticos sin mucha complicación
 
