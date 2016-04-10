@@ -3,9 +3,11 @@
 
 El si verifica si la condicion se cumple ejecuta el codigo
 
-```si( condicion )
+```
+si( condicion )
   codigo a ejecutarse
-fin```
+fin
+```
 
 
 
