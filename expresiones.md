@@ -30,33 +30,32 @@ escribir(d + d) #da como resultado el decimal 20.1
 ```
 escribir(i - (-1))  #a 1 se le resta -1 da como resultado 2
 ```
-
-``` ###entero - decimal
+###entero - decimal
+``` 
 escribir(i - d) #a 1 se le suma 10.05 da como resultado -9.05
 ```
 
-
-``` ###decimal - entero
+###decimal - entero
+``` 
 escribir(d - i) #da como resultado el decimal 9.05
 ```
 
-
-``` ###decimal - decimal
+###decimal - decimal
+```
 escribir(d - 0.05) #da como resultado el decimal 10
 ```
-
-``` ###entero * entero
+###entero * entero
+```
 escribir(i * i) #da como resultado el decimal 1
 ```
 
-
+### entero * decimal
 ``` 
-###entero * decimal
 escribir(i * d) #da como resultado el decimal 10.05
 ```
 
-``` 
 ###decimal * entero
+``` 
 escribir(d * i) #da como resultado el decimal 10.05
 ```
 
@@ -64,7 +63,8 @@ escribir(d * i) #da como resultado el decimal 10.05
 escribir(d * 0.5) #da como resultado el decimal 5.025
 ```
 
-``` ###entero / entero
+###entero / entero
+```
 escribir(i / i) #da como resultado el entero 1
 ```
 
