@@ -5,7 +5,6 @@
    * [Acerca de Latino](acerca_de_latino.md)
    * [nomenclatura](introduccion/nomenclatura.md)
 * [Métodos propios](metodos_propios.md)
-* [Clases](teoria/clasesmd.md)
 * [Números](numeros.md)
 * [Teoría](teoria.md)
 * [Textos](textos.md)
