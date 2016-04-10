@@ -11,6 +11,11 @@ nombre = 'Latino'
 ### Variable con valor númerico
 ```
 metros = 250.5
+hora = 12
 ```
+
+### Valor lógico, boleano
+
+
 
 
