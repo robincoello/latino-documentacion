@@ -20,3 +20,7 @@ si(b)
     imprimir("es verdad")
 fin
 ```
+
+### Verifica si un numero es positivo
+``````
+
