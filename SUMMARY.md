@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * Instalar latino
+   * [Instalar latino](introduccion/instalar_latino.md)
    * [Acerca de Latino](acerca_de_latino.md)
 * Números
 * Textos
