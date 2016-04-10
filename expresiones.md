@@ -6,7 +6,7 @@ d = 10.05
 
 #entero + entero
 ```
-escribir(i + i)  #a 1 se le suma 1 da como resultado 2
+escribir(i + i)  # a 1 se le suma 1 da como resultado 2
 ```
 
 #entero + decimal
