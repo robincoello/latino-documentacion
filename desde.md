@@ -10,7 +10,6 @@ fin
 ### Mostramos del 1 al 10
 
 
-
 ```
 desde(i=0; i<10; i++)
     imprimir(i)
