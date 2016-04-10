@@ -5,6 +5,7 @@
 * [Teoría](teoria.md)
    * [variables](variables.md)
        * [constantes](constantes.md)
+   * expresiones
 * [hola mundo](hola_mundo.md)
 * [comentarios](comentarios.md)
 * [si (if)](si_if.md)
