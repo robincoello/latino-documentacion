@@ -4,5 +4,4 @@
    * [Instalar latino](introduccion/instalar_latino.md)
    * [Acerca de Latino](acerca_de_latino.md)
    * [nomenclatura](introduccion/nomenclatura.md)
-* [desde - (for)](desde_-_for.md)
 
