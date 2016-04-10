@@ -10,7 +10,6 @@ fin
 
 ### Función promedio
 
-
 ```
 funcion promedio(a,b)
     retorno (a+b)/2
