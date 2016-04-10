@@ -28,7 +28,9 @@ var = 1
 
 ### Valor lógico, falso
 ```
-var = 
+var = falso
+var = f
+var = 0
 ```
 
 
