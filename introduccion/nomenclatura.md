@@ -11,10 +11,14 @@
 * Esto es un elemento de una lista 
 * Esto es un elemento de una lista
 > Esto es un blocquote
-> | 0:0 | 1:0 |
+
+| 0:0 | 1:0 |
 | -- | -- |
 | 0:2 | 1:2 |
----
-[lenguaje-latino.org](lenguaje-latino.org)
-![](lenguaje-latino.org
+
+
+[http://lenguaje-latino.org/](http://lenguaje-latino.org/)
+
+
+
 ```Esto es un codigo```
