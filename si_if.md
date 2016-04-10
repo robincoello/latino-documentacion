@@ -32,7 +32,7 @@ b = falso
 si(b)
     imprimir("verdad")
 sino
-    imprimir("falsedad")
+    imprimir("falso")
 fin
 ```
 
