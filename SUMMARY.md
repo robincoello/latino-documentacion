@@ -14,5 +14,5 @@
 * [hacer (do)](hacer_do.md)
 * [desde (for)](desde.md)
 * elejir
-* funciones
+* [funciones](funciones.md)
 
