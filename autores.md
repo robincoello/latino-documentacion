@@ -5,6 +5,9 @@ Este libro fue escrito por:
 
 Algunos de ejemplos aca mostrados fueron tomados del sitio oficial de latino, así como de su repositiorio en github.
 
+algunos recursos que voy a usar en este libro 
+http://styleguide.gitbook.com/utilities/
+
 
 
 
