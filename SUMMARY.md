@@ -12,6 +12,7 @@
    * [variables](variables.md)
        * [constantes](constantes.md)
    * [expresiones](expresiones.md)
+   * Operadores lógicos
 * [hola mundo](hola_mundo.md)
 * [comentarios](comentarios.md)
 * [si (if)](si_if.md)
