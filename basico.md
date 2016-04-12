@@ -5,3 +5,9 @@ Mostrar algo en pantalla
 ```
 escribir("Hola Latinos")
 ```
+> También puedes usar el imprimir()
+
+```
+imprimir("Hola latinos")
+```
+
