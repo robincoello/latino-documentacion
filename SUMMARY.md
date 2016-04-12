@@ -10,7 +10,7 @@
    * [variables](variables.md)
        * [constantes](constantes.md)
    * [expresiones](expresiones.md)
-* Básico
+* [Básico](basico.md)
 * [hola mundo](hola_mundo.md)
 * [comentarios](comentarios.md)
 * [si (if)](si_if.md)
