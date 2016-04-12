@@ -7,7 +7,7 @@
    * [Latino en](latino_en.md)
        * [Notepad++](notepad++.md)
        * [Netbeans](netbeans.md)
-       * [Sublimetext](sublimetext.md)
+       * [Sublime Text](sublimetext.md)
    * [Lectura recomendada](lectura_recomendada.md)
 * [Teoría](teoria.md)
    * [Variables](variables.md)
