@@ -7,10 +7,10 @@ f = falso
 ### && y lógico (y)
 Solo es verdadero cuando ambos miembros son verdaderos
 ```
-escribir(f && f) #falso
-escribir(v && f) #falso
-escribir(f && v) #falso
-escribir(v && v) #verdadero
+escribir(falso && falso) #falso
+escribir(verdadero && falso) #falso
+escribir(falso && verdadero) #falso
+escribir(verdadero && verdadero) #verdadero
 ```
 ### || y lógico (o)
 Solo es verdadero cuando uno de los dos miembros es verdadero
