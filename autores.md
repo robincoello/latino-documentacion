@@ -8,6 +8,10 @@ Algunos de ejemplos aca mostrados fueron tomados del sitio oficial de latino, as
 algunos recursos que voy a usar en este libro 
 http://styleguide.gitbook.com/utilities/
 
+https://www.gitbook.com/editor
+
+
+
 
 
 
