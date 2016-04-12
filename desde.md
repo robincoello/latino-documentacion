@@ -6,7 +6,6 @@ desde(valor_inicial, condicion, incremento)
 fin  
 ```
 
-
 ### Mostramos del 1 al 10
 
 
