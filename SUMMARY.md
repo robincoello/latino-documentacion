@@ -11,7 +11,7 @@
    * [Lectura recomendada](lectura_recomendada.md)
 * [Teoría](teoria.md)
    * [Variables](variables.md)
-       * [constantes](constantes.md)
+       * [Constantes](constantes.md)
    * [expresiones](expresiones.md)
    * Operadores lógicos
    * Operadores comparación
