@@ -16,6 +16,8 @@ http://www.methods.co.nz/asciidoc/
 
 https://www.latex-project.org/
 
+http://hipertextual.com/archivo/2013/04/que-es-markdown/
+
 mas
 
 
