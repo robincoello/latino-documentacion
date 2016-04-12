@@ -3,6 +3,8 @@
 
 ## Si sabes leer y escribir, sabes programar! 
 
+### http://lenguaje-latino.org/
+
 Documentación en desarrollo, si quieres contribuir, eres bienvenido
 
 ### A quién está destinado?
