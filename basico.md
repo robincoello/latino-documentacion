@@ -7,7 +7,7 @@ Algunas cosas básicas para empezar a programar en Latino
 ```
 escribir("Hola Latinos")
 ```
-> También puedes usar el imprimir()
+> También puedes usar el imprimir() que es lo mismo, usa el que más te guste
 
 ```
 imprimir("Hola latinos")
