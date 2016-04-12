@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [Instalar latino](introduccion/instalar_latino.md)
    * [Básico](basico.md)
-   * [autores](autores.md)
+   * [Autores](autores.md)
    * [Latino en](latino_en.md)
        * [Notepad++](notepad++.md)
        * [Netbeans](netbeans.md)
