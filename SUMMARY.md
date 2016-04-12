@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [Instalar latino](introduccion/instalar_latino.md)
    * [autores](autores.md)
-   * Latino en
+   * [Latino en](latino_en.md)
        * Notepad++
 * [Teoría](teoria.md)
    * [variables](variables.md)
