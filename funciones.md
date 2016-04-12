@@ -46,7 +46,7 @@ fin
 
 ### Llamado de las funciones anteriores
 ```
-imprimir(promedio(3, 5)) #4
-imprimir(max(3, 5)) #5
-imprimir(min(3, 5)) #3
+escribir(promedio(3, 5)) #4
+escribir(max(3, 5)) #5
+escribir(min(3, 5)) #3
 ```
