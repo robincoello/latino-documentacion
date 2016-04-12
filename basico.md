@@ -24,8 +24,8 @@ Ejemplo
 
 ```
 escribir("Cual es tu nombre?")
-n = leer()
-escribir("Hola " . n)
+nombre = leer()
+escribir("Hola " . nombre)
 ```
 > .n Usamos para concatenar
 
