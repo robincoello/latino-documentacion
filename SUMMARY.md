@@ -7,7 +7,7 @@
    * [Latino en](latino_en.md)
        * [Notepad++](notepad++.md)
        * [Netbeans](netbeans.md)
-   * Lectura recomendada
+   * [Lectura recomendada](lectura_recomendada.md)
 * [Teoría](teoria.md)
    * [variables](variables.md)
        * [constantes](constantes.md)
