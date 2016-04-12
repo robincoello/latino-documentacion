@@ -16,7 +16,7 @@ escribir(d == 3.0)					   #falso
 escribir(lit == 'hola')				  #falso
 escribir(cad == "esto es una 'cadena'")  #verdadero
 ```
-###Desigualdad
+### Desigualdad
 ```
 escribir(l != falso)					 #verdadero
 escribir(e != 10)						#falso
