@@ -1,4 +1,4 @@
-# Operadores comparación
+# Operadores de comparación
 
 ```
 l = verdadero
