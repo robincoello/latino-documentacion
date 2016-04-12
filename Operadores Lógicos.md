@@ -6,6 +6,7 @@ f = falso
 ```
 ### && y lógico (and)
 Solo es verdadero cuando ambos miembros son verdaderos
+
 ```
 escribir(falso && falso) #falso
 escribir(verdadero && falso) #falso
