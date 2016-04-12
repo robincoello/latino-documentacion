@@ -15,8 +15,8 @@ escribir(verdadero && verdadero) #verdadero
 ### || y lógico (o)
 Solo es verdadero cuando uno de los dos miembros es verdadero
 ```
-escribir(f || f) #falso
-escribir(v || f) #verdadero
-escribir(f || v) #verdadero
-escribir(v || v) #verdadero
+escribir(falso || falso) #falso
+escribir(verdadero || falso) #verdadero
+escribir(falso || verdadero) #verdadero
+escribir(verdadero || verdadero) #verdadero
 ```
