@@ -23,7 +23,7 @@ Esto lee lo que el usuario escribe, y lo podrias asignar a una variable para pod
 Ejemplo
 
 ```
-escribir("Cual es au nombre?")
+escribir("Cual es tu nombre?")
 nombre = leer()
 escribir("Hola " . nombre)
 ```
