@@ -4,6 +4,7 @@
    * [Instalar latino](introduccion/instalar_latino.md)
    * [autores](autores.md)
    * Latino en
+       * Notepad++
 * [Teoría](teoria.md)
    * [variables](variables.md)
        * [constantes](constantes.md)
