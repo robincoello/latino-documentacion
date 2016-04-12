@@ -10,6 +10,7 @@
    * [variables](variables.md)
        * [constantes](constantes.md)
    * [expresiones](expresiones.md)
+* Básico
 * [hola mundo](hola_mundo.md)
 * [comentarios](comentarios.md)
 * [si (if)](si_if.md)
@@ -19,5 +20,4 @@
 * [desde (for)](desde.md)
 * elejir
 * [funciones](funciones.md)
-* Básico
 
