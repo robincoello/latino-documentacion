@@ -1,5 +1,5 @@
 # Funciones
-Para crear una funcion debes usar el siguente formato
+Para crear una funcion debes usar el siguente formato, siempre los argumentos que son opcionales van al final
 
 ```
 funcion nombre(argumentos)
