@@ -1,4 +1,4 @@
-# constantes
+# Constantes
 
 En latino las constantes se escribien en MAYUSCULAS
 ```
