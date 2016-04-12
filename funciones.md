@@ -1,6 +1,6 @@
 # Funciones
 Para crear una funcion debes usar el siguente formato
->  siempre los argumentos que son opcionales van al final
+> En esta versión, latino no acepta argumentos opcionales
 
 ```
 funcion nombre(argumentos)
