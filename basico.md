@@ -14,8 +14,8 @@ imprimir("Hola latinos")
 ```
 
 
-### Obtener un valor del usuario via la consola
-Si quieres interactuar con el usuario y pedirle que introdusca alguna información, puedes usar este formato para hacerlo 
+### Obtener un valor del usuario vía la consola
+Si quieres interactuar con el usuario y pedirle que introduzca alguna información, puedes usar este formato para hacerlo 
 ```
 leer()
 ```
