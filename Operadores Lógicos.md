@@ -4,7 +4,7 @@
 v = verdadero
 f = falso
 ```
-## && y lógico (and)
+### && y lógico (and)
 ```
 escribir(f && f) #falso
 escribir(v && f) #falso
