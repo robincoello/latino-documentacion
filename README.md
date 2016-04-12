@@ -18,7 +18,7 @@ A lo largo de este libro se trabajara con un ejemplos y se usará el lenguaje de
 
 
 ### Lo que necesitas para empezar
-No necesitas mayor cosa, solo el deseo de aprender, y saber que: Programando es la única forma de ser programador, y no te rindas a la primera barrera que encuentras, y claro también tener la última versión de latino
+No necesitas mayor cosa, solo el deseo de aprender, y saber que: *Programando es la única forma de ser programador*, y no te rindas a la primera barrera que encuentras, y claro también tener la última versión de latino
 
 
 ### Instalar Latino
