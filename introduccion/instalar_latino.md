@@ -4,7 +4,8 @@ Sigue los siguientes pasos:
 
 ### Windows
 
-* Copia el ejecutable latino.exe en tu computador (en cualquier carpeta que desees)
+* Carga el ejecutable latino.exe en tu computador 
+* Copialo en cualquier carpeta que desees
 * Y listo ya esta listo para trabajar
 > No ejecutes el archivo, solo copialo! 
 
