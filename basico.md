@@ -27,5 +27,5 @@ escribir("Cual es au nombre?")
 n = leer()
 escribir("Hola " . n)
 ```
-
+![Ejemplo1](ejemplo 1.png)
 
