@@ -14,6 +14,7 @@
        * [Constantes](constantes.md)
    * [Expresiones](expresiones.md)
    * [Operadores lógicos](Operadores Lógicos.md)
+       * Y lógico (and)
    * Operadores comparación
 * [hola mundo](hola_mundo.md)
 * [comentarios](comentarios.md)
