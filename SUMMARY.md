@@ -10,7 +10,7 @@
        * [Sublimetext](sublimetext.md)
    * [Lectura recomendada](lectura_recomendada.md)
 * [Teoría](teoria.md)
-   * [variables](variables.md)
+   * [Variables](variables.md)
        * [constantes](constantes.md)
    * [expresiones](expresiones.md)
    * Operadores lógicos
