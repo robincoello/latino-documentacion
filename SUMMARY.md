@@ -12,7 +12,7 @@
 * [Teoría](teoria.md)
    * [Variables](variables.md)
        * [Constantes](constantes.md)
-   * [expresiones](expresiones.md)
+   * [Expresiones](expresiones.md)
    * [Operadores lógicos](Operadores Lógicos.md)
    * Operadores comparación
 * [hola mundo](hola_mundo.md)
