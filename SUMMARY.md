@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
    * [Instalar latino](introduccion/instalar_latino.md)
+   * [Básico](basico.md)
    * [autores](autores.md)
    * [Latino en](latino_en.md)
        * [Notepad++](notepad++.md)
@@ -10,7 +11,6 @@
    * [variables](variables.md)
        * [constantes](constantes.md)
    * [expresiones](expresiones.md)
-* [Básico](basico.md)
 * [hola mundo](hola_mundo.md)
 * [comentarios](comentarios.md)
 * [si (if)](si_if.md)
