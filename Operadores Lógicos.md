@@ -12,7 +12,7 @@ escribir(v && f) #falso
 escribir(f && v) #falso
 escribir(v && v) #verdadero
 ```
-### || y lógico (and)
+### || y lógico (or)
 Solo es verdadero cuando uno de los dos miembros es verdadero
 ```
 escribir(f || f) #falso
