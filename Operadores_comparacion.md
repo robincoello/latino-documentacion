@@ -8,7 +8,7 @@ lit = 'esto es una "literal"'
 cad = "esto es una 'cadena'"
 
 ```
-###Igualdad
+### Igualdad
 ```
 escribir(l == falso)					 #falso
 escribir(e == 10)						#verdadero
