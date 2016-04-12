@@ -27,5 +27,6 @@ escribir("Cual es au nombre?")
 n = leer()
 escribir("Hola " . n)
 ```
+> .n Usamos para concatenar
 ![Ejemplo1](ejemplo 1.png)
 
