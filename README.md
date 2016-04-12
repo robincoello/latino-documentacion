@@ -14,7 +14,7 @@ Este libro está destinado a personas con muy pocos conocimientos de programaci�
 Al final de la lectura de este libro podrás ser capaz de hacer un programa informático 
 
 ### Método de enseñanza
-A lo largo de este libro se trabajara con un ejemplos y se usará el lenguaje de programación “Latino” que es un lenguaje con sintaxis en espanol
+A lo largo de este libro se trabajara con un ejemplos y se usará el lenguaje de programación “Latino” que es un lenguaje con sintaxis en español
 
 
 ### Lo que necesitas para empezar
