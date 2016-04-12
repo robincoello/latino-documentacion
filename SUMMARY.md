@@ -4,7 +4,7 @@
    * [Instalar latino](introduccion/instalar_latino.md)
    * [autores](autores.md)
    * [Latino en](latino_en.md)
-       * Notepad++
+       * [Notepad++](notepad++.md)
        * Netbeans
 * [Teoría](teoria.md)
    * [variables](variables.md)
