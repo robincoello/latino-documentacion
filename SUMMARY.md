@@ -5,6 +5,7 @@
    * [autores](autores.md)
    * [Latino en](latino_en.md)
        * Notepad++
+       * Netbeans
 * [Teoría](teoria.md)
    * [variables](variables.md)
        * [constantes](constantes.md)
