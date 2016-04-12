@@ -10,7 +10,5 @@ Sigue los siguientes pasos:
 > No ejecutes el archivo, solo copialo! 
 
 
-
-
 Para instalar latino deber ir al sitio oficial aca http://lenguaje-latino.org/descargar/
 
