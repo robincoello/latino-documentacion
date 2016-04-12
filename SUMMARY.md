@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
    * [Instalar latino](introduccion/instalar_latino.md)
+   * autores
 * [Teoría](teoria.md)
    * [variables](variables.md)
        * [constantes](constantes.md)
