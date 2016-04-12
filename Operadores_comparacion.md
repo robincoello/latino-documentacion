@@ -20,7 +20,7 @@ escribir(cad == "esto es una 'cadena'")  #verdadero
 ```
 escribir(l != falso)					 #verdadero
 escribir(e != 10)						#falso
-escribir(d != 3.0)					   #falso
+escribir(d != 3.0)					   #verdadero
 escribir(lit != 'hola')				  #verdadero
 escribir(cad != "esto es una 'cadena'")  #falso
 ```
