@@ -20,6 +20,8 @@ Para hacer videos
 https://screencast-o-matic.com/home
 http://gource.io/
 http://es.gravatar.com/
+https://frames-per-second.appspot.com/
+
 
 
 
