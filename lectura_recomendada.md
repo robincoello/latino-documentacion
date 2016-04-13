@@ -3,6 +3,9 @@
 en desarollo...
 
 
+### Notas personales de robinson 
+
+
 algunos recursos que voy a usar en este libro 
 http://styleguide.gitbook.com/utilities/
 
