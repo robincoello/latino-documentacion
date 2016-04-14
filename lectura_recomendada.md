@@ -24,6 +24,8 @@ https://frames-per-second.appspot.com/
 http://www.keenthemes.com/preview/metronic/
 http://demo.silverstripe.org/
 https://www.transifex.com/product/manage/
+http://cldr.unicode.org/index/charts
+
 
 
 
