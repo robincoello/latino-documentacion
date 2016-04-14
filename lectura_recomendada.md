@@ -24,6 +24,7 @@ en desarollo...
 * http://www.apigen.org/
 * http://www.stack.nl/~dimitri/doxygen/manual/docblocks.html
 * https://www.clientexec.com/index.php
+* http://www.patorjk.com/
 *http://www.patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something
 
 * http://asciiart.club/
