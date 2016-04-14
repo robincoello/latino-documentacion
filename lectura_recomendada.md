@@ -26,6 +26,8 @@ http://demo.silverstripe.org/
 https://www.transifex.com/product/manage/
 http://cldr.unicode.org/index/charts
 https://www.w3.org/International/questions/qa-scripts
+http://publications.europa.eu/code/en/en-5000500.htm
+
 
 
 
