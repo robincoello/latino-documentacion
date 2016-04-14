@@ -35,6 +35,10 @@ https://www.clientexec.com/index.php
 http://www.patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something
 http://asciiart.club/
 
+http://php.net/manual/es/langref.php
+
+
+
 
 
 
