@@ -36,6 +36,8 @@ http://www.patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something
 http://asciiart.club/
 
 http://php.net/manual/es/langref.php
+https://github.com/kiteco/plugins
+
 
 
 
