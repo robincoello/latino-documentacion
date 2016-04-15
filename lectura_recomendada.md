@@ -34,6 +34,11 @@ en desarollo...
 * http://www.webbizarro.com/
 * https://cordova.apache.org/
 
+
+Otras de pago
+* https://scrutinizer-ci.com/
+* 
+
  
 
 
