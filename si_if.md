@@ -28,6 +28,7 @@ si(numero >= 0 )
   escribir("El numero es potitivo")
 fin  
 ```
+{% youtube %}https://www.youtube.com/watch?v=GoPpFjNJfVE{% endyoutube %}
 
 ### Verifica si la clave es correcta
 ```
