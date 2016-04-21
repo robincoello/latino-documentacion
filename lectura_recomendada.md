@@ -34,7 +34,7 @@ en desarollo...
 * http://www.webbizarro.com/
 * https://cordova.apache.org/
 * http://gitstats.sourceforge.net/
-* http://gitstats.sourceforge.net/
+* 
 * 
 
 
