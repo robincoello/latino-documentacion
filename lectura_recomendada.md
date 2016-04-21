@@ -35,6 +35,8 @@ en desarollo...
 * https://cordova.apache.org/
 * http://gitstats.sourceforge.net/
 * 
+* Ejemplos de docummentacion
+* http://liballeg.org/a5docs/trunk/fshook.html
 * 
 
 
