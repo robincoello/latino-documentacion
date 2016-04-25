@@ -4,9 +4,6 @@
 2. * LATINO.tmLanguage
 3. * LATINO.YAML-tmLanguage
 4. Los puedes ver en [Sublime Text 3 Syntax](https://github.com/primitivorm/latino/tree/master/SublimeTextSyntax)
-2. Copiar los archivos
-3. * LATINO.tmLanguage
-4. * LATINO.YAML-tmLanguage
 3. Abrir **Sublime Text 3**
 4. Menu **Preferences** > **Browse Package..**
 5. Pegar los archivos copiados en **User**
