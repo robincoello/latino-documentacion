@@ -1,6 +1,9 @@
 #Como instalar
 
-1. Usa los Archivos **LATINO.tmLanguage** y **LATINO.YAML-tmLanguage**.Los puedes ver en [Sublime Text 3 Syntax](https://github.com/primitivorm/latino/tree/master/SublimeTextSyntax)
+1. Usa los Archivos:
+2. * LATINO.tmLanguage
+3. * LATINO.YAML-tmLanguage
+4. Los puedes ver en [Sublime Text 3 Syntax](https://github.com/primitivorm/latino/tree/master/SublimeTextSyntax)
 2. Copiar los archivos **LATINO.tmLanguage** y **LATINO.YAML-tmLanguage**
 3. Abrir **Sublime Text 3**
 4. Menu **Preferences** > **Browse Package..**
