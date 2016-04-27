@@ -17,7 +17,10 @@ var = 250.5
 var = 12
 ```
 
-### Valor lógico, verdadero
+### Valor lógico o boleano
+El valor v
+
+verdadero
 ```
 var = verdadero
 var = v
