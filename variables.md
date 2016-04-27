@@ -18,7 +18,7 @@ var = 12
 ```
 
 ### Valor lógico o booleano
-El valor boleano no es otra cosa que una algo puede ser verdadero o falso, 
+El valor boleano no es otra cosa que una algo puede ser verdadero o falso, en este caso una variable. 
 
 verdadero
 ```
