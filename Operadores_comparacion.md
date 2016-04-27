@@ -1,9 +1,9 @@
 # Operadores de comparación
 
 ```
-l = verdadero
-e = 10
-d = 3.14
+l = verdadero # letras 
+e = 10 # entero
+d = 3.14 # decimal 
 lit = 'esto es una "literal"'
 cad = "esto es una 'cadena'"
 
