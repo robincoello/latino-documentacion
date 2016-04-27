@@ -75,7 +75,8 @@ escribir(e / e) #da como resultado el entero 1
 
 ###entero / decimal
 ```
-escribir(e / e) #da como resultado el decimal 0.099502487562189
+escribir(e / e) 
+#da como resultado el decimal 0.099502487562189
 ```
 
 ###decimal / entero
