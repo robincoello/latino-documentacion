@@ -1,9 +1,7 @@
 # Operadores lógicos
 
-```
-v = verdadero
-f = falso
-```
+
+
 ### && y lógico (and)
 Solo es verdadero cuando ambos miembros son verdaderos
 
