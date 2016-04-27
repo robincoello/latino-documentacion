@@ -51,12 +51,12 @@ escribir(e* e) #da como resultado el decimal 1
 
 ### entero * decimal
 ``` 
-escribir(i * d) #da como resultado el decimal 10.05
+escribir(e * d) #da como resultado el decimal 10.05
 ```
 
 ###decimal * entero
 ``` 
-escribir(d * i) #da como resultado el decimal 10.05
+escribir(d * e) #da como resultado el decimal 10.05
 ```
 
 ###decimal * decimal
@@ -66,17 +66,17 @@ escribir(d * 0.5) #da como resultado el decimal 5.025
 
 ###entero / entero
 ```
-escribir(i / i) #da como resultado el entero 1
+escribir(e / e) #da como resultado el entero 1
 ```
 
 ###entero / decimal
 ```
-escribir(i / d) #da como resultado el decimal 0.099502487562189
+escribir(e / e) #da como resultado el decimal 0.099502487562189
 ```
 
 ###decimal / entero
 ```
-escribir(d / i) #da como resultado el entero 10
+escribir(d / e) #da como resultado el entero 10
 ```
 
 ###decimal / decimal
