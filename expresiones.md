@@ -13,7 +13,8 @@ escribir(e + e)  #a 1 se le suma 1 da como resultado 2
 
 ###entero + decimal
 ``` 
-escribir(e + d) #a 1 se le suma 10.05 da como resultado 11.05
+escribir(e + d) 
+#a 1 se le suma 10.05 da como resultado 11.05
 ```
 
  ###decimal + entero
@@ -32,7 +33,8 @@ escribir(e- (-1))  #a 1 se le resta -1 da como resultado 2
 ```
 ###entero - decimal
 ``` 
-escribir(e- d) #a 1 se le suma 10.05 da como resultado -9.05
+escribir(e- d) 
+#a 1 se le suma 10.05 da como resultado -9.05
 ```
 
 ###decimal - entero
@@ -46,12 +48,14 @@ escribir(d - 0.05) #da como resultado el decimal 10
 ```
 ###entero * entero
 ```
-escribir(e* e) #da como resultado el decimal 1
+escribir(e* e) 
+#da como resultado el decimal 1
 ```
 
 ### entero * decimal
 ``` 
-escribir(e * d) #da como resultado el decimal 10.05
+escribir(e * d) 
+#da como resultado el decimal 10.05
 ```
 
 ###decimal * entero
