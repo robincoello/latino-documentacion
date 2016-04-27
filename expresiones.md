@@ -46,7 +46,7 @@ escribir(d - 0.05) #da como resultado el decimal 10
 ```
 ###entero * entero
 ```
-escribir(i * i) #da como resultado el decimal 1
+escribir(e* e) #da como resultado el decimal 1
 ```
 
 ### entero * decimal
