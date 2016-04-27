@@ -17,8 +17,8 @@ var = 250.5
 var = 12
 ```
 
-### Valor lógico o boleano
-El valor v
+### Valor lógico o booleano
+El valor boleano no es otra cosa que una algo puede ser verdadero o falso, 
 
 verdadero
 ```
