@@ -39,7 +39,7 @@ escribir(e- d)
 
 ###decimal - entero
 ``` 
-escribir(d - i) #da como resultado el decimal 9.05
+escribir(d - e) #da como resultado el decimal 9.05
 ```
 
 ###decimal - decimal
@@ -75,7 +75,7 @@ escribir(e / e) #da como resultado el entero 1
 
 ###entero / decimal
 ```
-escribir(e / e) 
+escribir(e / d) 
 #da como resultado el decimal 0.099502487562189
 ```
 
