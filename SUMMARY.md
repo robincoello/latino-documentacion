@@ -25,5 +25,5 @@
 * [funciones](funciones.md)
    * Lectura
 * elejir
-* Lectura
+* [Lectura](lectura.md)
 
