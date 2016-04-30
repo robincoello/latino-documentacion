@@ -22,8 +22,8 @@
 * [mientras ( while)](mientras__while.md)
 * [hacer (do)](hacer_do.md)
 * [desde (for)](desde.md)
-* elejir
-* Lectura
 * [funciones](funciones.md)
    * Lectura
+* elejir
+* Lectura
 
