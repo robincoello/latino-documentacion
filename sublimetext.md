@@ -1,6 +1,5 @@
 #Sublime text
-Sublime text ( https://www.sublimetext.com/ ) es un IDE (interfase de desarrollo) osea un programa con el cual puedes trabajar para programar en latino y en otros lenguajes, aca te muestro como debes hacer para que en sublime text el código de latino se vea coloreado cuando trabajas con el.
-
+Sublime text ( https://www.sublimetext.com/ ) es un IDE más que puedes usar para trabajar con "Latino" 
 
 
 1. Usa los Archivos:
