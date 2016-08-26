@@ -8,6 +8,7 @@
        * [Notepad++](notepad++.md)
        * [Netbeans](netbeans.md)
        * [Sublime Text](sublimetext.md)
+       * Atom
    * [Lectura recomendada](lectura_recomendada.md)
 * [Teoría](teoria.md)
    * [Variables](variables.md)
