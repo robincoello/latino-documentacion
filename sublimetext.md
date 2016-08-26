@@ -1,4 +1,7 @@
-#Como instalar
+#Sublime text
+Sublime text ( https://www.sublimetext.com/ ) es un IDE (interfase de desarrollo) osea un programa con el cual puedes trabajar para programar en latino y en otros lenguajes, aca te muestro como debes hacer para que en sublime text el código de latino se vea coloreado cuando trabajas con el.
+
+
 
 1. Usa los Archivos:
 2. * LATINO.tmLanguage
