@@ -3,9 +3,9 @@ Sublime text ( https://www.sublimetext.com/ ) es un IDE más que puedes usar par
 
 
 
-    Descargar en https://github.com/lenguaje-latino/latino-sublimetext-plugin
-    Copiar los archivos LATINO.tmLanguage y LATINO.YAML-tmLanguage
-    Abrir Sublime Text 3
-    Menu Preferences > Browse Package..
-    Pegar los archivos copiados en User
-    Reiniciar Sublime Text 3
+* Descargar en https://github.com/lenguaje-latino/latino-sublimetext-plugin
+* Copiar los archivos LATINO.tmLanguage y LATINO.YAML-tmLanguage
+* Abrir Sublime Text 3
+* Menu Preferences > Browse Package..
+* Pegar los archivos copiados en User
+* Reiniciar Sublime Text 3
