@@ -1,4 +1,4 @@
-# Autores
+# Autor
 Este libro fue escrito por:
 * Róbinson E. Coello Sánchez
 Av de la liberté 208
