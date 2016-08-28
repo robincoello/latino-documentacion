@@ -6,7 +6,7 @@ Bruselas - Bélgica
 Email: robincoello@hotmail.com
 Tel: 0474624707
 
-Colaboraron también:
+####Colaboraron también:
 * Dionny Prensa
 * 
 
