@@ -1,5 +1,5 @@
 # Básico
-Algunas cosas básicas para empezar a programar en Latino
+Algunas cosas básicas a tomar en cuenta para empezar a programar en Latino
 
 
 ### Extención de latino .lat
