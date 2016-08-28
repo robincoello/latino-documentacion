@@ -40,4 +40,3 @@ escribir("Hola " . nombre)
 > El punto '.' lo usamos para contatenar (para juntar)
 
 ![Ejemplo1](ejemplo 1.png)
-
