@@ -19,10 +19,10 @@ Lo interesante es que podemos convinar muchas maneras de comparar dentro del si,
 ### valor lógico directo
 ```
 si(verdadero)
-    escribir("es verdadero")
+    escribir("Si, la comparación dio verdadero")
 fin
 ```
-Aqui la comparacion se realiza con los valores lógicos 'verdadero | falso '  
+Aqui la comparacion se realiza con los valores lógicos 'verdadero | falso '   
 
 
 ### asignado a una variable
