@@ -16,7 +16,7 @@ Aquí tenemos tres lineas de código, en la primera ```si( 10 > 0 )``` realizamo
 
 Lo interesante es que podemos convinar muchas maneras de comparar dentro del si, ejemplo: 
 
-### valor lógico directo
+### Valor lógico directo
 ```
 si(verdadero)
     escribir("Si, la comparación dio verdadero")
@@ -24,7 +24,7 @@ fin
 ```
 Aqui la comparacion se realiza con los valores lógicos 'verdadero | falso '   
 
-
+Tambié se puede hacer de la siqguiente manera:
 ### asignado a una variable
 ```
 b = verdadero
