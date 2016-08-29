@@ -22,11 +22,12 @@ si(verdadero)
     escribir("Si, la comparación dio verdadero")
 fin
 ```
-Aqui la comparacion se realiza con los valores lógicos 'verdadero | falso '   
+Aqui la comparación se realiza con los valores lógicos buleanos 'verdadero | falso '   
 
-Tambié se puede hacer de la siqguiente manera:
+
 ### asignado a una variable
 ```
+El valor 
 b = verdadero
 si(b)
     escribir("es verdad")
