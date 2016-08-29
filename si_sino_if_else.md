@@ -10,6 +10,13 @@ sino
 fin
 ```
 
+Veamos un ejemplo
+
+
+
+
+
+
 ### valor lógico directo
 ```
 si(verdadero)
