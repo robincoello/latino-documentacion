@@ -6,12 +6,12 @@ Puedes usar de tres maneras los comentarios, con dos lineas inclinadas // con la
 ###Ejemplos: 
 
 ```
-# esto es un comentario en una linea
+# esto es un comentario de una linea
 ```
 
 ```
 // esto es otro comentario de una linea
-// esta es otra linea de cmentario
+// esta es otra linea de comentario
 ```
 
 ```
