@@ -19,6 +19,7 @@ sino
  escribir("No, no es mayor a cero")
 fin 
 ```
+En este caso en la primera linea del código hacemos la comparación, si esta es correcta ejecutamos lo que esta entre el 'si' y el 'sino' y si es incorrecta ejecutamos lo que esta entre el 'sino' y 'fin'
 
 
 
