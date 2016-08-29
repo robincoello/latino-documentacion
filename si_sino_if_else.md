@@ -12,6 +12,14 @@ fin
 
 Veamos un ejemplo
 
+```
+si( 10 > 0 )
+ escribir("Si, es mayor a cero")
+sino
+ escribir("No, no es mayor a cero")
+fin 
+```
+
 
 
 
