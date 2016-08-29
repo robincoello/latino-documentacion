@@ -34,7 +34,7 @@ si(b)
     escribir("es verdad")
 fin
 ```
-Otros ejemplo
+Otros ejemplos
 
 ### Verifica si un número es positivo
 ```
