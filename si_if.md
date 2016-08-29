@@ -14,11 +14,7 @@ fin
 ```
 Aquí tenemos tres lineas de código, en la primera ```si( 10 > 0 )``` realizamos la comparación si esta nos da correcto ejecutamos todas las lineas hasta llegar al 'fin', en este ejemplo 10 si es mayor a 0, asi que ejecutamos el código ```escribir('Si, es mayor')``` y en la tercer linea nos indica el final con la palabra 'fin'
 
-
-
-
-
-
+Lo interesante es que podemos convinar muchas maneras de comparar dentro del si, ejemplo: 
 
 ### valor lógico directo
 ```
@@ -26,6 +22,8 @@ si(verdadero)
     escribir("es verdadero")
 fin
 ```
+Aqui la comparacion se realiza con los valores lógicos 'verdadero | falso '  
+
 
 ### asignado a una variable
 ```
