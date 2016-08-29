@@ -6,6 +6,20 @@ si( condicion )
   codigo a ejecutarse
 fin
 ```
+### Ejemplo
+```
+si( 10 > 0 )
+ escribir('Si, es mayor')
+ escribir('***********')
+fin
+```
+Aquí tenemos tres lineas de código, en la primera ```si( 10 > 0 )``` realizamos la comparación si esta nos da correcto ejecutamos todas las lineas hasta llegar al 'fin', en este ejemplo 10 si es mayor a 0, asi que ejecutamos el código ```escribir('Si, es mayor')``` 
+
+
+
+
+
+
 
 ### valor lógico directo
 ```
