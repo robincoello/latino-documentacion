@@ -1,5 +1,6 @@
 # si (if)
-Verifica si la condición se cumple y ejecuta el código
+si,se usa para hacer una comparación si esta comparación es correcta se ejecuta el código que esta entre la palabra reserada 'si' y la palabra reservada 'fin', si la comparación es incorrecta el código simplemente es ingnorado. 
+
 ```
 si( condicion )
   codigo a ejecutarse
