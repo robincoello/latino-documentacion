@@ -1,12 +1,12 @@
-# si sino (if else)
+NO# si sino (if else)
 Esta es una extención del 'si', recordemos que con el 'si' si la condición no se cumple obiamos el código que esta entre el 'si' y 'fin' pero en ocaciones necesitamos hacer algo si la condición no se cumple y asi es para esto el 'sino'
 
 Su extructura es la siguiente
 ```
 si( condicion )
-  codigo a ejecutarse si se cumple la condición
+  codigo a ejecutarse SI se cumple la condición
 sino
-  código a ejecutarse cuando no se cumple la condición
+  código a ejecutarse cuando NO se cumple la condición
 fin
 ```
 
