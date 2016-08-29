@@ -27,12 +27,14 @@ Aqui la comparación se realiza con los valores lógicos buleanos 'verdadero | f
 
 ### asignado a una variable
 ```
-El valor 
+El valor buleano se puede estar en una variable asi: 
+
 b = verdadero
 si(b)
     escribir("es verdad")
 fin
 ```
+Otros ejemplo
 
 ### Verifica si un número es positivo
 ```
