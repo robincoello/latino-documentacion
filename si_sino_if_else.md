@@ -6,7 +6,7 @@ Su extructura es la siguiente
 si( condicion )
   codigo a ejecutarse si se cumple la condición
 sino
-  código a ejecutarse si no se cumple la condición
+  código a ejecutarse cuando no se cumple la condición
 fin
 ```
 
