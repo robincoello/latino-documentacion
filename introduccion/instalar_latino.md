@@ -9,6 +9,15 @@ Sigue los siguientes pasos:
 * Y listo ya esta listo para trabajar
 > No ejecutes el archivo, solo copialo! 
 
+### Linux
+```
+git clone https://github.com/primitivorm/latino
+cd latino
+cmake .
+make
+sudo make install
+```
+
 
 Para instalar latino deber ir al sitio oficial aca http://lenguaje-latino.org/descargar/
 
