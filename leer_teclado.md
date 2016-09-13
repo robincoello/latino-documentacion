@@ -1,5 +1,5 @@
 # Leer teclado
-Esto se usa cuando deseas pasar un valor atravezla consola
+Esto se usa cuando deseas pasar un valor atravez la consola
 
 ```
 escribir("Cómo te llamas?")
