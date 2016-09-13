@@ -12,9 +12,6 @@ Para hacer el llamado a la funcion se usa el siguiente formato
 nombre_funcion(argumentos)
 ```
 
-
-
-
 ### Ejemplo de funciones
 
 ```
