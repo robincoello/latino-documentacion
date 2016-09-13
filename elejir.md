@@ -3,7 +3,7 @@ Si tenemos una compararación a ralizar con más de tres opciones posibles, esta
 
 ```
 ciudad = 'Quito'
-elegir(i)
+elegir(ciudad)
   caso 0:
       escribir("i vale 0")
   caso 1:
