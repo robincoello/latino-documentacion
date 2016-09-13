@@ -38,6 +38,7 @@ fin
 ```
 
 ```
+// paso dos valores y me da el más chico
 funcion min(a,b)
     si (a < b)
         retorno a
