@@ -7,8 +7,11 @@ funcion nombre(argumentos)
   código interno a la funcion
 fin
 ```
+
 Para hacer el llamado a la funcion se usa el siguiente formato
+
 ```
+// lamamos la funcin
 nombre_funcion(argumentos)
 ```
 
