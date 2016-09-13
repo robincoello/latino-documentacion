@@ -20,6 +20,7 @@ nombre_funcion(argumentos)
 ### Ejemplo de funciones
 
 ```
+// me calcula el promedio de dos valores dados
 funcion promedio(a,b)
     retorno (a+b)/2
 fin
