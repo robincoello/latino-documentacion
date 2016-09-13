@@ -4,8 +4,8 @@ Si tenemos una compararación a ralizar con más de tres opciones posibles, esta
 ```
 ciudad = 'Quito'
 elegir(ciudad)
-  caso 0:
-      escribir("i vale 0")
+  caso 'Quito':
+      escribir("Estas en Peru")
   caso 1:
       escribir("i vale 1")
   caso 2:
