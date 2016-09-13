@@ -26,7 +26,6 @@ funcion promedio(a,b)
     retorno (a+b)/2
 fin
 ```
-
 ```
 // paso dos valores y me da el valor más alto
 funcion max(a,b)
