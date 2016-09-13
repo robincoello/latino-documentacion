@@ -9,8 +9,8 @@ elegir(ciudad)
   caso 1:
       escribir("Estas en Mexico")
   caso 2:
-      escribir("i vale 2")
+      escribir("Estas en Venezuela")
   defecto:
-      escribir("i vale 100")
+      escribir("Estas en Colombia")
 fin
 ```
