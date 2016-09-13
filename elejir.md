@@ -8,12 +8,12 @@ elegir(ciudad)
   caso 'Lima':
       escribir("Estas en Peru")
   caso 'Quito':
-      escribir("Estas en Peru")      
+      escribir("Estas en Ecuador")      
   caso 'Cancun':
       escribir("Estas en Mexico")
   caso 'Caracas':
       escribir("Estas en Venezuela")
-  caso 'Caracas':
+  caso 'Cali':
       escribir("Estas en Colombia")      
   defecto:
       escribir("No se donde estas")
