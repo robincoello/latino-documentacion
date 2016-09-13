@@ -11,7 +11,7 @@ Documentación en desarrollo, si quieres contribuir, eres bienvenido
 Este libro está destinado a personas con muy pocos conocimientos de programación, explicaremos conceptos informáticos sin mucha complicación
 
 ### Objetivo
-Al final de la lectura de este libro podrás ser capaz de hacer un programa informático 
+Al final de la lectura de este libro podrás ser capaz de hacer un programa informático usando 'Latino' como lenguaje de progrmacùon
 
 ### Método de enseñanza
 A lo largo de este libro se trabajara con un ejemplos y se usará el lenguaje de programación “Latino” que es un lenguaje con sintaxis en español
