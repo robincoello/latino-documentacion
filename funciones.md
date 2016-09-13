@@ -49,6 +49,7 @@ funcion min(a,b)
 fin
 ```
 
+Y ahora para poder ejecutar o hacer el llamado a estas funciones 
 
 ### Llamado de las funciones anteriores
 ```
