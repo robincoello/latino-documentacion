@@ -29,4 +29,5 @@
 * [Leer teclado](leer_teclado.md)
 * [Ejecutar archivo](ejecutar_archivo.md)
 * [Escribir Archivo](escribir_archivo.md)
+* Leer archivo
 
