@@ -26,5 +26,4 @@
 * [funciones](funciones.md)
 * [elejir](elejir.md)
 * [Lectura](lectura.md)
-* Hola mundo
 
