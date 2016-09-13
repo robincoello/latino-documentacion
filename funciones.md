@@ -27,6 +27,7 @@ fin
 ```
 
 ```
+// paso dos valores y me da el valor más alto de los dos
 funcion max(a,b)
     si (a > b)
         retorno a
