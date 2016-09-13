@@ -24,6 +24,5 @@
 * [hacer (do)](hacer_do.md)
 * [desde (for)](desde.md)
 * [funciones](funciones.md)
-* [elejir](elejir.md)
 * [Lectura](lectura.md)
 
