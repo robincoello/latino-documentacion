@@ -48,10 +48,8 @@ funcion min(a,b)
     fin
 fin
 ```
-
-Y ahora para poder ejecutar o hacer el llamado a estas funciones 
-
 ### Llamado de las funciones anteriores
+Y ahora para poder ejecutar o hacer el llamado de las funciones debemos hacerlo así:
 ```
 escribir(promedio(3, 5)) #4
 escribir(max(3, 5)) #5
