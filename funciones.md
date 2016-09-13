@@ -1,4 +1,5 @@
 # Funciones
+Una función nos permite crear un pedazo de código el cual podemos ejecutarlo en otra parte tantas veces lo deseamos, 
 Para crear una funcion debes usar el siguente formato
 > En esta versión, latino no acepta argumentos opcionales
 
