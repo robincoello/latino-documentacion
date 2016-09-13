@@ -3,6 +3,6 @@
 Se usa para ejecutar código que se encuentra en otro archivo
 
 ```
-ejecutar_archivo("modulo.lat")
+ejecutar_archivo("archivo.lat")
 ```
 
