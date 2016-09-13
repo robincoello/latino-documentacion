@@ -7,7 +7,7 @@ elegir(ciudad)
   caso 'Quito':
       escribir("Estas en Peru")
   caso 1:
-      escribir("i vale 1")
+      escribir("Estas en Mexico")
   caso 2:
       escribir("i vale 2")
   defecto:
