@@ -2,7 +2,7 @@
 Si tenemos una compararación a ralizar con más de tres opciones posibles, esta es la mejor solución;
 
 ```
-edad = 2
+ciudad = 2
 elegir(i)
   caso 0:
       escribir("i vale 0")
