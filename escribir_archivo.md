@@ -1,5 +1,5 @@
 # Escribir Archivo
-Para crear aun archivo 
+Para crear aun archivo, debes indicar la ruta y su contenido
 
 ```
 contenido = "prueba de escritura de archivo \n desde Latino"
