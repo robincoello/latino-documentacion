@@ -3,14 +3,17 @@ Si tenemos una compararación a ralizar con más de tres opciones posibles, esta
 
 ```
 ciudad = 'Quito'
+
 elegir(ciudad)
   caso 'Quito':
       escribir("Estas en Peru")
-  caso 1:
+  caso 'Cancun':
       escribir("Estas en Mexico")
-  caso 2:
+  caso 'Caracas':
       escribir("Estas en Venezuela")
+  caso 'Caracas':
+      escribir("Estas en Colombia")      
   defecto:
-      escribir("Estas en Colombia")
+      escribir("No se donde estas")
 fin
 ```
