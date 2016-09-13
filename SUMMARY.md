@@ -25,4 +25,5 @@
 * [desde (for)](desde.md)
 * [funciones](funciones.md)
 * [Lectura](lectura.md)
+* Elejir
 
