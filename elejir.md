@@ -1,5 +1,5 @@
 # Elejir
-Si tenemos una compararación a ralizar con más de tres opciones posibles, esta es la mejor solución;
+Si tenemos una compararación a ralizar con más de tres opciones posibles, esta es la mejor solución, se hace la comparación con cada caso posible, una vez encontrado simplemente ejecuta el código de ese caso y sale de ```elejir ```
 
 ```
 ciudad = 'Quito'
