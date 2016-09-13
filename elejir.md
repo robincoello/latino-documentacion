@@ -1,10 +1,12 @@
 # elejir
-
+```
 c = 'y'
 elegir(c)
 defecto:
      escribir("default")
 fin
+```
+
 #salida: default
 
 ## un solo caso
