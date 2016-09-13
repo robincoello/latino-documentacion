@@ -18,6 +18,7 @@ nombre_funcion(argumentos)
 ```
 
 ### Ejemplo de funciones
+Vamos a crear tres funciones
 
 ```
 // me calcula el promedio de dos valores dados
