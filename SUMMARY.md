@@ -27,5 +27,5 @@
 * [Lectura](lectura.md)
 * [Elejir](elejir.md)
 * [Leer teclado](leer_teclado.md)
-* Ejecutar archivo
+* [Ejecutar archivo](ejecutar_archivo.md)
 
