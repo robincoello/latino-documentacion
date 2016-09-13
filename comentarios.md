@@ -1,5 +1,5 @@
 # Comentarios
-Los comentarios son lineas que tu escribes en el código como notas, solo para recordar algo, explicar para que sirve el código, dejar alguna nota para tu colega de trabajo, estas lineas no son tomadas en cuenta en la ejecución del código,  su formato es el siguiente.
+Los comentarios son lineas que tu escribes en el código como notas, solo para recordar algo, explicar para que sirve el código, dejar alguna nota para tu colega de trabajo, esmuy practico cuendo regresas al códigos después de varios meses, estas lineas no son tomadas en cuenta en la ejecución del código,  su formato es el siguiente.
 
 
 ###Ejemplos: 
