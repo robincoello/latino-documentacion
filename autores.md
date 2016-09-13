@@ -1,7 +1,7 @@
 # Autores
 
 Este libro fue escrito por:
-Róbinson E. Coello Sánchez
+**Róbinson E. Coello Sánchez**
 Av de la liberté 208
 Bruselas - Bélgica
 Email: robincoello@hotmail.com
