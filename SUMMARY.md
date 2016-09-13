@@ -26,5 +26,5 @@
 * [funciones](funciones.md)
 * [Lectura](lectura.md)
 * [Elejir](elejir.md)
-* Leer teclado
+* [Leer teclado](leer_teclado.md)
 
