@@ -1,5 +1,6 @@
 # mientras ( while)
-Mientras una condición se cumpla, se ejecutara el código repetidasveces hasta que ya no se cumpla
+Mientras una condición se cumpla, se ejecutara el código repetidas veces hasta que ya no se cumpla, suele estar siempre acompañado de un contador u otra forma para que la condición cambie sino tendriamos un código de ejecución infinita.
+
 ```
 mientras (condicion)
   codigo a ejecutarse
