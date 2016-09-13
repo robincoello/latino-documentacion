@@ -5,8 +5,10 @@ Si tenemos una compararación a ralizar con más de tres opciones posibles, esta
 ciudad = 'Quito'
 
 elegir(ciudad)
-  caso 'Quito':
+  caso 'Lima':
       escribir("Estas en Peru")
+  caso 'Quito':
+      escribir("Estas en Peru")      
   caso 'Cancun':
       escribir("Estas en Mexico")
   caso 'Caracas':
