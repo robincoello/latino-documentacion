@@ -1,6 +1,8 @@
 # Elejir
+Si tenemos una compararación a ralizar con más de tres opciones posibles, esta es la mejor solución;
+
 ```
-i = 2
+edad = 2
 elegir(i)
   caso 0:
       escribir("i vale 0")
