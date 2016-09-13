@@ -2,9 +2,11 @@
 'si',se usa para hacer una comparación si esta comparación es correcta se ejecuta el código que esta entre la palabra reserada 'si' y la palabra reservada 'fin', si la comparación es incorrecta el código simplemente es ingnorado y pasa a la siguiente linea de código 
 
 ```
+...
 si( condicion )
   codigo a ejecutarse
 fin
+...
 ```
 ### Ejemplo
 ```
