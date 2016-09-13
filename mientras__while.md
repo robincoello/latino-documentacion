@@ -1,5 +1,5 @@
 # mientras ( while)
-Mientras una condición se cumpla, se ejecutara el código
+Mientras una condición se cumpla, se ejecutara el código hasta q ya no se cumpla
 ```
 mientras (condicion)
   codigo a ejecutarse
