@@ -8,7 +8,7 @@ fin
 ```
 
 ### Mostramos del 1 al 10
-
+Este es un contador, lo ponemos en cero, y mientras el contador sea inferior a 10, a cada vuelta incrementamos el contador en uno
 
 ```
 desde(i=0; i<10; i++)
