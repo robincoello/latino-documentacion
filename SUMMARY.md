@@ -30,5 +30,5 @@
 * [Ejecutar archivo](ejecutar_archivo.md)
 * [Escribir Archivo](escribir_archivo.md)
 * [Leer archivo](leer_archivo.md)
-* Ejercicios
+* [Ejercicios](ejercicios.md)
 
