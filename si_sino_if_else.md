@@ -1,4 +1,4 @@
-NO# si sino (if else)
+# si sino (if else)
 Esta es una extención del 'si', recordemos que con el 'si' si la condición no se cumple obiamos el código que esta entre el 'si' y 'fin' pero en ocaciones necesitamos hacer algo si la condición no se cumple y asi es para esto el 'sino'
 
 Su extructura es la siguiente
