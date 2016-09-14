@@ -5,7 +5,7 @@ Atom [https://atom.io/](https://atom.io/) es otro IDE (interfase de desarrollo) 
 
 Debemos tener instalado Atom, podemos descargar la versión correspondiente para nuestro sistema operativo desde la pagina oficial de Atom
 
-Ahora seguimos las siguientes instrucciones:
+###Ahora seguimos las siguientes instrucciones:
 
     Abra su editor de texto Atom
     Clic en el menu Archivo->Preferencias (File->Settings) o Editar->Preferencias (Edit->Settings) dependiendo su sistema operativo
