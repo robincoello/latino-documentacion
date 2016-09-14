@@ -7,3 +7,7 @@ Para instalar el pluging de coloración de código hs lo siguiente:
 * Reinicia Atom 
 * Ctlr + Alt + R
 
+Puedes ver un video de instalación en: 
+https://www.youtube.com/watch?v=7UgRF9y0czo
+
+
