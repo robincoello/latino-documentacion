@@ -13,7 +13,6 @@ Debemos tener instalado Atom, podemos descargar la versión correspondiente para
 * Clic en Instalar (Install)como instalar plugin language-latino
 * Abra un archivo de Latino extension (*.lat)
 * Podemos observar que ahora nos muestra el resaltado de sintaxis en colores
-Saludos
 
 
 
