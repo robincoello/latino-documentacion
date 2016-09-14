@@ -1,4 +1,4 @@
-# Atom
+#Atom
 Atom [https://atom.io/](https://atom.io/) es otro IDE (interfase de desarrollo) y latino tiene ya la coloración del código con Atom;
 
 ###Prerequisitos:
@@ -13,8 +13,7 @@ Debemos tener instalado Atom, podemos descargar la versión correspondiente para
 * Clic en Instalar (Install)como instalar plugin language-latino
 * Abra un archivo de Latino extension (*.lat)
 * Podemos observar que ahora nos muestra el resaltado de sintaxis en colores
-
-    Saludos
+Saludos
 
 
 
