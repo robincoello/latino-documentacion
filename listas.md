@@ -14,7 +14,18 @@ escribir(colores[0])
 
 ```
 
-Algo raro? por que cero  [0]
+Te parece raro? bueno talvez paresca raro pero hay una pequeña astucia, en la lista de colores debemos hacer diferencia entre la ***cantidad*** de colores que tenemos y la posición del color en la lista: (el indice).
+
+La **cantidad** de colores (elementos) que tiene la lista, hace referencia a ***cuantos*** elementos (colores) tenemos en la lista, y evidentemente empezamos a contar desde el 1, en nuestro ejemplo tenemos 5 colores.
+
+El ***indice*** es la posición que un color (elemento) ocupa en la lista, y se empieza con la posición cero, así que en nuestro ejemplo podriamos decir que el color blanco esta en la: 
+
+* Posicion 0 = blanco
+* Posición 1 = negro
+* Posición 2 = negro
+* Posición 3 = negro
+* Posición 4 = negro
+*  
 
 
 Otro ejemplo
