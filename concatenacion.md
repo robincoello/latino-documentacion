@@ -1,4 +1,5 @@
 # Concatenación
+
 Para unir o concatenar puedes usar el punto: .
 
 ```
