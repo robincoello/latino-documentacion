@@ -16,6 +16,7 @@
    * [Expresiones](expresiones.md)
    * [Operadores lógicos](Operadores Lógicos.md)
    * [Operadores comparación](Operadores_comparacion.md)
+   * Concatenación
 * [hola mundo](hola_mundo.md)
 * [comentarios](comentarios.md)
 * [si (if)](si_if.md)
