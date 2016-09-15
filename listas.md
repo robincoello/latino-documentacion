@@ -24,8 +24,7 @@ El ***indice*** es la posición que un color (elemento) ocupa en la lista, y se 
 * Posición 1 = negro
 * Posición 2 = amarillo
 * Posición 3 = azul
-* Posición 4 = rojo
-*  
+* Posición 4 = rojo  
 
 
 Otro ejemplo
