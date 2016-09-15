@@ -9,11 +9,12 @@ colores = ['blanco','negro','amarillo','azul','rojo']
 Así si quiero acceder al color blanco ```colores[0]```
 
 ```
-colores[0]
 // y para imprimirlo en pantalla
 escribir(colores[0])
 
 ```
+
+
 
 
 Otro ejemplo
