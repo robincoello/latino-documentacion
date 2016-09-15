@@ -5,5 +5,9 @@ Son extructuras muy practicas para cuando deseamos agrupar elementos, vamos a da
 colores = ['blanco','negro','amarillo','azul','rojo']
 ```
 
+Otro ejemplo
 
+```
+estudiantes = ["Pedro","Ana","Luis","Carlos","Maria"]
+```
 
