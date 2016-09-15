@@ -1,3 +1,4 @@
+
 # Listas
 Son extructuras muy practicas para cuando deseamos agrupar elementos, vamos a dar un ejemplo:
 
@@ -5,11 +6,10 @@ Son extructuras muy practicas para cuando deseamos agrupar elementos, vamos a da
 colores = ['blanco','negro','amarillo','azul','rojo']
 ```
 
-Así si quiero acceder al color blanco hago: 
+Así si quiero acceder al color blanco ```colores[0]```
 
 ```
 colores[0]
-
 // y para imprimirlo en pantalla
 escribir(colores[0])
 
