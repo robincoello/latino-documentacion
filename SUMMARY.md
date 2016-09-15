@@ -29,11 +29,11 @@
 * [desde (for)](desde.md)
 * [funciones](funciones.md)
 * [Listas](listas.md)
-* [Lectura](lectura.md)
 * [Elejir](elejir.md)
 * [Leer teclado](leer_teclado.md)
 * [Ejecutar archivo](ejecutar_archivo.md)
 * [Escribir Archivo](escribir_archivo.md)
 * [Leer archivo](leer_archivo.md)
+* [Lectura](lectura.md)
 * [Ejercicios](ejercicios.md)
 
