@@ -14,7 +14,7 @@ escribir(colores[0])
 
 ```
 
-Te parece raro? bueno talvez paresca raro pero hay una pequeña astucia, en la lista de colores debemos hacer diferencia entre la ***cantidad*** de colores que tenemos y la posición del color en la lista: (el indice).
+Te parece raro? bueno talvez paresca raro pero hay una pequeña astucia, en la lista de colores debemos hacer diferencia entre la ***cantidad*** de colores que tenemos y la **posición** del color en la lista: (el indice).
 
 La **cantidad** de colores (elementos) que tiene la lista, hace referencia a ***cuantos*** elementos (colores) tenemos en la lista, y evidentemente empezamos a contar desde el 1, en nuestro ejemplo tenemos 5 colores.
 
