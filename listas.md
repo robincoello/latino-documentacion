@@ -34,5 +34,5 @@ Para el color amarillo
 ```
 colores[2]
 ```
-> En resumen para aceder a las informaciones de una lista nos basamos en los indices
+> En resumen para aceder a las informaciones de una lista nos basamos en los indices o posiciones
 
