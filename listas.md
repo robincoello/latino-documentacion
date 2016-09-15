@@ -14,7 +14,7 @@ escribir(colores[0])
 
 ```
 
-
+Algo raro? por que cero  [0]
 
 
 Otro ejemplo
