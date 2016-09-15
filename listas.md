@@ -18,7 +18,7 @@ Te parece raro? bueno talvez paresca raro pero hay una pequeña astucia, en la l
 
 La **cantidad** de colores (elementos) que tiene la lista, hace referencia a ***cuantos*** elementos (colores) tenemos en la lista, y evidentemente empezamos a contar desde el 1, en nuestro ejemplo tenemos 5 colores.
 
-El ***indice*** es la posición que un color (elemento) ocupa en la lista, y se empieza con la posición cero, así que podriamos resumir asi: 
+El ***indice*** es la posición que un color (elemento) ocupa en la lista, y se empieza con la **posición cero**, así que podriamos resumir asi: 
 
 * Posicion 0 = blanco
 * Posición 1 = negro
