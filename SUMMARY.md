@@ -28,6 +28,7 @@
 * [hacer (do)](hacer_do.md)
 * [desde (for)](desde.md)
 * [funciones](funciones.md)
+* [Listas](listas.md)
 * [Lectura](lectura.md)
 * [Elejir](elejir.md)
 * [Leer teclado](leer_teclado.md)
@@ -35,5 +36,4 @@
 * [Escribir Archivo](escribir_archivo.md)
 * [Leer archivo](leer_archivo.md)
 * [Ejercicios](ejercicios.md)
-* [Listas](listas.md)
 
