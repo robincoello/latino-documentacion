@@ -16,7 +16,7 @@
    * [Expresiones](expresiones.md)
    * [Operadores lógicos](Operadores Lógicos.md)
        * [Igualdad](igualdad.md)
-       * Desigualdad
+       * [Desigualdad](desigualdad.md)
    * [Operadores comparación](Operadores_comparacion.md)
    * [Concatenación](concatenacion.md)
 * [hola mundo](hola_mundo.md)
