@@ -36,3 +36,5 @@ colores[2]
 ```
 > En resumen para aceder a las informaciones de una lista nos basamos en la posición del elemento o su nombre de pila: **INDICE**.
 
+
+
