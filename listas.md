@@ -18,18 +18,20 @@ Te parece raro? bueno talvez paresca raro pero hay una pequeña astucia, en la l
 
 La **cantidad** de colores (elementos) que tiene la lista, hace referencia a ***cuantos*** elementos (colores) tenemos en la lista, y evidentemente empezamos a contar desde el 1, en nuestro ejemplo tenemos 5 colores.
 
-El ***indice*** es la posición que un color (elemento) ocupa en la lista, y se empieza con la posición cero, así que en nuestro ejemplo podriamos decir que el color blanco esta en la: 
+El ***indice*** es la posición que un color (elemento) ocupa en la lista, y se empieza con la posición cero, así que podriamos resumir asi: 
 
 * Posicion 0 = blanco
 * Posición 1 = negro
 * Posición 2 = amarillo
 * Posición 3 = azul
 * Posición 4 = rojo  
-
-
-Otro ejemplo
+Sabiendo eso, para aceder al color blanco: 
 
 ```
-estudiantes = ["Pedro","Ana","Luis","Carlos","Maria"]
+colores[0] 
+```
+Para el color amarillo
+```
+colores[2]
 ```
 
