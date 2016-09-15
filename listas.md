@@ -22,9 +22,9 @@ El ***indice*** es la posición que un color (elemento) ocupa en la lista, y se 
 
 * Posicion 0 = blanco
 * Posición 1 = negro
-* Posición 2 = negro
-* Posición 3 = negro
-* Posición 4 = negro
+* Posición 2 = amarillo
+* Posición 3 = azul
+* Posición 4 = rojo
 *  
 
 
