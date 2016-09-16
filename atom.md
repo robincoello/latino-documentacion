@@ -4,7 +4,7 @@ Atom [https://atom.io/](https://atom.io/) es otro IDE (interfase de desarrollo) 
 
 ###Prerequisitos:
 
-Debemos tener instalado Atom, podemos descargar la versión correspondiente para nuestro sistema operativo desde la pagina oficial de Atom
+Debemos tener instalado Atom, podemos descargar la versión correspondiente para nuestro sistema operativo desde la página oficial de Atom
 
 ###Ahora seguimos las siguientes instrucciones:
 
