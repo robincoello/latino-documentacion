@@ -1,6 +1,5 @@
 # Instalar latino
-Sigue los siguientes pasos:
-
+Para cargar "Latino" deber ir al sitio oficial aca http://lenguaje-latino.org/descargar/
 
 ### Windows
 
@@ -16,5 +15,4 @@ sudo make install
 ```
 
 
-Para instalar latino deber ir al sitio oficial aca http://lenguaje-latino.org/descargar/
 
