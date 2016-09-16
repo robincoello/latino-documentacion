@@ -5,4 +5,3 @@
 En este editor puedes colorear el código para una facil lectura
 
 Web: https://notepad-plus-plus.org/
-Pluging: 
