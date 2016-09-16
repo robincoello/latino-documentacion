@@ -3,8 +3,8 @@
 Para definir una variable en "Latino" se lo hace de la siguiente manera:
 
 
-### variable con texto
-el valor de una variable si contiene texto se debe encerrar en comillas simples o dobles. ' "" .
+### Variable con texto
+El valor de una variable si contiene texto se debe encerrar en comillas simples o dobles. ' "" .
 ```
 var = 'a'
 var = 'Latino'
