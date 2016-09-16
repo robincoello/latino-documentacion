@@ -8,7 +8,7 @@ La extensión de latino es **.lat**, debes tener cuidado al crear tus documentos
 ![.lat](extencion.png)
 
 ### Qué versión estas usando?
-Te aconsejo que uses la última versión de "Latino" ya que en cada nueva se van corrijiendo errores que se reportan.
+Te aconsejo que uses la última versión de "Latino" ya que en cada nueva se van corrijiendo errores que se reportan, y se van implementando nuevas funciones.
 
 
 
