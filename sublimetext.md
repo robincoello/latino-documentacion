@@ -1,5 +1,5 @@
 #Sublime text
-Sublime text ( https://www.sublimetext.com/ ) es un IDE más que puedes usar para trabajar con "Latino", sigue los siguientes pasos para coloreal el código:
+Sublime text ( https://www.sublimetext.com/ ) es un IDE más que puedes usar para trabajar con "Latino", sigue los siguientes pasos para colorear el código:
 
 
 
