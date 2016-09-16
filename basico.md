@@ -37,6 +37,6 @@ escribir("Cual es tu nombre?")
 nombre = leer()
 escribir("Hola " . nombre)
 ```
-> El punto '.' lo usamos para contatenar (para juntar)
+> El punto '.' lo usamos para concatenar (para juntar)
 
 ![Ejemplo1](ejemplo 1.png)
