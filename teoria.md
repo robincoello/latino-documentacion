@@ -1,4 +1,4 @@
 # Teoría
-Un poco de teoría
+Un poco de teoría [Debo desarrollarla +]
 
 
