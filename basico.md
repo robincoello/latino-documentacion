@@ -3,7 +3,7 @@ Algunas cosas básicas a tomar en cuenta para empezar a programar en Latino
 
 
 ### Extención de latino .lat
-La extención de latino es **.lat**, debes tener cuidado al crear tus documentos y verificar bien que llevan esta extención 
+La extensión de latino es **.lat**, debes tener cuidado al crear tus documentos y verificar bien que llevan esta extención 
 
 ![.lat](extencion.png)
 
