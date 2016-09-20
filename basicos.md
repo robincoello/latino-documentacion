@@ -1,7 +1,7 @@
 
 # Básicos
-1. Que dara al ejecutr el siguiente programa?
-
+1. Ejercicio 1
+Que dara al ejecutr el siguiente programa?
 ```
 a = 1
 b = 2
@@ -11,7 +11,7 @@ escribir(a)
 
 ```
 
-* Que dara al ejecutr el siguiente programa?
+2. Que dara al ejecutr el siguiente programa?
 
 ```
 a = 2
