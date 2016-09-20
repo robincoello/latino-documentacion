@@ -16,11 +16,7 @@ escribir(a)
 
 Que dara al ejecutar el siguiente programa?
 ```
-a = 2
-b = 4
-c = 5 * a
-d = -b
-escribir(a,b,c,d)
+
 
 ```
 
