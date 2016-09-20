@@ -19,7 +19,7 @@ Que dara al ejecutar el siguiente programa?
 a = 2
 b = 4
 c = 5 * a
-a = -b
+d = -b
 b = 2 * a + b
 c = a + b * c
 
