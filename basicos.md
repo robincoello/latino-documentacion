@@ -1,5 +1,5 @@
 # Básicos
-1. Que dara al ejecutr el siguiente programa?
+Que dara al ejecutr el siguiente programa?
 ```
 a = 1
 b = 2
