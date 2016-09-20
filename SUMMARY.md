@@ -35,5 +35,6 @@
 * [Leer archivo](leer_archivo.md)
 * [Ejercicios](ejercicios.md)
    * Básicos
+   * Medio
 * [Lectura](lectura.md)
 
