@@ -42,7 +42,24 @@ Qué hace el programa siguiente
 ```
 a = 0
 a = leer()
-b = 2*a
-escribir(a)
+b = a * 2
+escribir(b)
 
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
