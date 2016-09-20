@@ -11,4 +11,4 @@ escribir(a)
 
 ```
 
-2. 
+2. Que dara al ejecutr el siguiente programa?
