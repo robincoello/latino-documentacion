@@ -32,4 +32,4 @@ b = 5 (1)
 a = b (2)
 ```
 
-Las 'b' de las lineas (1) y (2) 
+Las 'b' de las lineas (1) y (2) valen lo mismo?
