@@ -20,9 +20,6 @@ a = 2
 b = 4
 c = 5 * a
 d = -b
-b = 2 * a + b
-c = a + b * c
-
 escribir(a,b,c,d)
 
 ```
