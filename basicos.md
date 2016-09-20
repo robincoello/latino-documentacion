@@ -40,5 +40,7 @@ a = b (2)
 
 Qué hace el programa siguiente
 ```
+a = 0
+a = leer()
 
 ```
