@@ -1,3 +1,4 @@
+
 # Básicos
 1. Que dara al ejecutr el siguiente programa?
 
@@ -9,3 +10,5 @@ a = b
 escribir(a)
 
 ```
+
+2. 
