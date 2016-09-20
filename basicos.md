@@ -45,8 +45,8 @@ escribir(b)
 Cuanto vale 'a'
 
 ```
-b = 5 (1)
-a = -b (2)
+b = 5 
+a = -b
 ```
 
 
