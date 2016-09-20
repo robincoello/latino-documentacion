@@ -2,7 +2,7 @@
 # Básicos
 * Ejercicio 1
 
-Que dara al ejecutr el siguiente programa?
+Que dara al ejecutar el siguiente programa?
 ```
 a = 1
 b = 2
@@ -14,7 +14,7 @@ escribir(a)
 
 * Ejercico 2
 
-Que dara al ejecutr el siguiente programa?
+Que dara al ejecutar el siguiente programa?
 ```
 a = 2
 b = 4
