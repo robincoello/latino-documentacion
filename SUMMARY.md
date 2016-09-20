@@ -36,5 +36,6 @@
 * [Ejercicios](ejercicios.md)
    * Básicos
    * Medio
+   * Avanzado
 * [Lectura](lectura.md)
 
