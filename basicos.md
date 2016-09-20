@@ -22,7 +22,7 @@ Que dara al ejecutar el siguiente programa?
 
 * Ejercicio 3
 
-Los valores de b en las lineas i y 2 son iguales?
+Los valores de 'b' en las lineas 1 y 2 son iguales?
 
 ```
 b = 5 (1)
