@@ -42,11 +42,11 @@ escribir(b)
 
 * Ejercicio 5
 
-Los valores de 'b' en las lineas 1 y 2 son iguales?
+Cuanto vale 'a'
 
 ```
 b = 5 (1)
-a = b (2)
+a = -b (2)
 ```
 
 
