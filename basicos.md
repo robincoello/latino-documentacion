@@ -47,7 +47,7 @@ escribir(b)
 
 ```
 
-* Ejercicio 5
+
  
 
 
