@@ -11,7 +11,7 @@ escribir(a)
 
 ```
 
-2. Que dara al ejecutr el siguiente programa?
+* Que dara al ejecutr el siguiente programa?
 
 ```
 a = 2
