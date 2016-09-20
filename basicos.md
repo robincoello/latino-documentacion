@@ -1,6 +1,6 @@
 
 # Básicos
-1. Ejercicio 1
+* Ejercicio 1
 
 Que dara al ejecutr el siguiente programa?
 ```
@@ -12,7 +12,7 @@ escribir(a)
 
 ```
 
-2. Ejercico 2
+* Ejercico 2
 
 Que dara al ejecutr el siguiente programa?
 ```
@@ -27,7 +27,7 @@ escribir(a,b,c,d)
 
 ```
 
-3. Ejercicio 3
+* Ejercicio 3
 
 Los valores de b en las lineas i y 2 son iguales?
 
@@ -36,9 +36,9 @@ b = 5 (1)
 a = b (2)
 ```
 
-Las 'b' de las lineas (1) y (2) valen lo mismo?
+* Ejercicio 4
 
-4. Qué hace el programa siguiente
+Qué hace el programa siguiente
 ```
 
 ```
