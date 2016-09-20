@@ -29,7 +29,7 @@ escribir(a,b,c,d)
 
 ```
 b = 5 (1)
-b = a (2)
+a = b (2)
 ```
 
 Las 'b' de las lineas (1) y (2) 
