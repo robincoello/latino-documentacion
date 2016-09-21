@@ -16,6 +16,11 @@ escribir(a)
 
 Que dara al ejecutar el siguiente programa?
 ```
+a = 2
+b = 3
+c = -b
+d = 2*c
+escribir(d)
 
 
 ```
