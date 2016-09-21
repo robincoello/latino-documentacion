@@ -22,7 +22,6 @@ c = -b
 d = 2*c+a
 escribir(d)
 
-
 ```
 
 * Ejercicio 3
