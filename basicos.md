@@ -53,8 +53,14 @@ b = 5
 a = -b
 ```
 
+* Ejercicio 6
+Cuanto vale a?
+```
+b = 5
+a = b + (-b)
 
- 
+escribir(a)
+```
 
 
 
