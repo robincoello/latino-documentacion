@@ -14,7 +14,7 @@
    * [Constantes](constantes.md)
 * [comentarios](comentarios.md)
 * [hola mundo](hola_mundo.md)
-* Tipos de datos
+* [Tipos de datos](tipos_de_datos.md)
    * Cadenas
 * [si (if)](si_if.md)
 * [si sino (if else)](si_sino_if_else.md)
