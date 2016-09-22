@@ -1,6 +1,5 @@
 # Summary
 
-* [Teoría](teoria.md)
 * [Instalar latino](introduccion/instalar_latino.md)
 * [Básico](basico.md)
 * [comentarios](comentarios.md)
