@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * [Básico](basico.md)
    * [comentarios](comentarios.md)
    * [Autores](autores.md)
    * [Latino en](latino_en.md)
@@ -20,6 +19,7 @@
    * [Igualdad](igualdad.md)
    * [Concatenación](concatenacion.md)
 * [Instalar latino](introduccion/instalar_latino.md)
+* [Básico](basico.md)
 * [hola mundo](hola_mundo.md)
 * [si (if)](si_if.md)
 * [si sino (if else)](si_sino_if_else.md)
