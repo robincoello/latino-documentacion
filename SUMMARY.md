@@ -32,11 +32,11 @@
    * [Medio](medio.md)
    * [Avanzado](avanzado.md)
 * [Introduction](README.md)
-   * [Autores](autores.md)
    * [Latino en](latino_en.md)
        * [Notepad++](notepad++.md)
        * [Sublime Text](sublimetext.md)
        * [Atom](atom.md)
+   * [Autores](autores.md)
    * [Lectura recomendada](lectura_recomendada.md)
    * Extras
 
