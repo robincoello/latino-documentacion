@@ -12,9 +12,9 @@
    * [Constantes](constantes.md)
    * Globales
 * [Operadores lógicos](Operadores Lógicos.md)
-* [Desigualdad](desigualdad.md)
 * [Expresiones](expresiones.md)
 * [Operadores comparación](Operadores_comparacion.md)
+   * [Desigualdad](desigualdad.md)
    * Igualdad
 * [si (if)](si_if.md)
 * [si sino (if else)](si_sino_if_else.md)
