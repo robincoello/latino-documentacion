@@ -10,7 +10,7 @@
 * [Concatenación](concatenacion.md)
 * [Variables](variables.md)
    * [Constantes](constantes.md)
-   * Globales
+   * [Globales](globales.md)
 * [Expresiones](expresiones.md)
 * [Operadores comparación](Operadores_comparacion.md)
    * [Desigualdad](desigualdad.md)
