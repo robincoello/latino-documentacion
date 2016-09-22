@@ -1,13 +1,13 @@
 # Summary
 
 * [Teoría](teoria.md)
-   * [Concatenación](concatenacion.md)
 * [Instalar latino](introduccion/instalar_latino.md)
 * [Básico](basico.md)
 * [comentarios](comentarios.md)
 * [hola mundo](hola_mundo.md)
 * [Tipos de datos](tipos_de_datos.md)
    * [Funciones de cadenas](cadenas.md)
+* [Concatenación](concatenacion.md)
 * [Variables](variables.md)
    * [Constantes](constantes.md)
    * Globales
