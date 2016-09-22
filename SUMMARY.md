@@ -2,8 +2,6 @@
 
 * [Teoría](teoria.md)
    * [Expresiones](expresiones.md)
-   * [Operadores comparación](Operadores_comparacion.md)
-       * Igualdad
    * [Desigualdad](desigualdad.md)
    * [Igualdad](igualdad.md)
    * [Concatenación](concatenacion.md)
@@ -17,6 +15,8 @@
    * [Constantes](constantes.md)
    * Globales
 * [Operadores lógicos](Operadores Lógicos.md)
+* [Operadores comparación](Operadores_comparacion.md)
+   * Igualdad
 * [si (if)](si_if.md)
 * [si sino (if else)](si_sino_if_else.md)
 * [mientras ( while)](mientras__while.md)
