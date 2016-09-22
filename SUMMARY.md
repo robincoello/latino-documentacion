@@ -37,7 +37,7 @@
    * [Medio](medio.md)
    * [Avanzado](avanzado.md)
 * [Introduction](README.md)
-   * [Autores](autores.md)
    * [Lectura recomendada](lectura_recomendada.md)
+   * [Autores](autores.md)
    * Extras
 
