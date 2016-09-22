@@ -1,7 +1,6 @@
 # Summary
 
 * [Teoría](teoria.md)
-   * [Expresiones](expresiones.md)
    * [Desigualdad](desigualdad.md)
    * [Igualdad](igualdad.md)
    * [Concatenación](concatenacion.md)
@@ -15,6 +14,7 @@
    * [Constantes](constantes.md)
    * Globales
 * [Operadores lógicos](Operadores Lógicos.md)
+* [Expresiones](expresiones.md)
 * [Operadores comparación](Operadores_comparacion.md)
    * Igualdad
 * [si (if)](si_if.md)
