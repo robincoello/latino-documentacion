@@ -3,7 +3,7 @@
 * [Instalar latino](introduccion/instalar_latino.md)
 * [Básico](basico.md)
 * [Comentarios](comentarios.md)
-* [hola mundo](hola_mundo.md)
+* [Hola mundo](hola_mundo.md)
 * [Tipos de datos](tipos_de_datos.md)
    * [Funciones de cadenas](cadenas.md)
 * [Concatenación](concatenacion.md)
