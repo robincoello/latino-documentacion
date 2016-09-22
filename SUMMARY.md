@@ -36,7 +36,7 @@
    * [Básicos](basicos.md)
    * [Medio](medio.md)
    * [Avanzado](avanzado.md)
-* [Introduction](README.md)
+* [Extras](README.md)
    * [Lectura recomendada](lectura_recomendada.md)
    * [Autores](autores.md)
 
