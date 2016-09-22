@@ -1,8 +1,6 @@
 # Summary
 
 * [Teoría](teoria.md)
-   * [Variables](variables.md)
-       * [Constantes](constantes.md)
    * [Expresiones](expresiones.md)
    * [Operadores lógicos](Operadores Lógicos.md)
    * [Operadores comparación](Operadores_comparacion.md)
@@ -12,6 +10,8 @@
    * [Concatenación](concatenacion.md)
 * [Instalar latino](introduccion/instalar_latino.md)
 * [Básico](basico.md)
+* [Variables](variables.md)
+   * [Constantes](constantes.md)
 * [comentarios](comentarios.md)
 * [hola mundo](hola_mundo.md)
 * [si (if)](si_if.md)
