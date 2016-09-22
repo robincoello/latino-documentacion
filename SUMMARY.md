@@ -28,7 +28,7 @@
 * [Lectura](lectura.md)
 * [Leer archivo](leer_archivo.md)
 * Extras
-* [Latino en](latino_en.md)
+* [Editores](latino_en.md)
    * [Notepad++](notepad++.md)
    * [Sublime Text](sublimetext.md)
    * [Atom](atom.md)
@@ -37,10 +37,6 @@
    * [Medio](medio.md)
    * [Avanzado](avanzado.md)
 * [Introduction](README.md)
-   * [Latino en](latino_en.md)
-       * [Notepad++](notepad++.md)
-       * [Sublime Text](sublimetext.md)
-       * [Atom](atom.md)
    * [Autores](autores.md)
    * [Lectura recomendada](lectura_recomendada.md)
    * Extras
