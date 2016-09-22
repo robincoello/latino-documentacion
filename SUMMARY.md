@@ -15,7 +15,7 @@
 * [comentarios](comentarios.md)
 * [hola mundo](hola_mundo.md)
 * [Tipos de datos](tipos_de_datos.md)
-   * Cadenas
+   * [Cadenas](cadenas.md)
 * [si (if)](si_if.md)
 * [si sino (if else)](si_sino_if_else.md)
 * [mientras ( while)](mientras__while.md)
