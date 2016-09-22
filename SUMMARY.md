@@ -27,7 +27,7 @@
 * [Escribir Archivo](escribir_archivo.md)
 * [Lectura](lectura.md)
 * [Leer archivo](leer_archivo.md)
-* Extras
+* [Extras](extras.md)
 * [Editores](latino_en.md)
    * [Notepad++](notepad++.md)
    * [Sublime Text](sublimetext.md)
