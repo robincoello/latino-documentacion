@@ -25,6 +25,7 @@
 * [Listas](listas.md)
 * [Ejecutar archivo](ejecutar_archivo.md)
 * [Escribir Archivo](escribir_archivo.md)
+* [Lectura](lectura.md)
 * [Leer archivo](leer_archivo.md)
 * [Ejercicios](ejercicios.md)
    * [Básicos](basicos.md)
@@ -37,5 +38,4 @@
        * [Sublime Text](sublimetext.md)
        * [Atom](atom.md)
    * [Lectura recomendada](lectura_recomendada.md)
-* [Lectura](lectura.md)
 
