@@ -17,6 +17,7 @@
 * [si (if)](si_if.md)
 * [si sino (if else)](si_sino_if_else.md)
 * [mientras ( while)](mientras__while.md)
+* Tipos de datos
 * [hacer (do)](hacer_do.md)
 * [desde (for)](desde.md)
    * Tipos de datos
