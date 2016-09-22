@@ -1,7 +1,6 @@
 # Summary
 
 * [Teoría](teoria.md)
-   * [Desigualdad](desigualdad.md)
    * [Igualdad](igualdad.md)
    * [Concatenación](concatenacion.md)
 * [Instalar latino](introduccion/instalar_latino.md)
@@ -14,6 +13,7 @@
    * [Constantes](constantes.md)
    * Globales
 * [Operadores lógicos](Operadores Lógicos.md)
+* [Desigualdad](desigualdad.md)
 * [Expresiones](expresiones.md)
 * [Operadores comparación](Operadores_comparacion.md)
    * Igualdad
