@@ -21,7 +21,6 @@
 * [mientras ( while)](mientras__while.md)
 * [hacer (do)](hacer_do.md)
 * [desde (for)](desde.md)
-   * Tipos de datos
 * [funciones](funciones.md)
 * [Elejir](elejir.md)
 * [Leer teclado](leer_teclado.md)
