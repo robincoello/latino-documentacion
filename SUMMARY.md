@@ -6,8 +6,8 @@
 * [comentarios](comentarios.md)
 * [hola mundo](hola_mundo.md)
 * [Tipos de datos](tipos_de_datos.md)
-   * [Concatenación](concatenacion.md)
    * [Funciones de cadenas](cadenas.md)
+* [Concatenación](concatenacion.md)
 * [Variables](variables.md)
    * [Constantes](constantes.md)
    * Globales
