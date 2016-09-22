@@ -11,11 +11,11 @@
 * [Variables](variables.md)
    * [Constantes](constantes.md)
    * Globales
-* [Operadores lógicos](Operadores Lógicos.md)
 * [Expresiones](expresiones.md)
 * [Operadores comparación](Operadores_comparacion.md)
    * [Desigualdad](desigualdad.md)
    * Igualdad
+* [Operadores lógicos](Operadores Lógicos.md)
 * [si (if)](si_if.md)
 * [si sino (if else)](si_sino_if_else.md)
 * [mientras ( while)](mientras__while.md)
