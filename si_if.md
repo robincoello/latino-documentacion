@@ -1,5 +1,5 @@
 # si (if)
-'si',se usa para hacer una comparación, si esta comparación es correcta se ejecuta el código que esta entre la palabra reservada 'si' y la palabra reservada 'fin', si la comparación es incorrecta el código simplemente es ingnorado y pasa a la siguiente linea de código 
+'si',se usa para hacer una verificación, si esta verificación es correcta se ejecuta el código que esta entre la palabra reservada 'si' y la palabra reservada 'fin', si la verificación es incorrecta el código simplemente es ingnorado y pasa a la siguiente linea de código 
 
 ```
 ...
