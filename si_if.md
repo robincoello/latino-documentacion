@@ -1,5 +1,5 @@
 # si (if)
-```'si'```: es una instrucción que permite la ejecución de código si la condición que esta entre los parentesis se cumple
+```'si'```: es una instrucción que permite la ejecución del código si la condición que esta entre los parentesis se cumple
 
 ```
 ...
