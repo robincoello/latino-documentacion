@@ -1,5 +1,5 @@
 # si (if)
-'si',se usa para hacer una verificación, si esta verificación es correcta se ejecuta el código que esta entre la palabra reservada 'si' y la palabra reservada 'fin', si la verificación es incorrecta el código simplemente es ignorado y pasa a la siguiente linea de código 
+```si``` es una instrucción que permite la ejecución de código si la condición que esta entre los parentesis se cumple
 
 ```
 ...
