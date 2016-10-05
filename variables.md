@@ -1,6 +1,6 @@
 # variables
 
-Para definir una variable en "Latino" se lo hace de la siguiente manera:
+Para definir una variable en "Latino" se hace de la siguiente manera:
 
 
 ### Variable con texto
