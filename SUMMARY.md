@@ -20,7 +20,7 @@
 * [mientras ( while)](mientras__while.md)
 * [hacer (do)](hacer_do.md)
 * [desde (for)](desde.md)
-* [Elejir](elejir.md)
+* [Elegir](elejir.md)
    * for
 * [funciones](funciones.md)
 * [Leer teclado](leer_teclado.md)
