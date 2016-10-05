@@ -29,11 +29,18 @@ v = verdadero
 exito = 1
 f = falso
 fracaso = 0
+cad = ""
+saludo = "hola"
+lista_vacia = []
 
-escribir(v)
-escribir(exito)
-escribir(f)
-escribir(fracaso)
+#se ocupa la funcion logico para mostrar la representacion del dato en booleano
+escribir(logico(v))
+escribir(logico(exito))
+escribir(logico(f))
+escribir(logico(fracaso))
+escribir(logico(cad))
+escribir(logico(saludo))
+escribir(logico(lista_vacia))
 ```
 
 
