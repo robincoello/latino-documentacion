@@ -20,7 +20,8 @@ Lo interesante es que podemos convinar muchas maneras de comparar dentro del si,
 
 ### Valor lógico directo
 ```
-si(verdadero)
+condicion = verdadero
+si(condicion)
     escribir("Si, la comparación dio verdadero")
 fin
 ```
