@@ -16,19 +16,19 @@ Latino cuenta con los siguientes tipos de datos:
 nombre = "Juan Perez" #con comillas dobles
 direccion = 'Av. Siempreviva N 200'  #con comillas simples
   ```
-*Números: Se emplean para representar números, por ejemplo:
+* **Números**: Se emplean para representar números, por ejemplo:
 ```
 edad = 15
 area = 12.354
 ```
 
-*Listas: Son un conjunto de datos enlistados uno despues de otro separados por coma y encerrados entre corchetes [ y ], por ejemplo:
+* **Listas**: Son un conjunto de datos enlistados uno despues de otro separados por coma y encerrados entre corchetes [ y ], por ejemplo:
 ```
 frutas = ["naranja", "melon", "sandia"]
 calificaciones = [10, 9, 8, 5]
 ```
 
-*diccionarios: Son un conjunto par de valores sepadados por dos puntos (:) que tiene una clave y un valor, las claves deben de ser tipo cadena, y son encerradas entre llaves { y }, los valores par van separados por coma (,) por ejemplo:
+* Diccionarios: Son un conjunto par de valores sepadados por dos puntos (:) que tiene una clave y un valor, las claves deben de ser tipo cadena, y son encerradas entre llaves { y }, los valores par van separados por coma (,) por ejemplo:
 ```
 #en este ejemplo 1 es la clave y "uno" es el valor
 numeros = { "1" : "uno", 
