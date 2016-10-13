@@ -28,7 +28,7 @@ frutas = ["naranja", "melon", "sandia"]
 calificaciones = [10, 9, 8, 5]
 ```
 
-* Diccionarios: Son un conjunto par de valores sepadados por dos puntos (:) que tiene una clave y un valor, las claves deben de ser tipo cadena, y son encerradas entre llaves { y }, los valores par van separados por coma (,) por ejemplo:
+* **Diccionarios**: Son un conjunto par de valores sepadados por dos puntos (:) que tiene una clave y un valor, las claves deben de ser tipo cadena, y son encerradas entre llaves { y }, los valores par van separados por coma (,) por ejemplo:
 ```
 #en este ejemplo 1 es la clave y "uno" es el valor
 numeros = { "1" : "uno", 
