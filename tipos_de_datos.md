@@ -2,7 +2,7 @@
 Un dato es toda aquella información que se puede tratar en un programa informático.
 Un dato dentro de un programa se caracteriza por llevar asociado un identificador, un tipo y un valor.
 
-***Identificador**: Nombre para referenciar al dato dentro del programa
+* **Identificador**: Nombre para referenciar al dato dentro del programa
 *Tipo: el tipo de un dato determina el rango de valores que puede tomar el dato y su ocupación en memoria durante la ejecución del programa
 *Valor: Sera un elemento determinado dentro del rango de valores permitidos por el tipo de dato definido.
 
