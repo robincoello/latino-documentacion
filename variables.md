@@ -1,6 +1,6 @@
 # Variables
 
-Una variable es una cadena que toma un valor y este no cambia hasta que se le asigne otro valor, para definir una variable en "Latino" se hace de la siguiente manera:
+Una variable es una cadena (conjunto de letras) que toma un valor y este no cambia hasta que se le asigne otro valor, para definir una variable en "Latino" se hace de la siguiente manera:
 
 
 ### Variable con texto
