@@ -18,7 +18,9 @@ precio = 250.50
 ```
 
 ### Valor lógico o booleano
-El valor boleano es algo que puede estar unicamente en dos estados: prendido o apagado, verdadero o falso, si o no, etc. Aplicando esto a la programación en Latino existe el valor 0 "cero" para falso y cualquier otro número o simbolo representa verdadero, incluso números negativos.
+El valor boleano es algo que puede estar unicamente en dos estados: prendido o apagado, verdadero o falso, si o no, etc. 
+
+Aplicando esto a la programación en Latino existe el valor 0 "cero" para falso y cualquier otro número o simbolo representa verdadero, incluso números negativos.
 
 Para el tipo de dato cadena, la cadena vacia "", "falso", "0", "false", representan el valor falso, cualquier otra cadena representa verdadero.
 
