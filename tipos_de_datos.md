@@ -9,12 +9,12 @@ Un dato dentro de un programa se caracteriza por llevar asociado un identificado
 Algunos ejemplos de datos son: la edad, el saldo de una cuenta bancaria, el nombre de una persona, la letra del piso de una dirección, etc.
 
 Latino cuenta con los siguientes tipos de datos:
-*Logico: Representa verdad o falsedad para expresiones logicas, existen las palabras reservadas `verdadero` y `falso` para representar valores booleanos.
+* **Logico**: Representa verdad o falsedad para expresiones logicas, existen las palabras reservadas `verdadero` y `falso` para representar valores booleanos.
 
-*Cadena: Una cadena de caracteres es un número de caracteres consecutivos (incluso ninguno) encerrado entre unos delimitadores determinados, en el lenguaje Latino son las comillas dobles o simples, Por ejemplo:
+* **Cadena**: Una cadena de caracteres es un número de caracteres consecutivos (incluso ninguno) encerrado entre unos delimitadores determinados, en el lenguaje Latino son las comillas dobles o simples, Por ejemplo:
   ```
-    nombre = "Juan Perez" #con comillas dobles
-    direccion = 'Av. Siempreviva N 200'  #con comillas simples
+nombre = "Juan Perez" #con comillas dobles
+direccion = 'Av. Siempreviva N 200'  #con comillas simples
   ```
 *Números: Se emplean para representar números, por ejemplo:
 ```
