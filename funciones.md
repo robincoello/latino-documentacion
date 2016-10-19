@@ -1,6 +1,6 @@
 # Funciones
 Una función nos permite crear un pedazo de código el cual podemos ejecutarlo en otra parte tantas veces lo deseamos.
-Una lista de las funciones de latino esta disponible aca http://lenguaje-latino.org/doc/
+Una lista de las funciones de latino esta disponible aca [http://lenguaje-latino.org/doc/](http://lenguaje-latino.org/doc/)
 
 
 Para crear una funcion debes usar el siguente formato
