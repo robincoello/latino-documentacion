@@ -9,11 +9,6 @@
 * [Variables](variables.md)
    * [Constantes](constantes.md)
    * [Globales](globales.md)
-* [Elementos](elementos.md)
-   * Operadores
-   * [Variables](variables.md)
-       * [Constantes](constantes.md)
-       * [Globales](globales.md)
 * [Tipos de datos](tipos_de_datos.md)
 * [Expresiones](expresiones.md)
 * [Operadores comparación](Operadores_comparacion.md)
