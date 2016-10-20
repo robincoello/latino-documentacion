@@ -4,11 +4,11 @@
 * [Instalar latino](introduccion/instalar_latino.md)
 * [Básico](basico.md)
 * [Elementos](elementos.md)
+   * [Comentarios](comentarios.md)
    * Operadores
    * [Variables](variables.md)
        * [Constantes](constantes.md)
        * [Globales](globales.md)
-* [Comentarios](comentarios.md)
 * [Hola mundo](hola_mundo.md)
 * [Tipos de datos](tipos_de_datos.md)
 * [Concatenación](concatenacion.md)
