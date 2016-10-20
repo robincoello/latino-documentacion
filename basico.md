@@ -7,6 +7,8 @@ La extensión de latino es **.lat**, debes tener cuidado al crear tus documentos
 
 ![.lat](extencion.png)
 
+###Palabras reservadas
+
 
 ### Mostrar algo en pantalla
 
