@@ -5,6 +5,7 @@
 * [Básico](basico.md)
 * [Comentarios](comentarios.md)
 * [Elementos](elementos.md)
+   * Operadores
 * [Hola mundo](hola_mundo.md)
 * [Tipos de datos](tipos_de_datos.md)
 * [Concatenación](concatenacion.md)
