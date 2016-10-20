@@ -3,9 +3,9 @@
 * [Inicio](inicio.md)
 * [Instalar latino](introduccion/instalar_latino.md)
 * [Básico](basico.md)
-* [Comentarios](comentarios.md)
 * [Elementos](elementos.md)
    * Operadores
+* [Comentarios](comentarios.md)
 * [Hola mundo](hola_mundo.md)
 * [Tipos de datos](tipos_de_datos.md)
 * [Concatenación](concatenacion.md)
