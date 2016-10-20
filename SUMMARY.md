@@ -1,6 +1,6 @@
 # Summary
 
-* Inicio
+* [Inicio](inicio.md)
 * [Instalar latino](introduccion/instalar_latino.md)
 * [Básico](basico.md)
 * [Comentarios](comentarios.md)
