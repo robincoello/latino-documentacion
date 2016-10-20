@@ -6,8 +6,10 @@
 * [Hola mundo](hola_mundo.md)
 * [Comentarios](comentarios.md)
 * [Concatenación](concatenacion.md)
+* [Variables](variables.md)
+   * [Constantes](constantes.md)
+   * [Globales](globales.md)
 * [Elementos](elementos.md)
-   * [Concatenación](concatenacion.md)
    * Operadores
    * [Variables](variables.md)
        * [Constantes](constantes.md)
