@@ -23,10 +23,10 @@
 * [Elegir (switch)](elejir.md)
 * [Leer teclado](leer_teclado.md)
 * [funciones](funciones.md)
+   * [Escribir Archivo](escribir_archivo.md)
    * [Ejecutar archivo](ejecutar_archivo.md)
    * a
 * [Listas](listas.md)
-* [Escribir Archivo](escribir_archivo.md)
 * [Lectura](lectura.md)
 * [Leer archivo](leer_archivo.md)
 * [Editores](latino_en.md)
