@@ -26,7 +26,6 @@
    * [Leer archivo](leer_archivo.md)
    * [Escribir Archivo](escribir_archivo.md)
    * [Ejecutar archivo](ejecutar_archivo.md)
-   * a
 * [Listas](listas.md)
 * [Lectura](lectura.md)
 * [Editores](latino_en.md)
