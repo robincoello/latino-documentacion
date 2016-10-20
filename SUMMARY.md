@@ -4,6 +4,7 @@
 * [Instalar latino](introduccion/instalar_latino.md)
 * [Básico](basico.md)
 * [Hola mundo](hola_mundo.md)
+* [Comentarios](comentarios.md)
 * [Elementos](elementos.md)
    * [Comentarios](comentarios.md)
    * [Concatenación](concatenacion.md)
