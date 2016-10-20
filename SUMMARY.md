@@ -23,9 +23,9 @@
 * [Elegir (switch)](elejir.md)
 * [Leer teclado](leer_teclado.md)
 * [funciones](funciones.md)
+   * [Ejecutar archivo](ejecutar_archivo.md)
    * a
 * [Listas](listas.md)
-* [Ejecutar archivo](ejecutar_archivo.md)
 * [Escribir Archivo](escribir_archivo.md)
 * [Lectura](lectura.md)
 * [Leer archivo](leer_archivo.md)
