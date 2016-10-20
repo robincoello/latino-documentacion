@@ -21,7 +21,6 @@
 * [hacer (do while)](hacer_do.md)
 * [desde (for)](desde.md)
 * [Elegir (switch)](elejir.md)
-   * for
 * [funciones](funciones.md)
 * [Leer teclado](leer_teclado.md)
 * [Listas](listas.md)
