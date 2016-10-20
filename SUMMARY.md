@@ -11,6 +11,7 @@
    * [Constantes](constantes.md)
    * [Globales](globales.md)
 * [Expresiones](expresiones.md)
+* [Elementos](elementos.md)
 * [Operadores comparación](Operadores_comparacion.md)
    * [Desigualdad](desigualdad.md)
    * [Operadores lógicos](Operadores Lógicos.md)
@@ -40,5 +41,4 @@
 * [Extras](README.md)
    * [Autores](autores.md)
    * [Lectura recomendada](lectura_recomendada.md)
-* [Elementos](elementos.md)
 
