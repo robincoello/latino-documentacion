@@ -22,7 +22,7 @@ El valor boleano es algo que puede estar unicamente en dos estados: prendido o a
 
 Aplicando esto a la programación en Latino existe el valor 0 "cero" para falso y cualquier otro número o simbolo, letra o frase representa verdadero, incluso números negativos.
 
-Para el tipo de dato cadena, la cadena vacia "", cualquier otra cadena representa verdadero.
+Para el tipo de dato cadena, la cadena vacia "", representa falso cualquier otra cadena representa verdadero.
 
 Para listas y diccionarios, cuando se encuentre vacio representará falso, mientras que si contiene al menos un elemento representará verdadero. 
 Existen las palabras reservadas `verdadero` y `falso` para representar este tipo de dato.
