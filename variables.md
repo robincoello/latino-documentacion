@@ -24,7 +24,8 @@ Aplicando esto a la programación en Latino existe el valor 0 "cero" para falso 
 
 Para el tipo de dato cadena, la cadena vacia "", representa falso cualquier otra cadena representa verdadero.
 
-Para listas y diccionarios, cuando se encuentre vacio representará falso, mientras que si contiene al menos un elemento representará verdadero. 
+Para listas y diccionarios, cuando se encuentre vacio representará falso, mientras que si contiene al menos un elemento representará verdadero.
+
 Existen las palabras reservadas `verdadero` y `falso` para representar este tipo de dato.
 Ejemplos:
 
