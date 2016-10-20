@@ -25,7 +25,7 @@
 * [funciones](funciones.md)
 * [Leer teclado](leer_teclado.md)
 * [Listas](listas.md)
-   * arrayz
+   * [arrayz](arrayz.md)
 * [Ejecutar archivo](ejecutar_archivo.md)
 * [Escribir Archivo](escribir_archivo.md)
 * [Lectura](lectura.md)
