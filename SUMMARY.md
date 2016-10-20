@@ -6,12 +6,12 @@
 * [Hola mundo](hola_mundo.md)
 * [Elementos](elementos.md)
    * [Comentarios](comentarios.md)
+   * [Concatenación](concatenacion.md)
    * Operadores
    * [Variables](variables.md)
        * [Constantes](constantes.md)
        * [Globales](globales.md)
 * [Tipos de datos](tipos_de_datos.md)
-* [Concatenación](concatenacion.md)
 * [Expresiones](expresiones.md)
 * [Operadores comparación](Operadores_comparacion.md)
    * [Desigualdad](desigualdad.md)
