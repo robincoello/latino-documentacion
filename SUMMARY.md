@@ -38,6 +38,6 @@
    * [Medio](medio.md)
    * [Avanzado](avanzado.md)
 * [Extras](README.md)
-   * [Lectura recomendada](lectura_recomendada.md)
    * [Autores](autores.md)
+   * [Lectura recomendada](lectura_recomendada.md)
 
