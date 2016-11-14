@@ -4,7 +4,7 @@ Una lista de las funciones de latino esta disponible aca [http://lenguaje-latino
 
 
 Para crear una función debes usar el siguente formato
-> Por el momento, latino no acepta argumentos opcionales
+> Por el momento (versión 0.8.11), latino no acepta argumentos opcionales
 
 ```
 funcion nombre(argumentos)
