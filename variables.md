@@ -32,9 +32,11 @@ Ejemplos:
 
 ```
 v = verdadero
-exito = 1
 f = falso
+
+exito = 1
 fracaso = 0
+
 cad = ""
 saludo = "hola"
 lista_vacia = []
