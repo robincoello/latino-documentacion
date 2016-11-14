@@ -15,7 +15,6 @@ fin
 Para hacer el llamado a la función se usa el siguiente formato
 
 ```
-// llamamos la funcion
 nombre_funcion(argumentos)
 ```
 
