@@ -3,8 +3,6 @@
 
 > Esta documentación no esta aun terminada, y cada día trato de escribir algo, espero pronto terminarla, si tienes sugerencias, gracias.
 
-
-
 ## Si sabes leer y escribir, sabes programar! 
 
 ### http://lenguaje-latino.org/
