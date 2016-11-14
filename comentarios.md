@@ -11,7 +11,7 @@ Estas lineas no son tomadas en cuenta en la ejecución del código,  su formato 
 
 ```
 // esto es otro comentario de una linea
-// esta es otra linea de comentario
+
 ```
 
 ```
