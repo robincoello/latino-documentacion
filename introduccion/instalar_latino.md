@@ -12,8 +12,14 @@ En vista de diferentes cambios que habido te recomiendo leas la forma de instala
 ~~Copia este código en una sola linea en la terminal 
 
 ```
-git clone https://github.com/primitivorm/latino && cd latino &&  cmake . &&  
-make && sudo make install
+sudo apt-get install git bison flex cmake gcc g++ libjansson-dev libcurl4-openssl-dev libhiredis-dev redis-server curl
+ 
+ git clone --recursive https://github.com/primitivorm/latino
+ cd latino
+ git submodule update --init --recursive
+ cmake .
+ make
+ sudo make install
 ```
 ~~
 
