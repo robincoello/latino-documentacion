@@ -4,7 +4,7 @@ Una variable es una cadena (conjunto de letras) que toma un valor y este no camb
 
 
 ### Variable de texto
-El valor de una variable si contiene texto se debe encerrar en comillas simples o dobles. ' "" .
+El valor de una variable si contiene texto se debe encerrar en comillas simples ``` ' ' ``` o dobles. ```" "``.
 ```
 una_letra = 'a'
 lenguaje = 'Latino'
