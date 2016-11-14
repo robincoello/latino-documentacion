@@ -16,6 +16,13 @@ frase = 'Latino, lenguaje de programación en español'
 edad = 12
 precio = 250.50
 ```
+También se puede encerrar entre comillas simples o dobles los valores númerios
+
+```
+edad = '12'
+precio = "250.50"
+```
+
 
 ### Valor lógico o booleano
 El valor boleano es algo que puede estar unicamente en dos estados: prendido o apagado, verdadero o falso, si o no, etc. 
