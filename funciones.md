@@ -18,7 +18,7 @@ Para hacer el llamado a la función se usa el siguiente formato
 nombre_funcion(argumentos)
 ```
 
-### Ejemplo de funciones
+### Ejemplo
 Vamos a crear tres funciones: promedio, max, min
 
 ```
