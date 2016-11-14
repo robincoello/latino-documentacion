@@ -25,15 +25,15 @@ precio = "250.50"
 >Los desimales se separan por puntos
 
 ### Valor lógico o booleano
-El valor boleano es algo que puede estar unicamente en dos estados: prendido o apagado, verdadero o falso, si o no, etc. 
+El valor boleano es algo que puede estar únicamente en dos estados: prendido o apagado, verdadero o falso, si o no, etc. 
 
-Aplicando esto a la programación en Latino existe el valor 0 "cero" para falso y cualquier otro número o simbolo, letra o frase representa verdadero, incluso números negativos.
+Aplicando esto a la programación en Latino existe el valor 0 "cero" para falso y cualquier otro: número, simbolo, letra o frase representa verdadero, incluso números negativos.
 
 Para el tipo de dato cadena, la cadena vacia "", representa falso cualquier otra cadena representa verdadero.
 
 Para listas y diccionarios, cuando se encuentre vacio representará falso, mientras que si contiene al menos un elemento representará verdadero.
 
-Existen las palabras reservadas `verdadero` y `falso` para representar este tipo de dato.
+Existen las palabras reservadas ```verdadero``` y ```falso``` para representar este tipo de dato.
 Ejemplos:
 
 
@@ -60,7 +60,7 @@ escribir(logico(cad))
 escribir(logico(saludo))
 escribir(logico(lista_vacia))
 ```
-> En si cero '0' es falso y cualquier cosa que sea diferente a cero es verdadero
+> No olvidar que cero '0' es falso y cualquier cosa que sea diferente a cero es verdadero
 
 
 
