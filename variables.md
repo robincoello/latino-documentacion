@@ -34,6 +34,9 @@ Ejemplos:
 v = verdadero
 f = falso
 
+v = 1
+f = 0
+
 exito = 1
 fracaso = 0
 
@@ -50,7 +53,7 @@ escribir(logico(cad))
 escribir(logico(saludo))
 escribir(logico(lista_vacia))
 ```
-
+> En si cero '0' es falso y cualquier cosa que sea diferente a cero es verdadero
 
 
 
