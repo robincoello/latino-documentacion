@@ -16,20 +16,20 @@ frase = 'Latino, lenguaje de programación en español'
 edad = 12
 precio = 250.50
 ```
-También se puede encerrar entre comillas simples o dobles los valores númerios
+También se pueden encerrar entre comillas simples o dobles los valores númerios
 
 ```
 edad = '12'
 precio = "250.50"
 ```
->Los desimales se separan por puntos
+>Los decimales se separan por puntos
 
 ### Valor lógico o booleano
-El valor boleano es algo que puede estar únicamente en dos estados: prendido o apagado, verdadero o falso, si o no, etc. 
+El valor booleano es algo que puede estar únicamente en dos estados: prendido o apagado, verdadero o falso, si o no, etc. 
 
 Aplicando esto a la programación en Latino existe el valor 0 "cero" para falso y cualquier otro: número, simbolo, letra o frase representa verdadero, incluso números negativos.
 
-Para el tipo de dato cadena, la cadena vacia "", representa falso cualquier otra cadena representa verdadero.
+Para el tipo de dato cadena, la cadena vacia "", representa falso, cualquier otra cadena representa verdadero.
 
 Para listas y diccionarios, cuando se encuentre vacio representará falso, mientras que si contiene al menos un elemento representará verdadero.
 
@@ -51,7 +51,7 @@ cad = ""
 saludo = "hola"
 lista_vacia = []
 
-#se ocupa la funcion "logico" para mostrar la representacion del dato en booleano
+#se ocupa la funcion "lógico" para mostrar la representación del dato en booleano
 escribir(logico(v))
 escribir(logico(exito))
 escribir(logico(f))
