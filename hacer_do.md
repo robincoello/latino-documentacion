@@ -1,5 +1,5 @@
 # hacer (do)
-Ejecuta el código cuando la condicion se cumple, parecido al ```mientras``` pero en este nos aseguramos que el código se ejecute por lo menos una vez.
+Ejecuta el código cuando la condición se cumple, parecido al ```mientras``` pero en este nos aseguramos que el código se ejecute por lo menos una vez.
 
 ```
 hacer
