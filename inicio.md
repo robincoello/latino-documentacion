@@ -1,7 +1,7 @@
 ![](14632952_1855594251339335_1777450754374585823_n.jpg)
 #Latino 
 
-> Esta documentación no esta aun terminada, y cada día trato de escribir algo, espero pronto terminarla, si tienes sugerencias, gracias.
+> Esta documentación no está aun terminada, se encuentra en un proceso de desarrollo y cada día trato de escribir algo, espero pronto terminarla, si tienes sugerencias, gracias.
 
 ## Si sabes leer y escribir, sabes programar! 
 
@@ -16,7 +16,7 @@ Este libro está destinado a personas con muy pocos conocimientos de programaci�
 Al final de la lectura de este libro podrás ser capaz de hacer un programa informático usando 'Latino' como lenguaje de programación
 
 ### Método de enseñanza
-A lo largo de este libro se trabajara con ejemplos y se usará el lenguaje de programación “Latino” que es un lenguaje con sintaxis en español
+A lo largo de este libro se trabajará con ejemplos y se usará el lenguaje de programación “Latino” que es un lenguaje con sintaxis en español
 
 
 ### Lo que necesitas para empezar
@@ -25,6 +25,6 @@ En realidad no necesitas mayor cosa, solo el deseo de aprender, y saber que: *Pr
 
 
 ### Instalar Latino
-Antes de empezar debes instalar latino en tu computadora en vista que vamos a trabajar con este sistema, también vamos a usar los recursos que ponen a nuestra disposición el sitio oficial de latino http://lenguaje-latino.org/ aca puedes tener la última versión de este lenguaje de programación.
+Antes de empezar debes instalar latino en tu computadora en vista que vamos a trabajar con este sistema, también vamos a usar los recursos que ponen a nuestra disposición el sitio oficial de latino http://lenguaje-latino.org/ ...acá puedes tener la última versión de este lenguaje de programación.
 
 
