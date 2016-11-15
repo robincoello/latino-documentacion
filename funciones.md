@@ -3,7 +3,7 @@ Una función nos permite crear un pedazo de código el cual podemos ejecutarlo e
 Una lista de las funciones de latino esta disponible aca [http://lenguaje-latino.org/doc/](http://lenguaje-latino.org/doc/)
 
 
-Para crear una función debes usar el siguente formato
+Para crear una función debes usar el siguiente formato:
 > Por el momento (versión 0.8.11), latino no acepta argumentos opcionales
 
 ```
