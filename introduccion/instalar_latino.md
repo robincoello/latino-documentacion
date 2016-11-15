@@ -1,5 +1,5 @@
 # Instalar latino
-Para cargar "Latino" deber ir al sitio oficial aca http://lenguaje-latino.org/descargar/
+Para cargar "Latino" debes ir al sitio oficial acá:  http://lenguaje-latino.org/descargar/
 
 ### Windows
 
@@ -7,7 +7,7 @@ Para cargar "Latino" deber ir al sitio oficial aca http://lenguaje-latino.org/de
 
 ### Linux
 
-En vista de diferentes cambios que habido te recomiendo leas la forma de instalar aca http://lenguaje-latino.org/descargar que esta más actualizada.
+En vista de diferentes cambios que existen, te recomiendo leas la forma de instalar acá:  http://lenguaje-latino.org/descargar que esta más actualizada.
 
 ~~Copia este código en una sola linea en la terminal 
 
