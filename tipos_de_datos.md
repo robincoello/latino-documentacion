@@ -2,14 +2,14 @@
 Un dato es toda aquella información que se puede tratar en un programa informático.
 Un dato dentro de un programa se caracteriza por llevar asociado un identificador, un tipo y un valor.
 
-* **Identificador**: Nombre para referenciar al dato dentro del programa
-* **Tipo** : el tipo de un dato determina el rango de valores que puede tomar el dato y su ocupación en memoria durante la ejecución del programa
-*Valor: Sera un elemento determinado dentro del rango de valores permitidos por el tipo de dato definido.
+* **Identificador**: Nombre para referenciar al dato dentro del programa.
+* **Tipo** : El tipo de un dato determina el rango de valores que puede tomar el dato y su ocupación en memoria durante la ejecución del programa.
+*Valor: Será un elemento determinado dentro del rango de valores permitidos por el tipo de dato definido.
 
 Algunos ejemplos de datos son: la edad, el saldo de una cuenta bancaria, el nombre de una persona, la letra del piso de una dirección, etc.
 
 ###Latino cuenta con los siguientes tipos de datos:
-* **Logico**: Representa verdad o falsedad para expresiones logicas, existen las palabras reservadas `verdadero` y `falso` para representar valores booleanos.
+* **Lógico**: Representa verdad o falsedad para expresiones lógicas, existen las palabras reservadas `verdadero` y `falso` para representar valores booleanos.
 
 * **Cadena**: Una cadena de caracteres es un número de caracteres consecutivos (incluso ninguno) encerrado entre unos delimitadores determinados, en el lenguaje Latino son las comillas dobles o simples, Por ejemplo:
   ```
@@ -22,7 +22,7 @@ edad = 15
 area = 12.354
 ```
 
-* **Listas**: Son un conjunto de datos enlistados uno despues de otro separados por coma y encerrados entre corchetes [ y ], por ejemplo:
+* **Listas**: Son un conjunto de datos enlistados uno despues de otro, separados por coma y encerrados entre corchetes [ y ], por ejemplo:
 ```
 frutas = ["naranja", "melon", "sandia"]
 calificaciones = [10, 9, 8, 5]
