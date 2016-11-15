@@ -2,7 +2,7 @@
 # Básicos
 * Ejercicio 1
 
-Que dara al ejecutar el siguiente programa?
+Que dará al ejecutar el siguiente programa?
 ```
 a = 1
 b = 2
@@ -14,7 +14,7 @@ escribir(a)
 
 * Ejercico 2
 
-Que dara al ejecutar el siguiente programa?
+Que dará al ejecutar el siguiente programa?
 ```
 a = 2
 b = 3
@@ -35,7 +35,7 @@ a = b (2)
 
 * Ejercicio 4
 
-Qué hace el programa siguiente
+Qué hace el programa siguiente?
 ```
 a = 0
 a = leer()
@@ -46,7 +46,7 @@ escribir(b)
 
 * Ejercicio 5
 
-Cuanto vale 'a'
+Cuanto vale 'a'?
 
 ```
 b = 5 
