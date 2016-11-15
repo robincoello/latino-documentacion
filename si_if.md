@@ -1,5 +1,5 @@
 # si (if)
-`si`: es una instrucción que permite la ejecución del código, si la condición que esta entre los parentesis se cumple, donde condicion es una expresion logica (verdadero o falso), su sintaxis es la siguiente:
+`si`: es una instrucción que permite la ejecución del código, si la condición que está entre los paréntesis se cumple, donde condición es una expresión lógica (verdadero o falso), su sintaxis es la siguiente:
 
 ```
 si( condicion )
@@ -34,7 +34,7 @@ Aqui la comparación se realiza con los valores lógicos buleanos 'verdadero | f
 
 ### asignado a una variable
 ```
-El valor buleano se puede estar en una variable asi: 
+El valor buleano puede estar en una variable asi: 
 
 b = verdadero
 si(b)
