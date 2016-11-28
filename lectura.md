@@ -1,7 +1,7 @@
 # Lectura
 
 - Web oficial:  http://lenguaje-latino.org/
-- Documentación básica:  http://basica.lenguaje-latino.org/
+- Documentación básica:  http://lenguaje-latino.org/doc/
 - Documentación desarrolladores: 
 - Reglas para el desarrollo: https://robincoello.gitbooks.io/latinodesarrolladores/content/index.html
 - 
