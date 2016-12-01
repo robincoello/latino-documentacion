@@ -11,7 +11,7 @@ La extensión de latino es **.lat**, debes tener cuidado al crear tus documentos
 
 ```
 si osi sino fin romper continuar mientras hacer cuando desde nulo retorno caso defecto verdadero falso cierto
-``
+```
 
 
 ### Mostrar algo en pantalla
