@@ -4,7 +4,7 @@
 
 Colibri es la versión documentada de Latino!
 
-> Esta documentación no está aun terminada, se encuentra en un proceso de desarrollo y cada día trato de escribir algo, espero pronto terminarla, si tienes sugerencias, si quieres contribui porfavor lee estas instrucciones, gracias.
+> Esta documentación no está aun terminada, se encuentra en un proceso de desarrollo y cada día trato de escribir algo, espero pronto terminarla, si tienes sugerencias, si quieres contribui porfavor [lee estas instrucciones](http://lenguaje-latino.org/como-colaborar-con-la-redaccion-de-la-documentacion-de-latino-colibri/),  gracias.
 
 ## A quién está destinado?
 
