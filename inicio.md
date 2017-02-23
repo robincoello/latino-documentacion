@@ -1,16 +1,12 @@
 # Latino - Colibri
 
-Colibri es la versión documentada de Latino!
-
-> Esta documentación no está aun terminada, se encuentra en un proceso de desarrollo y cada día trato de escribir algo, espero pronto terminarla, si tienes sugerencias, gracias.
-
 ## Si sabes leer y escribir, sabes programar!
 
-### [http://lenguaje-latino.org/](http://lenguaje-latino.org/)
+Colibri es la versión documentada de Latino!
 
-Documentación en desarrollo, si quieres contribuir, eres bienvenido
+> Esta documentación no está aun terminada, se encuentra en un proceso de desarrollo y cada día trato de escribir algo, espero pronto terminarla, si tienes sugerencias, si quieres contribui porfavor lee estas instrucciones, gracias.
 
-### A quién está destinado?
+## A quién está destinado?
 
 Este libro está destinado a personas con muy pocos conocimientos de programación, explicaremos conceptos informáticos sin mucha complicación
 
