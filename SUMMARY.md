@@ -9,6 +9,7 @@
 * [Variables](variables.md)
   * [Constantes](constantes.md)
   * [Globales](globales.md)
+  * [Booleano](booleano.md)
 * [funciones](funciones.md)
   * [Funciones de cadenas](cadenas.md)
   * [Leer teclado](leer_teclado.md)
