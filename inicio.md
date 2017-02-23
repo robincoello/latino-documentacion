@@ -1,6 +1,6 @@
-
-
 # Latino - Colibri
+
+Colibri es la versión documentada de Latino!
 
 > Esta documentación no está aun terminada, se encuentra en un proceso de desarrollo y cada día trato de escribir algo, espero pronto terminarla, si tienes sugerencias, gracias.
 
@@ -24,7 +24,7 @@ A lo largo de este libro se trabajará con ejemplos y se usará el lenguaje de p
 
 ### Lo que necesitas para empezar
 
-Ser mayor de edad, haber pagado todos tus impuestos, no deberle plata a nadie, y sobre todo tener un gato negro con ojos amarillos, bueno, bueno, no te asuste si no tienes gato.   
+Ser mayor de edad, haber pagado todos tus impuestos, no deberle plata a nadie, y sobre todo tener un gato negro con ojos amarillos, bueno, bueno, no te asuste si no tienes gato.  
 En realidad no necesitas mayor cosa, solo el deseo de aprender, y saber que: _Programando es la única forma de ser programador_, y no te rindas a la primera barrera que encuentres, y claro también tener la última versión de Latino-Colibri.
 
 ### Instalar Latino-Colibri
