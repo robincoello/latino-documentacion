@@ -15,7 +15,6 @@ help
 
 ```
 CD o CHDIR
-
 ```
 
 Muestra el nombre del directorio actual o permite cambiar de directorio.
@@ -34,7 +33,6 @@ Cambia el directorio actual.
 
 ```
  CLS
-
 ```
 
 Limpia el contenido de la pantalla.
@@ -47,10 +45,9 @@ CLS
 
 ```
  CMD
-
 ```
 
-Inicia una nueva[ventana](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#ventana)del intérprete de comandos.
+Inicia una nuevaventanadel intérprete de comandos.
 
 CMD
 
@@ -70,14 +67,13 @@ Inicia un nuevo intérprete, ejecuta el comando y permanece activo.
 
 ```
  COPY
-
 ```
 
-Copia un[archivo](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#archivo) a un directorio de destino.
+Copia un archivo a un directorio de destino.
 
 COPY
 
-Copia el[archivo](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#archivo)origen en el destino.puede ser el nombre de un directorio o de un[archivo](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#archivo).
+Copia el archivo origen en el destino.puede ser el nombre de un directorio o de un archivo 
 
 ---
 
@@ -85,7 +81,6 @@ Copia el[archivo](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-pr
 
 ```
  DATE
-
 ```
 
 Muestra o cambia la fecha del sistema.
@@ -104,7 +99,6 @@ Muestra la fecha del sistema y permite cambiarla.
 
 ```
  DEL o ERASE
-
 ```
 
 Borra uno o más archivos.
@@ -121,7 +115,6 @@ puede incluir nombres de directorios y comodines para borrar varios archivos.
 
 ```
  DIR
-
 ```
 
 Muestra el contenido \(archivos y subdirectorios\) de un directorio.
@@ -140,7 +133,6 @@ Muestra el contenido del directorio indicado.
 
 ```
  ECHO
-
 ```
 
 Muestra un mensaje y permite activar y desactivar la salida del mismo comando ECHO.
@@ -163,18 +155,17 @@ Muestra el mensaje en la consola.
 
 ```
  EXIT
-
 ```
 
-Termina el intérprete de comandos, o un programa de comandos \([archivo](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#archivo).bat\).
+Termina el intérprete de comandos, o un programa de comandos \(archivo.bat\).
 
 EXIT
 
-Sale de la[ventana](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#ventana)del intérprete de comandos.
+Sale de la ventana del intérprete de comandos.
 
 EXIT /B
 
-Sale de un programa de comandos \([archivo](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#archivo).bat\) sin salir de la[ventana](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#ventana)del intérprete.
+Sale de un programa de comandos \(archivo.bat\) sin salir de laventana del intérprete.
 
 ---
 
@@ -182,7 +173,6 @@ Sale de un programa de comandos \([archivo](https://universidad-de-los-andes.git
 
 ```
  FIND
-
 ```
 
 Busca una cadena de texto en uno o más archivos del sistema.
@@ -199,7 +189,6 @@ Busca la cadena dada en los archivos especificados por
 
 ```
  HELP
-
 ```
 
 Brinda la información de ayuda para los comandos de Windows.
@@ -218,7 +207,6 @@ Muestra la ayuda detallada de un comando en particular.
 
 ```
  MD o MKDIR
-
 ```
 
 Crea un directorio o una ruta de directorios.
@@ -233,10 +221,9 @@ Crea el directorio o la ruta de directorios indicada en. Si para ello hace falta
 
 ```
  MORE
-
 ```
 
-Muestra por partes en la pantalla el contenido de un[archivo](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#archivo)o la salida de un comando.
+Muestra por partes en la pantalla el contenido de un archivo o la salida de un comando.
 
 MORE
 
@@ -252,18 +239,17 @@ Muestra la salida del comando haciendo una pausa cada vez que se llena la pantal
 
 ```
  MOVE
-
 ```
 
 Mueve archivos y cambia el nombre de archivos y directorios.
 
 MOVE
 
-Cambia de nombre el[archivo](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#archivo)o el directorio.
+Cambia de nombre el archivo o el directorio.
 
 MOVE
 
-Mueve el[archivo](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#archivo)al destino indicado.
+Mueve el archivo al destino indicado.
 
 ---
 
@@ -271,7 +257,6 @@ Mueve el[archivo](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-pr
 
 ```
  PATH
-
 ```
 
 Muestra o establece la ruta de búsqueda de los archivos ejecutables.
@@ -282,7 +267,7 @@ Muestra la ruta de búsqueda de los archivos ejecutables.
 
 PATH
 
-Establece las rutas de búsqueda. Diferentes rutas pueden separarse con el carácter ‘;’. Puede utilizar la[variable](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#variable)%PATH% para agregar las nuevas rutas a las establecidas con anterioridad.
+Establece las rutas de búsqueda. Diferentes rutas pueden separarse con el carácter ‘;’. Puede utilizar lavariable%PATH% para agregar las nuevas rutas a las establecidas con anterioridad.
 
 PATH ;
 
@@ -294,7 +279,6 @@ Borra todas las rutas de búsqueda establecidas.
 
 ```
  PAUSE
-
 ```
 
 Suspende la ejecución de un programa de comandos y espera que el usuario oprima una tecla para continuar.
@@ -309,7 +293,6 @@ Suspende el proceso actual del programa y presenta el mensaje "Presione una tecl
 
 ```
  PROMPT
-
 ```
 
 Cambia el símbolo del sistema que se muestra en el intérprete de comandos.
@@ -324,7 +307,6 @@ Cambia el símbolo del sistema al texto indicado. Existen códigos para incluir 
 
 ```
  RD o RMDIR
-
 ```
 
 Elimina un directorio.
@@ -347,7 +329,6 @@ Elimina el árbol de directorios cuya raíz essin pedir confirmación.
 
 ```
  REM
-
 ```
 
 Inicia un comentario en los archivos de programas de comandos \(archivos .bat\).
@@ -362,14 +343,13 @@ Introduce el comentario indicado.
 
 ```
  REN o RENAME
-
 ```
 
-Cambia el nombre de un[archivo](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#archivo).
+Cambia el nombre de unarchivo.
 
 REN
 
-Cambia el nombre del[archivo](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#archivo).
+Cambia el nombre delarchivo.
 
 ---
 
@@ -377,7 +357,6 @@ Cambia el nombre del[archivo](https://universidad-de-los-andes.gitbooks.io/funda
 
 ```
  SET
-
 ```
 
 Muestra, cambia o elimina las variables de entorno del intérprete de comandos.
@@ -392,7 +371,7 @@ Muestra el valor asignado a.
 
 SET=
 
-Establece la cadena dada como valor de la[variable](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#variable)indicada.
+Establece la cadena dada como valor de lavariableindicada.
 
 ---
 
@@ -400,22 +379,21 @@ Establece la cadena dada como valor de la[variable](https://universidad-de-los-a
 
 ```
  START
-
 ```
 
-Inicia una nueva[ventana](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#ventana)del intérprete de comandos.
+Inicia una nuevaventanadel intérprete de comandos.
 
 START
 
-Abre una nueva[ventana](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#ventana)sin ejecutar ningún programa o comando.
+Abre una nuevaventanasin ejecutar ningún programa o comando.
 
 START
 
-Abre una nueva[ventana](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#ventana)y ejecuta el comando indicado.
+Abre una nuevaventanay ejecuta el comando indicado.
 
 START
 
-Abre una nueva[ventana](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#ventana)y ejecuta el[archivo](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#archivo)ejecutable indicado.
+Abre una nuevaventanaarchivoy ejecuta elejecutable indicado.
 
 ---
 
@@ -423,7 +401,6 @@ Abre una nueva[ventana](https://universidad-de-los-andes.gitbooks.io/fundamentos
 
 ```
  TIME
-
 ```
 
 Muestra o cambia la hora del sistema.
@@ -442,14 +419,13 @@ Muestra la hora del sistema y permite cambiarla.
 
 ```
  TITLE
-
 ```
 
-Establece el título de la[ventana](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#ventana)del intérprete de comandos.
+Establece el título de laventanadel intérprete de comandos.
 
 TITLE
 
-Cambia el título de la[ventana](https://universidad-de-los-andes.gitbooks.io/fundamentos-de-programacion/content/GLOSSARY.html#ventana)al indicado.
+Cambia el título de laventanaal indicado.
 
 ---
 
@@ -457,7 +433,6 @@ Cambia el título de la[ventana](https://universidad-de-los-andes.gitbooks.io/fu
 
 ```
  TYPE
-
 ```
 
 Muestra el contenido de uno o más archivos de texto.
@@ -472,7 +447,6 @@ Muestra el contenido de los archivos incluidos en la lista.
 
 ```
  VER
-
 ```
 
 Muestra la versión del sistema operativo Windows.
@@ -487,7 +461,6 @@ Muestra la versión de Windows.
 
 ```
  XCOPY
-
 ```
 
 Copia árboles de archivos y directorios.
