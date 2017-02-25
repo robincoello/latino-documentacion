@@ -42,4 +42,5 @@
   * [Autores](autores.md)
   * [Lectura recomendada](lectura_recomendada.md)
   * [Comandos Windows](comandos-windows.md)
+  * [Tabla código UNICODE](tabla-codigo-unicode.md)
 
