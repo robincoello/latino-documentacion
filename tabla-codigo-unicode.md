@@ -1,6 +1,6 @@
 # Tabla de Códigos UNICODE {#d-tabla-de-códigos-unicode}
 
-La siguiente tabla muestra los principales caracteres UNICODE usados en Java, con su respectivo valor numérico.
+La siguiente tabla muestra los principales caracteres UNICODE, con su respectivo valor numérico.
 
 |  |  |  |  |  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
