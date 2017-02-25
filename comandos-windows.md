@@ -5,8 +5,7 @@ A continuación encontrará un subconjunto de los comandos de Windows que se pue
 Para obtener la lista completa de los comandos válidos utilice el comando help y, para obtener mayor información de un comando en particular, utilice
 
 ```
-help  
-<comando>
+help  <comando>
 ```
 
 ---
@@ -73,7 +72,7 @@ Copia un archivo a un directorio de destino.
 
 COPY
 
-Copia el archivo origen en el destino.puede ser el nombre de un directorio o de un archivo 
+Copia el archivo origen en el destino.puede ser el nombre de un directorio o de un archivo
 
 ---
 
