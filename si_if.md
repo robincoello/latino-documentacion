@@ -11,9 +11,26 @@ fin
 ### Ejemplo
 
 
+```
+si(clave == "Srdp#ds9*/")
+  escribir("Clave correcta")
+fin
+```
+
+Aquí estoy comparando la variable  ```clave``` y si es igual a ```Srdp#ds9*/``` escribo "clave correcta.
+
+Para que funcione realmente debo pedir al usuario la clave y quedaria así:
+```
+clave = leer()
+si(clave == "Srdp#ds9*/")
+  escribir("Clave correcta")
+fin
 
 
+```
 
+
+Otro Ejemplo para saber si el número es positivo
 
 
 
