@@ -2,6 +2,11 @@
 
 * [Inicio](inicio.md)
 * [Instalar latino](introduccion/instalar_latino.md)
+  * Windows
+  * Debian / Ubuntu
+  * Fedora / CentOs
+  * Mac
+  * Otros
 * [Básico](basico.md)
 * [Hola mundo](hola_mundo.md)
 * [Comentarios](comentarios.md)
