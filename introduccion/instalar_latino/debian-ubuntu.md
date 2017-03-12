@@ -5,7 +5,10 @@ Para la versión "Colibri" ejecuta las siguientes linea en la Consola
 Empezamos por actualizar e instalar algunas de las librerias que necesitamos:
 
 ```
-sudo apt-get update && apt-get install git bison flex cmake gcc g++ libjansson-dev libcurl4-openssl-dev libhiredis-dev redis-server curl libgtk-3-dev libreadline-dev libpthread-stubs0-dev
+sudo apt-get update && apt-get install git bison flex 
+sudo apt-get cmake gcc g++ libjansson-dev libcurl4-openssl-dev 
+sudo apt-get libhiredis-dev redis-server curl libgtk-3-dev 
+sudo apt-get libreadline-dev libpthread-stubs0-dev
 ```
 
 Ahora la instlación propiamente dicha:
