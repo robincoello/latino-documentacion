@@ -1,5 +1,3 @@
-# Listas
-
 Son extructuras muy prácticas para cuando deseamos agrupar elementos, vamos a dar un ejemplo:
 
 ```
