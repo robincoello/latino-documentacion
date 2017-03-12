@@ -71,11 +71,12 @@ Otros ejemplos
 
 ### Verifica si la clave es correcta
 ```
-clave = 'robinson'
-si (clave == '123abc') 
-  escribir("La clave es correcta, puede entrar")
+valor = '123'
+si (valor) 
+  escribir("La variable valor tiene un valor buleano positivo")
 fin
 ```
+> Ya que 0 es negativo y cualquier cosa diferente a cero es positivo
 
 
 
