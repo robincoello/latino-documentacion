@@ -5,7 +5,7 @@
   * [Windows](introduccion/instalar_latino/windows.md)
   * [Debian / Ubuntu](introduccion/instalar_latino/debian-ubuntu.md)
   * Fedora / CentOs
-  * Mac
+  * [Mac](introduccion/instalar_latino/mac.md)
   * Otros
 * [Básico](basico.md)
 * [Hola mundo](hola_mundo.md)
