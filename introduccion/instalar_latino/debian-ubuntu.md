@@ -1,6 +1,6 @@
 # Debian / Ubuntu
 
-Para la versión "Colibri" ejecuta las siguientes linea en la Consola 
+Para la versión "Colibri" ejecuta las siguientes linea en la Consola
 
 Empezamos por actualizar e instalar algunas de las librerias que necesitamos:
 
@@ -9,8 +9,6 @@ sudo apt-get update && apt-get install git bison flex cmake gcc g++ libjansson-d
 ```
 
 Ahora la instlación propiamente dicha:
-
-
 
 ```
  cd ~
@@ -25,14 +23,11 @@ Ahora la instlación propiamente dicha:
  cd ~/colibri_ejemplos
  sudo rm -r ~/colibri
  colibri bienvenida.lat
-
 ```
-
-
 
 ## Explicación:
 
-Vamos al repertorio personal 
+Vamos al repertorio personal
 
 ```
  cd ~
@@ -72,15 +67,11 @@ Cambiamos el nombre de latino para colibri
 
 Copiamos la carpeta que viene con los ejemplos en nuestro repertorio personal
 
-
-
 ```
 sudo mv /usr/bin/latino /usr/bin/colibri
 ```
 
 Borramos todo lo que cargamos
-
-
 
 ```
 cd ~/colibri_ejemplos
@@ -92,24 +83,6 @@ ejecutamos el ejemplo para la bienvenida
 ```
 colibri bienvenida.lat
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
