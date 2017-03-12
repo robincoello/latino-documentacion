@@ -2,8 +2,8 @@
 
 * [Inicio](inicio.md)
 * [Instalar latino](introduccion/instalar_latino.md)
-  * Windows
-  * Debian / Ubuntu
+  * [Windows](introduccion/instalar_latino/windows.md)
+  * [Debian / Ubuntu](introduccion/instalar_latino/debian-ubuntu.md)
   * Fedora / CentOs
   * Mac
   * Otros
