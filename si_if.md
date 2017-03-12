@@ -1,5 +1,7 @@
 # si (if)
-`si`: es una instrucción que permite la ejecución del código, si la condición que está entre los paréntesis se cumple, donde condición es una expresión lógica (verdadero o falso), su sintaxis es la siguiente:
+`si`: es una instrucción que permite la ejecución del código, si la condición que está entre los paréntesis se cumple
+> donde condición es una expresión lógica (verdadero o falso)
+su sintaxis es la siguiente:
 
 ```
 si( condicion )
@@ -7,6 +9,13 @@ si( condicion )
 fin
 ```
 ### Ejemplo
+
+
+
+
+
+
+
 
 ```
 # se ocupa la funcion "leer" para leer un valor del teclado
