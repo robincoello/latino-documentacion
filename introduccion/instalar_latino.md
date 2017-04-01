@@ -1,6 +1,6 @@
-# Instalar latino
+# Instalar
 
-Latino es un sistema multi plataforma, esto quiere decir que puedes hacerlo funcionar en los siguientes sistemas operativos: 
+Latino es un sistema multi plataforma, esto quiere decir que puedes hacerlo funcionar en los siguientes sistemas operativos:
 
 * Windows
 * Debian / Ubuntu
