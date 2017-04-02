@@ -4,7 +4,7 @@
 * [Instalar latino](introduccion/instalar_latino.md)
   * [Windows](introduccion/instalar_latino/windows.md)
   * [Debian / Ubuntu](introduccion/instalar_latino/debian-ubuntu.md)
-  * Fedora / CentOs
+  * [Fedora / CentOs](introduccion/instalar_latino/fedora-centos.md)
   * [Mac](introduccion/instalar_latino/mac.md)
   * Otros
 * [Básico](basico.md)
