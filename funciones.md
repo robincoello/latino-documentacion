@@ -5,13 +5,13 @@ Una lista de las funciones esta disponible aca [http://lenguaje-latino.org/doc/]
 
 Para crear una función debes usar el siguiente formato:
 
-> Por el momento \(versión 0.8.11\), latino no acepta argumentos opcionales
-
 ```
 funcion nombre(argumentos)
   código interno a la funcion
 fin
 ```
+
+> Por el momento \(versión 0.8.11\), latino no acepta argumentos opcionales
 
 Para hacer el llamado a la función se usa el siguiente formato
 
