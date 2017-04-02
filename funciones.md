@@ -1,10 +1,11 @@
 # Funciones
-Una función nos permite crear un pedazo de código el cual podemos ejecutarlo en otra parte tantas veces lo deseamos.
-Una lista de las funciones de latino esta disponible aca [http://lenguaje-latino.org/doc/](http://lenguaje-latino.org/doc/)
 
+Una función nos permite crear un pedazo de código el cual podemos ejecutarlo en otra parte tantas veces lo deseamos.  
+Una lista de las funciones esta disponible aca [http://lenguaje-latino.org/doc/](http://lenguaje-latino.org/doc/)
 
 Para crear una función debes usar el siguiente formato:
-> Por el momento (versión 0.8.11), latino no acepta argumentos opcionales
+
+> Por el momento \(versión 0.8.11\), latino no acepta argumentos opcionales
 
 ```
 funcion nombre(argumentos)
@@ -19,6 +20,7 @@ nombre_funcion(argumentos)
 ```
 
 ### Ejemplo
+
 Vamos a crear tres funciones: promedio, max, min
 
 ```
@@ -27,6 +29,7 @@ funcion promedio(a,b)
     retorno (a+b)/2
 fin
 ```
+
 ```
 // paso dos valores y me da el valor más alto
 funcion max(a,b)
@@ -48,10 +51,16 @@ funcion min(a,b)
     fin
 fin
 ```
+
 ### Llamado de las funciones anteriores
+
 Y ahora para poder ejecutar o hacer el llamado de las funciones debemos hacerlo así:
+
 ```
 escribir(promedio(3, 5)) #4
 escribir(max(3, 5)) #5
 escribir(min(3, 5)) #3
 ```
+
+
+
