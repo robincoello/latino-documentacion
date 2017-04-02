@@ -25,6 +25,7 @@ Vamos a crear tres funciones: promedio, max, min
 
 ```
 // me calcula el promedio de dos valores dados
+
 funcion promedio(a,b)
     retorno (a+b)/2
 fin
