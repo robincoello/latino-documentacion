@@ -1,4 +1,5 @@
 # Leer teclado
+
 Esto se usa cuando deseas pasar un valor a travez de la consola, debes asignarlo a una variable:
 
 ```
@@ -8,6 +9,7 @@ escribir("Cómo te llamas?")
 
 nombre = leer()
 escribir("hola " . nombre)
-
 ```
+
+
 
