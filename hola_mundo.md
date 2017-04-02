@@ -1,4 +1,4 @@
-Asi es como haces tu primer Hola mundo en latino.
+Asi es como haces tu primer Hola mundo.
 
 ```
 escribir("Hola mundo")
