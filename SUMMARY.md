@@ -26,8 +26,8 @@
 * [Operadores comparación](Operadores_comparacion.md)
   * [Desigualdad](desigualdad.md)
   * [Operadores lógicos](Operadores Lógicos.md)
-  * Igualdad
-  * De comparación
+  * [Igualdad](igualdad.md)
+  * [De comparación](de-comparacion.md)
 * [si \(if\)](si_if.md)
 * [si sino \(if else\)](si_sino_if_else.md)
 * [mientras \( while\)](mientras__while.md)
