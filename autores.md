@@ -5,16 +5,20 @@ Bruselas - Bélgica
 Email: robincoello@hotmail.com  
 Tel: +32474624707
 
-Correcciones realizadas por:   
+Colaboradores:
+
+
+
+Correcciones realizadas por:  
 \(pon tus datos si es el caso\)
 
-Gráficos   
+Gráficos  
 \(pon tus datos si es el caso\)
 
 ... otra cosa  
 \(pon tus datos si es el caso\)
 
-La versión en linea la puedes encontrar en https://www.gitbook.com/book/robincoello/latino/details 
+La versión en linea la puedes encontrar en [https://www.gitbook.com/book/robincoello/latino/details](https://www.gitbook.com/book/robincoello/latino/details)
 
 Algunos de los ejemplos aquí mostrados fueron tomados del sitio oficial de 'Latino' \([lenguaje-latino.org](http://lenguaje-latino.org/)\), así como de su repositorio en Github \([https://github.com/primitivorm/latino](https://github.com/primitivorm/latino)\).
 
