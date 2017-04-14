@@ -31,8 +31,7 @@ Vamos al repertorio personal
 Hacemos una copia de "Colibri"
 
 ```
- git clone --recursive https://github.com/primitivorm/latino
-
+git clone --recursive https://github.com/primitivorm/latino
 ```
 
 Ahora entramos en la caperta creada
