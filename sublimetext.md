@@ -1,3 +1,6 @@
+
+---
+
 # Sublime text
 
 Sublime text \( [https://www.sublimetext.com/](https://www.sublimetext.com/) \) es un IDE \(interfase de dearrollo\) más que puedes usar para trabajar con "Latino", sigue los siguientes pasos para colorear el código:
