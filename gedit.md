@@ -9,6 +9,14 @@ chmod +x install.sh
 sudo ./install.sh
 ```
 
+
+
+Después debes escojer el modo de coloración "Latino" en las opciones
+
+
+
+
+
 En si lo que hacemos es copiar el fichero **latino.lang** en la carpeta
 
 ## /usr/share/gtksourceview-%/language-specs
