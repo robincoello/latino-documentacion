@@ -52,19 +52,11 @@ make
 sudo make install
 ```
 
-Ejecutamos 
+Ejecutamos
 
 ```
 latino
 ```
 
-
-
-
-
-
-
-
-
-
+y nos dara algo coo esto.
 
