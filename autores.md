@@ -5,13 +5,13 @@ Bruselas - Bélgica
 Email: robincoello@hotmail.com  
 Tel: +32474624707
 
-Colaboradores:  
+**Colaboradores**:  
 \(pon tus datos aca\)
 
-Correcciones realizadas por:  
+**Correcciones realizadas por:**  
 \(pon tus datos si es el caso\)
 
-Gráficos  
+**Gráficos**  
 \(pon tus datos si es el caso\)
 
 ... otra cosa  
