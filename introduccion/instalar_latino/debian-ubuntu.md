@@ -28,7 +28,7 @@ Vamos al repertorio personal
  cd ~
 ```
 
-Hacemos una copia de "Colibri"
+Hacemos una copia de "Latino"
 
 ```
 git clone --recursive https://github.com/primitivorm/latino
@@ -37,7 +37,7 @@ git clone --recursive https://github.com/primitivorm/latino
 Ahora entramos en la caperta creada
 
 ```
-cd colibri
+cd latino
 ```
 
 Actualizamos las dependencias
