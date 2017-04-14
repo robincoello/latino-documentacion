@@ -1,11 +1,10 @@
 # Atom
 
-Atom es otro IDE \(interfase de desarrollo\) y Latino tiene ya la coloración del código con Atom.  
-![https://github.com/primitivorm/latino/raw/master/AtomPlugin/screenshot.png](https://github.com/primitivorm/latino/raw/master/AtomPlugin/screenshot.png)
+Atom es otro IDE \(interfase de desarrollo\) y Latino tiene ya la coloración del código con Atom.
 
 ### Prerequisitos:
 
-Debemos tener instalado Atom, podemos descargar la versión correspondiente para nuestro sistema operativo desde la página oficial de Atom [https://atom.io/](https://atom.io/) 
+Debemos tener instalado Atom, podemos descargar la versión correspondiente para nuestro sistema operativo desde la página oficial de Atom [https://atom.io/](https://atom.io/)
 
 ### Ahora seguimos las siguientes instrucciones:
 
