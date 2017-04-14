@@ -34,20 +34,17 @@ sino
 fin
 ```
 
-Como el valor booleano \(verdadero/falso\) falso es igual a cero '0' podriamos también hacer lo siguiente: 
+Como el valor booleano \(verdadero/falso\) falso es igual a cero '0' podriamos también hacer lo siguiente:
 
 ```
 a = verdadero
 
-Si(a)
+si(a)
    poner("Es verdadero")
 sino
    poner("Es falso")   
 fin
-
 ```
-
-
 
 ### asignado a una variable
 
