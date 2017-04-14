@@ -21,5 +21,5 @@ Esto hara que Gedit reconosca "Latino" y va a colorear el código
 
 Nota: El simbolo por siento debe ser sustituido por la version de gtk con que se cuenta.
 
-
+![](http://lenguaje-latino.org/foro/wp-content/uploads/sites/2/wpforo/default_attachments/1489262459-gedit-latino.png)
 
