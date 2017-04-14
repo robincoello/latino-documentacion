@@ -6,7 +6,7 @@ sudo apt-get install libcurl4-openssl-dev libhiredis-dev redis-server curl libgt
 sudo apt-get install libreadline-dev libpthread-stubs0-dev
 ```
 
-Ahora la instlación propiamente dicha:
+Ahora la instalación propiamente dicha:
 
 ```
  cd ~
