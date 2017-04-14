@@ -63,9 +63,8 @@ y nos dara algo coo esto.
 ```
 Latino 0.9.1
 Todos los derechos reservados (C) 2015-2017. Latinoamerica
-latino> 
-
+latino>
 ```
 
-
+Estamos listos para trabajar, 
 
