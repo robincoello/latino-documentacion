@@ -1,5 +1,3 @@
-Para la versión "Colibri" ejecuta las siguientes linea en la Consola
-
 Empezamos por actualizar e instalar algunas de las librerias que necesitamos:
 
 ```
