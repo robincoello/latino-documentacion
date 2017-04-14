@@ -9,5 +9,11 @@
 * [Comunidad](http://lenguaje-latino.org/comunidad/)
 * [Mi Primer Programa](https://robincoello.gitbooks.io/latino/content/basico.html)
 
-Involúcrate
+**Involúcrate**
+
+* [Foro](http://lenguaje-latino.org/foro/)
+* [Facebook](https://www.facebook.com/latinolenguaje/)
+* [Youtube](https://www.youtube.com/channel/UCLVTJpQn-TDbBSwR732kvnQ) \(Muy Pronto\)
+
+
 
