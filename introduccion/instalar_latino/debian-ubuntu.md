@@ -1,6 +1,4 @@
- ver un video de como proceder aca
-
-[https://youtu.be/Q5xGm\_Bp22k](https://youtu.be/Q5xGm_Bp22k)Para la versión "Colibri" ejecuta las siguientes linea en la Consola
+Para la versión "Colibri" ejecuta las siguientes linea en la Consola
 
 Empezamos por actualizar e instalar algunas de las librerias que necesitamos:
 
