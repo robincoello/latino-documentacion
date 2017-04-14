@@ -39,6 +39,7 @@
   * [Notepad++](notepad++.md)
   * [Sublime Text](sublimetext.md)
   * [Atom](atom.md)
+  * [Gedit](gedit.md)
 * [Ejercicios](ejercicios.md)
   * [Básicos](basicos.md)
   * [Medio](medio.md)
