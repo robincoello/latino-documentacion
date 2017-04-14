@@ -5,7 +5,9 @@
 **Empezando**
 
 * [Acerca de Latino](http://lenguaje-latino.org/)
+* [Instalar Latino \(en Windows\)](https://robincoello.gitbooks.io/latino/content/introduccion/instalar_latino/windows.html)
 * [Comunidad](http://lenguaje-latino.org/comunidad/)
+* [Mi Primer Programa](https://robincoello.gitbooks.io/latino/content/basico.html)
 
 Involúcrate
 
