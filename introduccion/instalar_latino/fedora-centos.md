@@ -3,8 +3,8 @@
 Antes de instalar latino, vamos a instalar todos paquetes necesarios:
 
 ```
-sudo dnf install bison flex cmake gcc g++ libjansson-dev libcurl4-openssl-dev libhiredis-dev 
-sudo dnf install redis-server curl jansson-devel groupinstall "Development Tools" "Development Libraries" 
+sudo dnf install bison flex cmake gcc g++ libjansson-dev libcurl4-openssl-dev libhiredis-dev curl 
+sudo dnf install redis-server jansson-devel groupinstall "Development Tools" "Development Libraries" 
 sudo dnf install groupinstall "RPM Development Tools" redhat-lsb libgtk-3-dev
 ```
 
@@ -48,14 +48,12 @@ Te dará algo parecido a esto:
 
 ```
 latino: /usr/local/bin/latino
-
 ```
 
 Ahora que sabemos dónde está solamente lo borramos:
 
 ```
 sudo rm /usr/local/bin/latino
-
 ```
 
 ## Ayuda en nuestro foro
