@@ -4,11 +4,9 @@ Latino se instala como cualquier otro programa para ello obten la última versi�
 
 [http://lenguaje-latino.org/documentacion/download/107/](http://lenguaje-latino.org/documentacion/download/107/)
 
-Otras versiones puedes encontrarlas en: 
+Otras versiones puedes encontrarlas en:
 
-http://lenguaje-latino.org/documentacion/docs/latino/instalacion-actualizacion/windows/
-
-
+[http://lenguaje-latino.org/documentacion/docs/latino/instalacion-actualizacion/windows/](http://lenguaje-latino.org/documentacion/docs/latino/instalacion-actualizacion/windows/)
 
 Sigue los pasos
 
@@ -31,8 +29,4 @@ Sigue los pasos
 Listo !!
 
 Si tienes alguna dificultad, dejanos un mensaje en el [foro](http://lenguaje-latino.org/foro/)
-
-[**Seguir con “Los primeros pasos”**](http://lenguaje-latino.org/documentacion/docs/coibri/primeros-pasos/)f
-
-f
 
