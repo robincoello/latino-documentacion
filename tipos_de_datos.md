@@ -27,7 +27,7 @@ Algunos ejemplos de datos son: la edad, el saldo de una cuenta bancaria, el nomb
   area = 12.354
   ```
 
-> Los numeros no se debe poner ni comillas simples ni dobles ya que si lo haces se consideraría como una cadena
+> Los números no se debe poner ni comillas simples ni dobles ya que si lo haces se consideraría como una cadena
 
 * **Listas**: Son un conjunto de datos enlistados uno despues de otro, separados por coma y encerrados entre corchetes \[ y \], por ejemplo:
 
