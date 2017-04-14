@@ -52,30 +52,19 @@ make
 sudo make install
 ```
 
-Cambiamos el nombre de latino para colibri
+Ejecutamos 
 
 ```
- sudo mv /usr/bin/latino /usr/bin/colibri
+latino
 ```
 
-Copiamos la carpeta que viene con los ejemplos en nuestro repertorio personal
 
-```
-sudo mv /usr/bin/latino /usr/bin/colibri
-```
 
-Borramos todo lo que cargamos
 
-```
-cd ~/colibri_ejemplos
-sudo rm -r ~/colibri
-```
 
-ejecutamos el ejemplo para la bienvenida
 
-```
-colibri bienvenida.lat
-```
+
+
 
 
 
