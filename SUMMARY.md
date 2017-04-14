@@ -40,6 +40,7 @@
   * [Sublime Text](sublimetext.md)
   * [Atom](atom.md)
   * [Gedit](gedit.md)
+  * [Vim](vim.md)
 * [Ejercicios](ejercicios.md)
   * [Básicos](basicos.md)
   * [Medio](medio.md)
