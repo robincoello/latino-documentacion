@@ -1,8 +1,9 @@
 Osi
 
-
-
 ```
+// dia
+d = 2
+
 si ( d == 1)
     escribir("Es lunes")
 osi d == 2 
@@ -21,8 +22,6 @@ sino
    escribir("Día desconocido")
 fin
 ```
-
-
 
 
 
