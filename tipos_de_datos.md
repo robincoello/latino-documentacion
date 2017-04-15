@@ -51,5 +51,7 @@ a = 900
              "pedro" : 7.1 }
   ```
 
+## Diferencias entre listas y Diccionarios
+
 
 
