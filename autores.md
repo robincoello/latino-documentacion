@@ -6,7 +6,7 @@ Email: robincoello@hotmail.com
 Tel: +32474624707
 
 **Colaboradores**:  
-\(pon tus datos aca\)
+Melvin Guerrero - email: [melving24@gmail.com](mailto:melving24@gmail.com) - 
 
 **Correcciones realizadas por:**  
 \(pon tus datos si es el caso\)
