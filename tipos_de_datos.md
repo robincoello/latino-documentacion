@@ -13,11 +13,11 @@ Algunos ejemplos de datos son: la edad, el saldo de una cuenta bancaria, el nomb
 
 * **Lógico**: Representa verdadero o falso para expresiones lógicas, existen las palabras reservadas `verdadero` y `falso` para representar valores booleanos, un valor falso es el cero, y todo otro valor sea cual sea es verdadero
 
-* **Cadena**: Una cadena es un grupo de caracteres \(letras, números u otro caracter\) 
+* **Cadena**: Una cadena es un grupo de caracteres \(letras, números u otro caracter\), se debe representar entre comillas simples o dobles
 
   ```
   nombre = "Juan Perez" 
-  direccion = 'Av. Siempreviva N 200' 
+  direccion = 'Av. Siempreviva N 200'
   ```
 
 * **Números**: Se emplean para representar números, por ejemplo:
