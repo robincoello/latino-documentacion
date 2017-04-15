@@ -5,8 +5,9 @@ Bruselas - Bélgica
 Email: robincoello@hotmail.com  
 Tel: +32474624707
 
-**Colaboradores**:  
-Melvin Guerrero \| Email: melving24@gmail.com \| [LinkedIn](https://www.linkedin.com/in/melvinguerrero/)
+**Colaboradores**:
+
+* Melvin Guerrero \| Email: melving24@gmail.com \| [LinkedIn](https://www.linkedin.com/in/melvinguerrero/)
 
 **Correcciones realizadas por:**  
 \(pon tus datos si es el caso\)
