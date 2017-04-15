@@ -48,10 +48,10 @@ a = 900
             } 
   #otro ejemplo, juan es la clave y 9.5 es el valor de su promedio final
   promedios = {
-            "juan" : 9.5, 
-            "lola" : 8.3, 
+            "juan"   : 9.5, 
+            "lola"   : 8.3, 
             "victor" : 9.2, 
-            "pedro" : 7.1 
+            "pedro"  : 7.1 
             }
   ```
 
