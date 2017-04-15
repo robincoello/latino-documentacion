@@ -41,14 +41,18 @@ a = 900
 
   ```
   #en este ejemplo 1 es la clave y "uno" es el valor
-  numeros = { "1" : "uno", 
+  numeros = { 
+            "1" : "uno", 
             "2" : "dos", 
-            "3" : "tres" } 
+            "3" : "tres" 
+            } 
   #otro ejemplo, juan es la clave y 9.5 es el valor de su promedio final
-  promedios = {"juan" : 9.5, 
-             "lola" : 8.3, 
-             "victor" : 9.2, 
-             "pedro" : 7.1 }
+  promedios = {
+            "juan" : 9.5, 
+            "lola" : 8.3, 
+            "victor" : 9.2, 
+            "pedro" : 7.1 
+            }
   ```
 
 ## Diferencias entre listas y Diccionarios
