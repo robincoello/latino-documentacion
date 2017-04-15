@@ -32,7 +32,7 @@ a = 900
   direccion = 'Av. Siempreviva N 200'
   ```
 
-* **Números**: Se emplean para representar números, por ejemplo:
+* **Números**: Se emplean para representar números: enteors decimales, por ejemplo:
 
   ```
   edad = 15
