@@ -1,16 +1,5 @@
 # Tipos de datos
 
-Un dato es toda aquella información que se puede tratar en un programa informático.  
-Un dato dentro de un programa se caracteriza por llevar asociado un identificador, un tipo y un valor.
-
-* **Identificador**: Nombre para referenciar al dato dentro del programa.
-* **Tipo** : El tipo de un dato determina el rango de valores que puede tomar el dato y su ocupación en memoria durante la ejecución del programa.
-  \*Valor: Será un elemento determinado dentro del rango de valores permitidos por el tipo de dato definido.
-
-Algunos ejemplos de datos son: la edad, el saldo de una cuenta bancaria, el nombre de una persona, la letra del piso de una dirección, etc.
-
-### Latino cuenta con los siguientes tipos de datos:
-
 * **Lógico**: Representa verdadero o falso para expresiones lógicas, existen las palabras reservadas `verdadero` y `falso` para representar valores booleanos, un valor falso es el cero, y todo otro valor sea cual sea es verdadero
 
 ```
