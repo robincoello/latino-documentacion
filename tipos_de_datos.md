@@ -1,4 +1,4 @@
-# Tipos de datos
+# oTipos de datos
 
 Un dato es toda aquella información que se puede tratar en un programa informático.  
 Un dato dentro de un programa se caracteriza por llevar asociado un identificador, un tipo y un valor.
@@ -32,7 +32,7 @@ a = 900
   direccion = 'Av. Siempreviva N 200'
   ```
 
-* **Números**: Se emplean para representar números: enteors decimales, por ejemplo:
+* **Números**: Se emplean para representar números: enteros decimales, por ejemplo:
 
   ```
   edad = 15
