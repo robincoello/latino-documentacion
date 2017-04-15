@@ -30,7 +30,7 @@
   * [De comparación](de-comparacion.md)
 * [si \(if\)](si_if.md)
 * [si sino \(if else\)](si_sino_if_else.md)
-* osi
+* [osi](osi.md)
 * [mientras \( while\)](mientras__while.md)
 * [repetir](repetir.md)
 * [hacer \(do while\)](hacer_do.md)
