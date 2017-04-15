@@ -1,4 +1,4 @@
-# oTipos de datos
+# Tipos de datos
 
 Un dato es toda aquella información que se puede tratar en un programa informático.  
 Un dato dentro de un programa se caracteriza por llevar asociado un identificador, un tipo y un valor.
