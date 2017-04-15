@@ -30,10 +30,12 @@
   * [De comparación](de-comparacion.md)
 * [si \(if\)](si_if.md)
 * [si sino \(if else\)](si_sino_if_else.md)
+* osi
 * [mientras \( while\)](mientras__while.md)
+* [repetir](repetir.md)
 * [hacer \(do while\)](hacer_do.md)
 * [desde \(for\)](desde.md)
-* [Elegir \(switch\)](elejir.md)
+* [elegir \(switch\)](elejir.md)
 * [Lectura](lectura.md)
 * [Editores](latino_en.md)
   * [Notepad++](notepad++.md)
