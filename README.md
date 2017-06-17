@@ -11,9 +11,7 @@
 
 **Involúcrate**
 
-* [Foro](http://lenguaje-latino.org/foro/)
-* [Facebook](https://www.facebook.com/latinolenguaje/)
-* [Youtube](https://www.youtube.com/channel/UCLVTJpQn-TDbBSwR732kvnQ) \(Muy Pronto\)
+* [http://lenguaje-latino.org/](http://lenguaje-latino.org/)
 
 
 
