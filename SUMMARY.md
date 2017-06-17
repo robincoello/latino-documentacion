@@ -1,6 +1,7 @@
 # Summary
 
 * [Inicio](inicio.md)
+  * [Index](inicio/index.md)
 * [Instalar latino](introduccion/instalar_latino.md)
   * [Windows](introduccion/instalar_latino/windows.md)
   * [Debian / Ubuntu](introduccion/instalar_latino/debian-ubuntu.md)
