@@ -1,4 +1,4 @@
-![](http://lenguaje-latino.org/wp-content/uploads/2017/03/lat-logo-1.jpg)
+![](/14632952_1855594251339335_1777450754374585823_n.jpg)
 
 **¡Bienvenidos al manual de Latino!**
 
