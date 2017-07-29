@@ -43,7 +43,7 @@ fin
 
 En la línea `si( numero >= 0 )` realizamos la comparación si esta nos da `verdadero` ejecutamos todas las lineas hasta llegar al 'fin', en este ejemplo, el código `escribir('El numero es positivo')` se ejecuta siempre y cuando el usuario escriba un numero mayor o igual a cero.
 
-https://www.youtube.com/watch?v=GoPpFjNJfVE
+video en youtube: /watch?v=GoPpFjNJfVE
 
 Lo interesante es que podemos combinar muchas maneras de comparar dentro del si, ejemplo:
 
