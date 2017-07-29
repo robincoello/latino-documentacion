@@ -49,6 +49,7 @@ Lo interesante es que podemos combinar muchas maneras de comparar dentro del si,
 
 ### Valor lógico directo
 
+
 ```
 condicion = verdadero
 si(condicion)
