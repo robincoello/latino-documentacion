@@ -3,6 +3,7 @@
 Es un editor de texto el cual ya puedes colorear el código de Latino, sigue las instucciones
 
 ```
+cd ~
 git clone  https://github.com/lenguaje-latino/Latino-Gedit-Plugin.git 
 cd Latino-Gedit-Plugin
 chmod +x install.sh
