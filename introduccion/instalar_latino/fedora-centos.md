@@ -3,14 +3,15 @@
 Antes de instalar latino, vamos a instalar todos paquetes necesarios:
 
 ```
-sudo dnf install bison flex cmake gcc g++ libjansson-dev libcurl4-openssl-dev libhiredis-dev curl 
-sudo dnf install redis-server jansson-devel groupinstall "Development Tools" "Development Libraries" 
+sudo dnf update
+sudo dnf install bison flex cmake gcc g++ 
+sudo dnf install libjansson-dev libcurl4-openssl-dev libhiredis-dev curl 
+sudo dnf install redis-server jansson-devel 
+sudo dnf install groupinstall "Development Tools" "Development Libraries" 
 sudo dnf install groupinstall "RPM Development Tools" redhat-lsb libgtk-3-dev
 ```
 
 ## INSTALAR
-
-
 
 ```
 git clone --recursive https://github.com/primitivorm/latino
