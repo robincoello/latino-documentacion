@@ -32,7 +32,7 @@ latino
 Debe darnos esto
 
 ```
-Latino 0.9.1
+Latino 1.0.0
 Todos los derechos reservados (C) 2015-2017. Latinoamerica
 latino>
 ```
