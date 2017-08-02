@@ -5,6 +5,7 @@
   * [Windows](introduccion/instalar_latino/windows.md)
   * [Debian / Ubuntu](introduccion/instalar_latino/debian-ubuntu.md)
   * [Fedora / CentOs](introduccion/instalar_latino/fedora-centos.md)
+    * [26](introduccion/instalar_latino/fedora-centos/26.md)
   * [Mac](introduccion/instalar_latino/mac.md)
   * [Otros](introduccion/instalar_latino/otros.md)
 * [Editores](latino_en.md)
