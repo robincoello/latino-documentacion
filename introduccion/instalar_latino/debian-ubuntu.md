@@ -1,8 +1,10 @@
 Empezamos por actualizar e instalar algunas de las librerias que necesitamos:
 
 ```
-sudo apt-get update && apt-get install bison flex cmake gcc g++ libjansson-dev 
-sudo apt-get install libcurl4-openssl-dev libhiredis-dev redis-server curl libgtk-3-dev 
+sudo apt-get update 
+sudo apt-get apt-get install bison flex cmake gcc g++ 
+sudo apt-get install libcurl4-openssl-dev libhiredis-dev libjansson-dev 
+sudo apt-get install redis-server curl libgtk-3-dev 
 sudo apt-get install libreadline-dev libpthread-stubs0-dev
 ```
 
@@ -66,5 +68,5 @@ Todos los derechos reservados (C) 2015-2017. Latinoamerica
 latino>
 ```
 
-Estamos listos para trabajar, 
+Estamos listos para trabajar,
 
