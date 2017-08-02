@@ -2,8 +2,9 @@
 
 `si`: es una instrucción que permite la ejecución del código, si la condición que está entre los paréntesis se cumple
 
-> donde condición es una expresión lógica \(verdadero o falso\)  
-> su sintaxis es la siguiente:
+> donde condición es una expresión lógica \(verdadero o falso\)
+
+su sintaxis es la siguiente:
 
 ```
 si( condicion )
@@ -48,7 +49,6 @@ video en youtube: /watch?v=GoPpFjNJfVE
 Lo interesante es que podemos combinar muchas maneras de comparar dentro del si, ejemplo:
 
 ### Valor lógico directo
-
 
 ```
 condicion = verdadero
