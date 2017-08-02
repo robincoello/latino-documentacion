@@ -15,7 +15,6 @@ sudo dnf install groupinstall "RPM Development Tools" redhat-lsb libgtk-3-dev
 
 ```
 git clone --recursive https://github.com/primitivorm/latino
-
 cd latino
 git submodule update --init --recursive
 cmake .
