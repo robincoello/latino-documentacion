@@ -2,11 +2,7 @@
 
 Latino se instala como cualquier otro programa para ello obten la última versión aca:
 
-[http://lenguaje-latino.org/documentacion/download/107/](http://lenguaje-latino.org/documentacion/download/107/)
-
-Otras versiones puedes encontrarlas en:
-
-[http://lenguaje-latino.org/documentacion/docs/latino/instalacion-actualizacion/windows/](http://lenguaje-latino.org/documentacion/docs/latino/instalacion-actualizacion/windows/)
+[http://lenguaje-latino.org/descargas/](http://lenguaje-latino.org/descargas/)
 
 Sigue los pasos
 
