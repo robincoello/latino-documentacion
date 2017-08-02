@@ -31,7 +31,7 @@ si(clave == "Srdp#ds9*/")
 fin
 ```
 
-Otro Ejemplo para saber si el número es positivo
+Otro ejemplo para saber si el número es positivo
 
 ```
 # se ocupa la funcion "leer" para leer un valor del teclado
