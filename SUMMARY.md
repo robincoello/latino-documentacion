@@ -8,7 +8,7 @@
     * [26](introduccion/instalar_latino/fedora-centos/26.md)
   * [Mac](introduccion/instalar_latino/mac.md)
   * [Otros](introduccion/instalar_latino/otros.md)
-* Desinstalar
+* [Desinstalar](desinstalar.md)
 * [Editores](latino_en.md)
   * [Notepad++](notepad++.md)
   * [Sublime Text](sublimetext.md)
