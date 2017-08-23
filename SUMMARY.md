@@ -7,6 +7,7 @@
   * [Fedora / CentOs](introduccion/instalar_latino/fedora-centos.md)
     * [26](introduccion/instalar_latino/fedora-centos/26.md)
     * [24](introduccion/instalar_latino/fedora-centos/24.md)
+    * 25
   * [Mac](introduccion/instalar_latino/mac.md)
   * [Otros](introduccion/instalar_latino/otros.md)
 * [Desinstalar](desinstalar.md)
