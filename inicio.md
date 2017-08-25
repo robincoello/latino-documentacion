@@ -4,7 +4,7 @@
 
 > Esta documentación no está aun terminada, se encuentra en un proceso de desarrollo y cada día trato de escribir algo, espero pronto terminarla, si tienes sugerencias, gracias.
 
-La versión más actual  de esta guía la puedes encontrar en: [http://manual.lenguaje-latino.org/book/](http://manual.lenguaje-latino.org/book/)
+La versión más actual  de esta guía la puedes encontrar en: [http://manual.lenguaje-latino.org](http://manual.lenguaje-latino.org)
 
 ## Si sabes leer y escribir, sabes programar!
 
