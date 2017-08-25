@@ -23,7 +23,6 @@
   * [si sino \(if else\)](si_sino_if_else.md)
   * [mientras \( while\)](mientras__while.md)
   * [repetir](repetir.md)
-  * [hacer \(do while\)](hacer_do.md)
   * [desde \(for\)](desde.md)
   * [elegir \(switch\)](elejir.md)
 * [Tipos de datos](tipos_de_datos.md)

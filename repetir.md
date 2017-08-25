@@ -4,7 +4,7 @@ Se parece a mientras pero en esta el codigo se ejecuta por lo menos la primera v
 
 ```
 i= 0
-    repetir
+repetir
     escribir(i)
     i++
 hasta (i >= 5)
