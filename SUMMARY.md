@@ -11,6 +11,8 @@
   * [Mac](introduccion/instalar_latino/mac.md)
   * [Otros](introduccion/instalar_latino/otros.md)
 * [Desinstalar](desinstalar.md)
+  * [Desistalar en windows](desinstalar/desistalar-en-windows.md)
+  * [Desinstalar en Linux](desinstalar/desinstalar-en-linux.md)
 * [Hola mundo](hola_mundo.md)
 * [Comentarios](comentarios.md)
 * [Concatenación](concatenacion.md)
