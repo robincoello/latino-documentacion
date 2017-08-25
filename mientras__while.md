@@ -18,7 +18,16 @@ mientras ( i < 5 )
 fin
 ```
 
+el resultado seria
 
+```
+[robinson@fedora ejemplos]$ latino hola.lat 
+Debo estudiar
+Debo estudiar
+Debo estudiar
+Debo estudiar
+Debo estudiar
+```
 
 
 
