@@ -25,7 +25,7 @@ Si ahora damos un valor inicial de 50
 
 ```
 i= 50
-    repetir
+repetir
     escribir(i)
     i++
 hasta (i >= 5)
