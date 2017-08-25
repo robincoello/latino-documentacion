@@ -1,4 +1,4 @@
-# Repetir
+# Repetir - hasta
 
 Se parece a mientras pero en esta el codigo se ejecuta por lo menos la primera vez
 

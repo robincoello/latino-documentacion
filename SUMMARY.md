@@ -22,7 +22,7 @@
   * [osi](osi.md)
   * [si sino \(if else\)](si_sino_if_else.md)
   * [mientras \( while\)](mientras__while.md)
-  * [repetir](repetir.md)
+  * [repetir - hasta](repetir.md)
   * [desde \(for\)](desde.md)
   * [elegir \(switch\)](elejir.md)
 * [Tipos de datos](tipos_de_datos.md)
