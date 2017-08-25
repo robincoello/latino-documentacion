@@ -18,17 +18,7 @@ mientras ( i < 5 )
 fin
 ```
 
-```
-i = 0
-mientras (i < 10)
-    si (i == 5)
-        imprimir("cinco")
-    sino
-        imprimir(i)
-    fin
-    i = i + 1
-fin
-```
+
 
 
 
