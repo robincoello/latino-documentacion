@@ -13,5 +13,5 @@ dia = '25'
 mes = "enero"
 ```
 
-Todos estos son considerados cadenas
+Todos estos son consideradas variables de cadena
 
