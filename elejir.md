@@ -21,5 +21,13 @@ elegir(ciudad)
 fin
 ```
 
+Ejecutando nos da
+
+```
+[robinson@fedora ejemplos]$ latino hola.lat 
+Estas en Ecuador
+
+```
+
 
 
