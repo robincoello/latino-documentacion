@@ -1,23 +1,23 @@
-c**Diccionarios**: Son un conjunto par de valores sepadados por dos puntos \(:\) que tiene un nombre y un valor, los nombres deben ser tipo `cadena`, y son encerradas entre llaves { y }, los valores par van separados por coma \(,\) por ejemplo:
+**Diccionarios**: Son un conjunto par de valores sepadados por dos puntos \(:\) que tiene un nombre y un valor, los nombres deben ser tipo `cadena`, y son encerradas entre llaves { y }, los valores par van separados por coma \(,\) por ejemplo:
 
 ```
-cliente = { 
-          "Nombre"    : "Pepito", 
-          "Apellidos" : "Perez",
-          "Tel"       : 32659855556,
-          "Jubilado"  : falso    
-          }
+personajes = { 
+       "Chilindrina": "Maria Antonieta de las Nieves",
+       "El chavo del 8": "Roberto Gomez Bolaños",
+       "Tres patines": "Leopoldo Fernandez" }
 ```
 
-En este otro ejemplo
+Para acceder a uno de ellos haemos:
 
 ```
-promedios = {
-          "juan"   : 9.5, 
-          "lola"   : 8.3, 
-          "victor" : 9.2, 
-          "pedro"  : 7.1 
-          }
+escribir(personajes["Chilindrina"])
+```
+
+y el resultado seria:
+
+```
+[robinson@fedora ejemplos]$ latino hola.lat 
+Maria Antonieta de las Nieves
 ```
 
 
