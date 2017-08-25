@@ -22,6 +22,8 @@ fin
 
 Aquí estoy comparando la variable  `clave` y si es igual a `Srdp#ds9*/` escribo "clave correcta.
 
+> Recuerde que el = es para asignar un valor auna variable y el == es para comparar
+
 Para que funcione realmente debo pedir al usuario la clave y quedaria así:
 
 ```
