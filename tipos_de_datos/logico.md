@@ -12,7 +12,7 @@ a = 'casa'
 a = 900
 ```
 
-
+> un valor falso es el **cero**, y todo otro valor sea cual sea es verdadero
 
 
 
