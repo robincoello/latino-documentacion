@@ -27,7 +27,7 @@
 * [Tipos de datos](tipos_de_datos.md)
   * [Cadena](tipos_de_datos/cadena.md)
   * [Números](tipos_de_datos/numeros.md)
-  * Listas
+  * [Listas](tipos_de_datos/listas.md)
   * Diccionarios
 * [Listas](listas.md)
 * [Expresiones](expresiones.md)
