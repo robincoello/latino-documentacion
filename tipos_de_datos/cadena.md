@@ -5,7 +5,7 @@ nombre = "Juan Perez"
 direccion = 'Av. Siempreviva N 200'
 ```
 
-Puedes también tener cadensa numericas
+Puedes también tener `cadenas` numericas
 
 ```
 fecha = '2017-01-12'

@@ -1,6 +1,6 @@
 # Osi
 
-Este se usa cuando se tiene varias opciones y se desea comprar con una de ellas, al final se pone un `sino`, en el caso que no haya ninguna opcion equivalente 
+Este se usa cuando se tiene varias opciones y se desea comprar con una de ellas, al final se pone un `sino`, en el caso que no haya ninguna opcion equivalente
 
 ```
 // dia
