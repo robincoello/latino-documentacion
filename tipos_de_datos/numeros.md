@@ -1,7 +1,5 @@
 **Números**: Se emplean para representar numeros: enteros, decimales
 
-
-
 ```
 edad = 15
 area = 12.354
