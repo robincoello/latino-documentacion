@@ -8,8 +8,6 @@ Para obtener la lista completa de los comandos válidos utilice el comando help 
 help  <comando>
 ```
 
----
-
 **Comando:**
 
 ```
@@ -26,8 +24,6 @@ CD
 
 Cambia el directorio actual.
 
----
-
 **Comando:**
 
 ```
@@ -37,8 +33,6 @@ Cambia el directorio actual.
 Limpia el contenido de la pantalla.
 
 CLS
-
----
 
 **Comando:**
 
@@ -60,8 +54,6 @@ CMD /K
 
 Inicia un nuevo intérprete, ejecuta el comando y permanece activo.
 
----
-
 **Comando:**
 
 ```
@@ -73,8 +65,6 @@ Copia un archivo a un directorio de destino.
 COPY
 
 Copia el archivo origen en el destino.puede ser el nombre de un directorio o de un archivo
-
----
 
 **Comando:**
 
@@ -92,8 +82,6 @@ DATE
 
 Muestra la fecha del sistema y permite cambiarla.
 
----
-
 **Comando:**
 
 ```
@@ -107,8 +95,6 @@ DEL
 Borra cada uno de los archivos especificados en la lista de nombres.
 
 puede incluir nombres de directorios y comodines para borrar varios archivos.
-
----
 
 **Comando:**
 
@@ -125,8 +111,6 @@ Muestra el contenido del directorio actual.
 DIR
 
 Muestra el contenido del directorio indicado.
-
----
 
 **Comando:**
 
@@ -148,8 +132,6 @@ ECHO
 
 Muestra el mensaje en la consola.
 
----
-
 **Comando:**
 
 ```
@@ -166,8 +148,6 @@ EXIT /B
 
 Sale de un programa de comandos \(archivo.bat\) sin salir de laventana del intérprete.
 
----
-
 **Comando:**
 
 ```
@@ -181,8 +161,6 @@ FIND ""
 Busca la cadena dada en los archivos especificados por
 
 .puede contener comodines para especificar más fácilmente los archivos y directorios en los que se quiere hacer la búsqueda.
-
----
 
 **Comando:**
 
@@ -200,8 +178,6 @@ HELP
 
 Muestra la ayuda detallada de un comando en particular.
 
----
-
 **Comando:**
 
 ```
@@ -213,8 +189,6 @@ Crea un directorio o una ruta de directorios.
 MD
 
 Crea el directorio o la ruta de directorios indicada en. Si para ello hace falta crear directorios intermedios, este comando se encargará de ello.
-
----
 
 **Comando:**
 
@@ -232,8 +206,6 @@ comando \| MORE
 
 Muestra la salida del comando haciendo una pausa cada vez que se llena la pantalla.
 
----
-
 **Comando:**
 
 ```
@@ -249,8 +221,6 @@ Cambia de nombre el archivo o el directorio.
 MOVE
 
 Mueve el archivo al destino indicado.
-
----
 
 **Comando:**
 
@@ -272,8 +242,6 @@ PATH ;
 
 Borra todas las rutas de búsqueda establecidas.
 
----
-
 **Comando:**
 
 ```
@@ -286,8 +254,6 @@ PAUSE
 
 Suspende el proceso actual del programa y presenta el mensaje "Presione una tecla para continuar...".
 
----
-
 **Comando:**
 
 ```
@@ -299,8 +265,6 @@ Cambia el símbolo del sistema que se muestra en el intérprete de comandos.
 PROMPT
 
 Cambia el símbolo del sistema al texto indicado. Existen códigos para incluir caracteres especiales.
-
----
 
 **Comando:**
 
@@ -322,8 +286,6 @@ RD /S /Q
 
 Elimina el árbol de directorios cuya raíz essin pedir confirmación.
 
----
-
 **Comando:**
 
 ```
@@ -336,8 +298,6 @@ REM
 
 Introduce el comentario indicado.
 
----
-
 **Comando:**
 
 ```
@@ -349,8 +309,6 @@ Cambia el nombre de unarchivo.
 REN
 
 Cambia el nombre delarchivo.
-
----
 
 **Comando:**
 
@@ -372,8 +330,6 @@ SET=
 
 Establece la cadena dada como valor de lavariableindicada.
 
----
-
 **Comando:**
 
 ```
@@ -394,8 +350,6 @@ START
 
 Abre una nuevaventanaarchivoy ejecuta elejecutable indicado.
 
----
-
 **Comando:**
 
 ```
@@ -412,8 +366,6 @@ TIME
 
 Muestra la hora del sistema y permite cambiarla.
 
----
-
 **Comando:**
 
 ```
@@ -425,8 +377,6 @@ Establece el título de laventanadel intérprete de comandos.
 TITLE
 
 Cambia el título de laventanaal indicado.
-
----
 
 **Comando:**
 
@@ -440,8 +390,6 @@ TYPE
 
 Muestra el contenido de los archivos incluidos en la lista.
 
----
-
 **Comando:**
 
 ```
@@ -453,8 +401,6 @@ Muestra la versión del sistema operativo Windows.
 VER
 
 Muestra la versión de Windows.
-
----
 
 **Comando:**
 
