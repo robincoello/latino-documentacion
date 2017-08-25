@@ -2,13 +2,11 @@ Probado en:
 
 * Debian 9
 
-
-
 Empezamos por actualizar e instalar algunas de las librerias que necesitamos:
 
 ```
 sudo apt-get update 
-sudo apt-get install bison flex cmake gcc g++ 
+sudo apt-get install git bison flex cmake gcc g++ 
 sudo apt-get install libcurl4-openssl-dev libhiredis-dev libjansson-dev 
 sudo apt-get install redis-server curl libgtk-3-dev 
 sudo apt-get install libreadline-dev libpthread-stubs0-dev
