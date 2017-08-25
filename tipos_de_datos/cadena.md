@@ -10,7 +10,7 @@ Puedes también tener cadensa numericas
 ```
 fecha = '2017-01-12'
 dia = '25'
-mes = "12"
+mes = "enero"
 ```
 
 Todos estos son considerados cadenas
