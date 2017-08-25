@@ -8,17 +8,7 @@ La extensión con que se trabaja es **.lat**, debes tener cuidado al crear tus d
 
 ![.lat](extencion.png)
 
-### Palabras reservadas
-
-```
-si osi sino fin romper continuar 
-
-mientras hacer cuando desde nulo 
-
-retorno caso defecto verdadero 
-
-falso cierto
-```
+### 
 
 ### Mostrar algo en pantalla
 

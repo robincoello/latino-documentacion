@@ -16,6 +16,7 @@
 * [Hola mundo](hola_mundo.md)
 * [Comentarios](comentarios.md)
 * [Concatenación](concatenacion.md)
+* [Palabras reservadas](palabras-reservadas.md)
 * [Básico](basico.md)
   * [si \(if\)](si_if.md)
   * [osi](osi.md)
