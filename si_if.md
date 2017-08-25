@@ -1,4 +1,4 @@
-# i \(if\)
+# si \(if\)
 
 `si`es una instrucción que permite la ejecución del código, si la condición que está entre los paréntesis se cumple
 
