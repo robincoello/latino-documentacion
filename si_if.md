@@ -1,4 +1,4 @@
-# si \(if\)
+# i \(if\)
 
 `si`es una instrucción que permite la ejecución del código, si la condición que está entre los paréntesis se cumple
 
@@ -38,7 +38,7 @@ Otro ejemplo para saber si el número es positivo
 escribir("Introduce un número:")
 numero = leer()
 si( numero >= 0 )
-	escribir('El numero es positivo')
+    escribir('El numero es positivo')
 fin
 ```
 
