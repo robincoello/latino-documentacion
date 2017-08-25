@@ -17,11 +17,11 @@ La **cantidad** de colores \(elementos\) que tiene la lista, hace referencia a _
 
 El **indice** es la posición que un color \(elemento\) ocupa en la lista, y se empieza con la **posición cero**, así que podriamos resumir asi:
 
-* Posicion 0 = blanco
-* Posición 1 = negro
-* Posición 2 = amarillo
-* Posición 3 = azul
-* Posición 4 = rojo  
+* Indice 0 = blanco
+* Indice 1 = negro
+* Indice 2 = amarillo
+* Indice 3 = azul
+* Indice 4 = rojo  
   Sabiendo eso, para acceder al color blanco: 
 
 ```
