@@ -1,6 +1,6 @@
 # si \(if\)
 
-`si`: es una instrucción que permite la ejecución del código, si la condición que está entre los paréntesis se cumple
+`si`es una instrucción que permite la ejecución del código, si la condición que está entre los paréntesis se cumple
 
 > donde condición es una expresión lógica \(verdadero o falso\)
 
@@ -38,7 +38,7 @@ Otro ejemplo para saber si el número es positivo
 escribir("Introduce un número:")
 numero = leer()
 si( numero >= 0 )
- escribir('El numero es positivo') 
+	escribir('El numero es positivo')
 fin
 ```
 
