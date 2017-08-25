@@ -1,18 +1,15 @@
-**Diccionarios**: Son un conjunto par de valores sepadados por dos puntos \(:\) que tiene un nombre y un valor, los nombres deben ser tipo `cadena`, y son encerradas entre llaves { y }, los valores par van separados por coma \(,\) por ejemplo:
+c**Diccionarios**: Son un conjunto par de valores sepadados por dos puntos \(:\) que tiene un nombre y un valor, los nombres deben ser tipo `cadena`, y son encerradas entre llaves { y }, los valores par van separados por coma \(,\) por ejemplo:
 
 ```
-#en este ejemplo 1 es la clave y "uno" es el valor
-Cliente = { 
+cliente = { 
           "Nombre"    : "Pepito", 
           "Apellidos" : "Perez",
           "Tel"       : 32659855556,
           "Jubilado"  : falso    
-          } 
+          }
 ```
 
-
-
-En este otro ejemplo 
+En este otro ejemplo
 
 ```
 promedios = {
