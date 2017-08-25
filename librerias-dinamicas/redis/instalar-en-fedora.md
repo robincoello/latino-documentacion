@@ -50,3 +50,5 @@ http://localhost:6379/
 
 Si no te da error y vez lo siguiente, estas con redis funcionando
 
+\(poner foto del navegador con redis funcionando\)
+
