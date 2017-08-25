@@ -13,7 +13,7 @@ escribir(saludo . nombre)
 Hola Chapatin
 ```
 
-Apartir de la version 0.9.11 la concatenacion se hace con dos puntos
+Apartir de la version 0.9.11 la concatenacion se hace con dos punto . 
 
 ```
 
