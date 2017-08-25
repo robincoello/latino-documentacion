@@ -26,8 +26,7 @@ Ejecutando nos da
 ```
 [robinson@fedora ejemplos]$ latino hola.lat 
 Estas en Ecuador
-
 ```
 
-
+`caso` solo puede contener valores _numericos_ o una _cadena_
 
