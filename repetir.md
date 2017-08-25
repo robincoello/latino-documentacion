@@ -4,10 +4,10 @@ Se parece a mientras pero en esta el codigo se ejecuta por lo menos la primera v
 
 ```
 i= 0
-	repetir
-	escribir(i)
-	i++
-hasta (i >= 5) 
+    repetir
+    escribir(i)
+    i++
+hasta (i >= 5)
 ```
 
 Ejecutando nos da:
@@ -19,8 +19,7 @@ Ejecutando nos da:
 2
 3
 4
-
 ```
 
-
+Pero 
 
