@@ -29,6 +29,7 @@
   * [Números](tipos_de_datos/numeros.md)
   * [Listas](tipos_de_datos/listas.md)
   * [Diccionarios](tipos_de_datos/diccionarios.md)
+  * [Lógico](tipos_de_datos/logico.md)
 * [Listas](listas.md)
 * [Expresiones](expresiones.md)
 * [Operadores comparación](Operadores_comparacion.md)
