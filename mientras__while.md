@@ -21,7 +21,7 @@ fin
 el resultado seria
 
 ```
-[robinson@fedora ejemplos]$ latino hola.lat 
+[robinson@localhost ejemplos]$ latino hola.lat 
 Debo estudiar
 Debo estudiar
 Debo estudiar
