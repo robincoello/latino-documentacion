@@ -2,14 +2,19 @@
 
 ```
 #en este ejemplo 1 es la clave y "uno" es el valor
-numeros = { 
+Cliente = { 
           "Nombre"    : "Pepito", 
           "Apellidos" : "Perez",
           "Tel"       : 32659855556,
           "Jubilado"  : falso    
- 
           } 
-#otro ejemplo, juan es la clave y 9.5 es el valor de su promedio final
+```
+
+
+
+En este otro ejemplo 
+
+```
 promedios = {
           "juan"   : 9.5, 
           "lola"   : 8.3, 
@@ -17,8 +22,6 @@ promedios = {
           "pedro"  : 7.1 
           }
 ```
-
-## 
 
 
 
