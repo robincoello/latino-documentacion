@@ -25,6 +25,10 @@
   * [Escribir Archivo](escribir_archivo.md)
   * [Ejecutar archivo](ejecutar_archivo.md)
 * [Tipos de datos](tipos_de_datos.md)
+  * [Cadena](tipos_de_datos/cadena.md)
+  * [Números](tipos_de_datos/numeros.md)
+  * Listas
+  * Diccionarios
 * [Listas](listas.md)
 * [Expresiones](expresiones.md)
 * [Operadores comparación](Operadores_comparacion.md)

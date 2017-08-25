@@ -14,13 +14,7 @@ a = 'casa'
 a = 900
 ```
 
-* **Cadena**: Una cadena es un grupo de caracteres \(letras, números u otro caracter\), se debe representar entre comillas simples o dobles
-
-  ```
-  nombre = "Juan Perez" 
-  direccion = 'Av. Siempreviva N 200'
-  ```
-
+* 
 * **Números**: Se emplean para representar enteros decimales, por ejemplo:
 
   ```
