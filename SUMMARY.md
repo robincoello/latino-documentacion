@@ -37,7 +37,7 @@
 * [Expresiones](expresiones.md)
 * [Librerias dinamicas](librerias-dinamicas.md)
   * [Redis](librerias-dinamicas/redis.md)
-    * [Instalar en Fedora](librerias-dinamicas/redis/instalar-en-fedora.md)
+    * [Instalar en Fedora 24](librerias-dinamicas/redis/instalar-en-fedora.md)
   * Json
   * Curl
 * [Editores](latino_en.md)
