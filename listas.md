@@ -7,7 +7,7 @@ colores = ['blanco','negro','amarillo','azul','rojo']
 Así si quiero acceder al color blanco `colores[0]`
 
 ```
-// y para imprimirlo en pantalla
+// y para escribirlo en pantalla
 escribir(colores[0])
 ```
 
