@@ -1,3 +1,9 @@
+Probado en:
+
+* Debian 9
+
+
+
 Empezamos por actualizar e instalar algunas de las librerias que necesitamos:
 
 ```
