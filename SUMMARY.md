@@ -14,9 +14,9 @@
   * [Desistalar en windows](desinstalar/desistalar-en-windows.md)
   * [Desinstalar en Linux](desinstalar/desinstalar-en-linux.md)
 * [Hola mundo](hola_mundo.md)
+* [Palabras reservadas](palabras-reservadas.md)
 * [Comentarios](comentarios.md)
 * [Concatenación](concatenacion.md)
-* [Palabras reservadas](palabras-reservadas.md)
 * [Básico](basico.md)
   * [si \(if\)](si_if.md)
   * [osi](osi.md)
@@ -35,6 +35,10 @@
   * [Constantes](constantes.md)
   * [Globales](globales.md)
 * [Expresiones](expresiones.md)
+* [Librerias dinamicas](librerias-dinamicas.md)
+  * Redis
+  * Json
+  * Curl
 * [Editores](latino_en.md)
   * [Notepad++](notepad++.md)
   * [Sublime Text](sublimetext.md)
