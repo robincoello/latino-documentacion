@@ -1,0 +1,8 @@
+
+
+```
+sudo dnf install redis
+```
+
+
+
