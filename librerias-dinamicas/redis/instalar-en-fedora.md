@@ -1,17 +1,16 @@
-Para instalar redis en fedora 
+Para instalar redis en fedora 24
 
 ```
 sudo dns install redis
 ```
 
-Una vez instalado, lo lanzas con 
+Una vez instalado, lo lanzas con
 
 ```
 redis-server
 ```
 
-Y te dara algo asi: 
-
+Y te dara algo asi:
 
     [robinson@fedora latino-redis]$ redis-server
     5673:C 26 Aug 01:37:14.005 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf
@@ -43,8 +42,7 @@ Y te dara algo asi:
     5673:M 26 Aug 01:37:14.007 * DB loaded from disk: 0.000 seconds
     5673:M 26 Aug 01:37:14.007 * The server is now ready to accept connections on port 6379
 
-
-Esto muestra que el servidor de redis esta funcionando, ahora abre el navegador y entra a: 
+Esto muestra que el servidor de redis esta funcionando, ahora abre el navegador y entra a:
 
 ```
 http://localhost:6379/
