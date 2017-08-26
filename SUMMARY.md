@@ -4,7 +4,7 @@
 * [Instalar latino](introduccion/instalar_latino.md)
   * [Windows](introduccion/instalar_latino/windows.md)
   * [Debian / Ubuntu](introduccion/instalar_latino/debian-ubuntu.md)
-  * [Fedora / CentOs](introduccion/instalar_latino/fedora-centos.md)
+  * [Fedora](introduccion/instalar_latino/fedora-centos.md)
     * [26](introduccion/instalar_latino/fedora-centos/26.md)
     * [25](introduccion/instalar_latino/fedora-centos/25.md)
     * [24](introduccion/instalar_latino/fedora-centos/24.md)
@@ -39,6 +39,8 @@
   * [Redis](librerias-dinamicas/redis.md)
     * [Instalar en Fedora](librerias-dinamicas/redis/instalar-en-fedora.md)
       * [24](librerias-dinamicas/redis/instalar-en-fedora/24.md)
+      * 25
+      * 26
     * [Instalar en Debian 9](librerias-dinamicas/redis/instalar-en-debian.md)
   * Json
   * Curl
