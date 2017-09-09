@@ -44,6 +44,8 @@
     * [Instalar en Debian 9](librerias-dinamicas/redis/instalar-en-debian.md)
   * Json
   * Curl
+  * json
+  * curl
 * [Editores](latino_en.md)
   * [Notepad++](notepad++.md)
   * [Sublime Text](sublimetext.md)
