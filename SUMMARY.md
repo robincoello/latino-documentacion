@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Inicio](inicio.md)
 * [Instalar latino](introduccion/instalar_latino.md)
   * [Windows](introduccion/instalar_latino/windows.md)
@@ -10,6 +11,7 @@
     * [24](introduccion/instalar_latino/fedora-centos/24.md)
   * [Mac](introduccion/instalar_latino/mac.md)
   * [Otros](introduccion/instalar_latino/otros.md)
+* [Actualizar](actualizar.md)
 * [Desinstalar](desinstalar.md)
   * [Desistalar en windows](desinstalar/desistalar-en-windows.md)
   * [Desinstalar en Linux](desinstalar/desinstalar-en-linux.md)
@@ -56,9 +58,5 @@
   * [Básicos](basicos.md)
   * [Medio](medio.md)
   * [Avanzado](avanzado.md)
-* [Extras](README.md)
-  * [Autores](autores.md)
-  * [Lectura recomendada](lectura_recomendada.md)
-  * [Comandos Windows](comandos-windows.md)
-  * [Tabla código UNICODE](tabla-codigo-unicode.md)
+* Actualizar
 
