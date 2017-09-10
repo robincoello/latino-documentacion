@@ -24,7 +24,9 @@ https://www.youtube.com/watch?v=7UgRF9y0czo
 
 Como instalar en maquinas 32 bits
 
-https://askubuntu.com/questions/641239/how-i-can-create-a-32-bit-version-of-atom
+[https://askubuntu.com/questions/641239/how-i-can-create-a-32-bit-version-of-atom](https://askubuntu.com/questions/641239/how-i-can-create-a-32-bit-version-of-atom)
+
+https://github.com/atom/atom/blob/master/docs/build-instructions/linux.md
 
 
 
