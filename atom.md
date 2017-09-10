@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=7UgRF9y0czo
 
 Como instalar en maquinas 32 bits
 
+http://www.webupd8.org/2014/06/atom-text-editor-available-for-linux.html
+
 [https://askubuntu.com/questions/641239/how-i-can-create-a-32-bit-version-of-atom](https://askubuntu.com/questions/641239/how-i-can-create-a-32-bit-version-of-atom)
 
-https://github.com/atom/atom/blob/master/docs/build-instructions/linux.md
-
-
+[https://github.com/atom/atom/blob/master/docs/build-instructions/linux.md](https://github.com/atom/atom/blob/master/docs/build-instructions/linux.md)
 
