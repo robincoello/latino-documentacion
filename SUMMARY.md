@@ -58,5 +58,6 @@
   * [Básicos](basicos.md)
   * [Medio](medio.md)
   * [Avanzado](avanzado.md)
-* Actualizar
+* [Actualizar](actualizar.md)
+* [notas del autor](notas-del-autor.md)
 
