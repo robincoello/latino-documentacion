@@ -24,5 +24,5 @@ ahora descomprimera descomprimes
 tar -xjvf sublime_text_3_build_3114_x64.tar.bz2
 ```
 
-
+jjjjs
 
