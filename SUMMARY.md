@@ -41,12 +41,12 @@
   * [Redis](librerias-dinamicas/redis.md)
     * [Instalar en Fedora](librerias-dinamicas/redis/instalar-en-fedora.md)
       * [24](librerias-dinamicas/redis/instalar-en-fedora/24.md)
-      * 25
-      * 26
+      * [25](librerias-dinamicas/redis/instalar-en-fedora/25.md)
+      * [26](librerias-dinamicas/redis/instalar-en-fedora/26.md)
     * [Instalar en Debian 9](librerias-dinamicas/redis/instalar-en-debian.md)
-  * Json
-  * Curl
-  * json
+  * [Json](librerias-dinamicas/json.md)
+  * [Curl](librerias-dinamicas/curl.md)
+  * [json](librerias-dinamicas/json.md)
   * curl
 * [Editores](latino_en.md)
   * [Notepad++](notepad++.md)
