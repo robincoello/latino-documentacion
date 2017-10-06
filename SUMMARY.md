@@ -58,6 +58,7 @@
   * [Básicos](basicos.md)
     * 00-vacio.lat
     * [01-comentarios.lat](basicos/01-comentarioslat.md)
+    * [02-hola.lat](basicos/02-holalat.md)
   * [Medio](medio.md)
   * [Avanzado](avanzado.md)
 * [Actualizar](actualizar.md)
