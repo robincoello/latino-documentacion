@@ -1,6 +1,6 @@
-## Fedora 
+## Fedora
 
-Cada versión de fedora tiene una particularidad, por eso es mejor que cojas tu versión correcta, este procedimiento es porsi no esta en la lista tu versión
+> Cada versión de fedora tiene una particularidad, por eso es mejor que cojas tu versión correcta, este procedimiento es porsi no esta en la lista tu versión
 
 ## Dependencias
 
