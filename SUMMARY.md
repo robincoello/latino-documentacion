@@ -56,6 +56,8 @@
   * [Vim](vim.md)
 * [Ejercicios](ejercicios.md)
   * [Básicos](basicos.md)
+    * 00-vacio.lat
+    * [01-comentarios.lat](basicos/01-comentarioslat.md)
   * [Medio](medio.md)
   * [Avanzado](avanzado.md)
 * [Actualizar](actualizar.md)
