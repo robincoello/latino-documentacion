@@ -56,7 +56,7 @@
   * [Vim](vim.md)
 * [Ejercicios](ejercicios.md)
   * [Básicos](basicos.md)
-    * 00-vacio.lat
+    * [00-vacio.lat](basicos/00-vaciolat.md)
     * [01-comentarios.lat](basicos/01-comentarioslat.md)
     * [02-hola.lat](basicos/02-holalat.md)
     * [03-variables.lat](basicos/03-variableslat.md)
