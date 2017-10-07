@@ -38,6 +38,14 @@
   * [Globales](globales.md)
 * [Funciones](funciones.md)
   * [Funciones nativas](funciones/funciones-nativas.md)
+    * Funciones para archivos
+    * Funciones Base
+    * Funciones para cadena \(texto\)
+    * Funciones para conversiones
+    * Funciones para datos
+    * Funciones para diccionarios
+    * Funciones para entrada y salida
+    * Funciones simples
 * [Expresiones](expresiones.md)
 * [Librerias dinamicas](librerias-dinamicas.md)
   * [Redis](librerias-dinamicas/redis.md)
