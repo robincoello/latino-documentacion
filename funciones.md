@@ -131,10 +131,10 @@ Este es el codigo completo
 
 ```
 funcion direccion( nombre, empresa, ciudad, pais, continente )
-escribir( nombre )
-escribir( empresa )
-escribir( ciudad .. " " .. pais)
-escribir(continente)
+    escribir( nombre )
+    escribir( empresa )
+    escribir( ciudad .. " " .. pais)
+    escribir(continente)
 fin
 
 direccion("Robinson Coello","Lenguaje Latino","Bruselas","Bélgica","Europa")
@@ -149,38 +149,6 @@ Y el orden de los parametros deben ser respetado
 Y asi podemos definir tantas funciones como lo queramos, y cada una con una labor determinada, pero `latino` nos facilita la vida y ya los creadores han creado algunas funciones y a estas que viene instaladas en `latino` se les llama funciones nativas.
 
 ## Funciones nativas
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
