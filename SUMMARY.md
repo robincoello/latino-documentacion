@@ -37,6 +37,7 @@
   * [Constantes](constantes.md)
   * [Globales](globales.md)
 * [Funciones](funciones.md)
+  * [Funciones nativas](funciones/funciones-nativas.md)
 * [Expresiones](expresiones.md)
 * [Librerias dinamicas](librerias-dinamicas.md)
   * [Redis](librerias-dinamicas/redis.md)
