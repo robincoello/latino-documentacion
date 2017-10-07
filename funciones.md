@@ -146,5 +146,41 @@ direccion("Patricia Wilm","Lenguaje Latino","Cali","Colombia","Sur America")
 
 Y el orden de los parametros deben ser respetado
 
+Y asi podemos definir tantas funciones como lo queramos, y cada una con una labor determinada, pero `latino` nos facilita la vida y ya los creadores han creado algunas funciones y a estas que viene instaladas en `latino` se les llama funciones nativas.
+
+## Funciones nativas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
