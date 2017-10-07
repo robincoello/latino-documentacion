@@ -1,6 +1,6 @@
 # Funciones
 
-Si quiero escribir mi dirección haria lo siguiente 
+Si quiero escribir mi dirección haria lo siguiente
 
 ```
 escribir("Robinson Coello")
@@ -9,7 +9,7 @@ escribir("Bruselas - Belgica")
 escribir("Europa")
 ```
 
-si ejecuto esto me daria esto: 
+si ejecuto esto me daria esto:
 
 ```
 [robin@localhost]$ latino demo.lat 
@@ -21,7 +21,7 @@ Europa
 
 Que pasaria si debo escribir mi dirección en 50 hojas de mi código, en realidad nada,  solo lo escribo 50 veces y listo, pero !!! y si me cambio de dirección, me tocaria buscar en las 50 hojas y correjir una a una las lineas las de mi dirección, esto no es nada practico, y para una `funcion` nos resuelve este problema
 
-Primero creo una `funcion` con mi direción asi: 
+Primero creo una `funcion` con mi direción asi:
 
 ```
 funcion direccion()
@@ -45,7 +45,6 @@ De esta manera, tengo en un solo lugar los datos que contienen mi direción y si
 quedando el codigo completo asi:
 
 ```
-
 funcion direccion()
         escribir("Robinson Coello")
         escribir("Bruselas - Belgica")
@@ -53,7 +52,6 @@ funcion direccion()
 fin
 
 direccion()
-
 ```
 
 ## Avancemos más
@@ -80,7 +78,7 @@ funcion direccion( nombre )
 fin
 ```
 
-y le paso los nombres en el llamado 
+y le paso los nombres en el llamado
 
 ```
 // para mi 
@@ -101,7 +99,6 @@ funcion direccion( nombre, empresa, ciudad, pais, continente )
     escribir( ciudad .. " " .. pais)
     escribir(continente)
 fin
-
 ```
 
 Y le paso los datos en el llamdo de la `funcion`
@@ -110,13 +107,13 @@ Y le paso los datos en el llamdo de la `funcion`
 direccion("Robinson Coello","Lenguaje Latino","Bruselas","Bélgica","Europa")
 ```
 
-Y para mi novia 
+Y para mi novia
 
 ```
 direccion("Patricia Wilm","Lenguaje Latino","Cali","Colombia","Sur America")
 ```
 
-Y nos dara como resultado 
+Y nos dara como resultado
 
 ```
 Robinson Coello
@@ -128,10 +125,9 @@ Patricia Wilm
 Lenguaje Latino
 Cali Colombia
 Sur America
-
 ```
 
-Este es el codigo completo 
+Este es el codigo completo
 
 ```
 funcion direccion( nombre, empresa, ciudad, pais, continente )
@@ -144,10 +140,11 @@ fin
 direccion("Robinson Coello","Lenguaje Latino","Bruselas","Bélgica","Europa")
 
 direccion("Patricia Wilm","Lenguaje Latino","Cali","Colombia","Sur America")
-
 ```
 
-> Una funcion siempre debe estar ates del lugar de donde se hace el llamado
+> Una funcion siempre debe estar antes del lugar de donde se hace el llamado
+
+Y el orden de los parametros deben ser respetado
 
 
 
