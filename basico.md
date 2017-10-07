@@ -4,7 +4,7 @@ Algunas cosas básicas a tomar en cuenta para empezar a programar
 
 ### Extención es  .lat
 
-La extensión con que se trabaja es **.lat**, debes tener cuidado al crear tus documentos y verificar bien que llevan esta extensión
+La extención con que se trabaja es **.lat**, debes tener cuidado al crear tus documentos y verificar bien que llevan esta extención
 
 ![.lat](extencion.png)
 
