@@ -38,14 +38,14 @@
   * [Globales](globales.md)
 * [Funciones](funciones.md)
   * [Funciones nativas](funciones/funciones-nativas.md)
-    * Funciones para archivos
-    * Funciones Base
-    * Funciones para cadena \(texto\)
-    * Funciones para conversiones
-    * Funciones para datos
-    * Funciones para diccionarios
-    * Funciones para entrada y salida
-    * Funciones simples
+    * [Funciones para archivos](funciones/funciones-nativas/funciones-para-archivos.md)
+    * [Funciones Base](funciones/funciones-nativas/funciones-base.md)
+    * [Funciones para cadena \(texto\)](funciones/funciones-nativas/funciones-para-cadena-texto.md)
+    * [Funciones para conversiones](funciones/funciones-nativas/funciones-para-conversiones.md)
+    * [Funciones para datos](funciones/funciones-nativas/funciones-para-datos.md)
+    * [Funciones para diccionarios](funciones/funciones-nativas/funciones-para-diccionarios.md)
+    * [Funciones para entrada y salida](funciones/funciones-nativas/funciones-para-entrada-y-salida.md)
+    * [Funciones simples](funciones/funciones-nativas/funciones-simples.md)
 * [Expresiones](expresiones.md)
 * [Librerias dinamicas](librerias-dinamicas.md)
   * [Redis](librerias-dinamicas/redis.md)
