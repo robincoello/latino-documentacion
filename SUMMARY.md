@@ -81,4 +81,5 @@
   * [Avanzado](avanzado.md)
 * [Actualizar](actualizar.md)
 * [notas del autor](notas-del-autor.md)
+* [autores](autores.md)
 
