@@ -13,10 +13,17 @@ escribir(saludo . nombre)
 Hola Chapatin
 ```
 
-Apartir de la version 0.9.11 la concatenacion se hace con dos punto . 
+Apartir de la version 0.9.11 la concatenacion se hace con dos punto .
 
 ```
+saludo = 'Hola '
+nombre = 'Chapatin'
 
+escribir(saludo .. nombre)
+
+#esto da como resultado en pantalla:
+
+Hola Chapatin
 ```
 
 
