@@ -1,5 +1,3 @@
-![](14632952_1855594251339335_1777450754374585823_n.jpg)
-
 # Latino
 
 > Esta documentación no está aun terminada, se encuentra en un proceso de desarrollo y cada día trato de escribir algo, espero pronto terminarla, si tienes sugerencias, gracias.
@@ -33,5 +31,5 @@ Antes de empezar debes instalar latino en tu computadora en vista que vamos a tr
 
 ## Quieres contribuir con la elaboración o corrección de este manual?
 
-Primero, gracias por tu interes y las horas que quieres dedicarle gratuitamente a este trabajo,  lee las instucciones de como y donde puedes ayudarnos aca: http://lenguaje-latino.org/comunidad/ 
+Primero, gracias por tu interes y las horas que quieres dedicarle gratuitamente a este trabajo,  lee las instucciones de como y donde puedes ayudarnos aca: [http://lenguaje-latino.org/comunidad/](http://lenguaje-latino.org/comunidad/)
 
