@@ -2,6 +2,19 @@
 
 Una variable es una cadena \(conjunto de letras\) que toma un valor y este no cambia hasta que se le asigne otro valor, para definir una variable en "Latino" se hace de la siguiente manera:
 
+
+
+```
+a, b, c = 1, 2, 3   #a = 1  b = 2  c = 3
+```
+
+```
+a, b, c = 1, 2      #a = 1  b = 2  c = nulo
+a, b    = 1, 2, 3   #a = 1  b = 2  se descarta el valor 3
+```
+
+
+
 ### Variable de texto
 
 El valor de una variable si contiene texto se debe encerrar en comillas simples `' '` o dobles. ```" "``.
