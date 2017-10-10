@@ -18,10 +18,11 @@ La precedencia de operadores es la misma que otros lenguajes de programación co
 El operador ternario se puede usar para asignar valores basado en una condición, los paréntesis son requeridos para obtener el resultado esperado.
 
 ```
-numero = -5
+
 ```
 
 ```
+numero = -5
 mensaje = (numero < 0) ? " es negativo" : " es positivo"
 escribir("El número " .. numero .. mensaje)
 #salida: El número -5 es negativo
