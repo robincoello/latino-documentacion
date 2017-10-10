@@ -14,7 +14,7 @@ Error doble titulo en PDF, ver si pasa lo mimo en los otros formatos
 
 ### Como colaborar con esta dcumentación
 
-Si deseas colaborar con la elaboracion de esta documentación, primero mira lo que falta, escribe sobre ello, publicalo en aca http://lenguaje-latino.org/wp-admin/post-new.php \(registrate [aca](http://lenguaje-latino.org/registro/) \) avisame para poner tu post en esta documentación.
+Si deseas colaborar con la elaboracion de esta documentación, primero mira lo que falta, escribe sobre ello, publicalo en aca [http://lenguaje-latino.org/wp-admin/post-new.php](http://lenguaje-latino.org/wp-admin/post-new.php) \(registrate [aca](http://lenguaje-latino.org/registro/) \) avisame para poner tu post en esta documentación.
 
 
 
