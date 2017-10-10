@@ -146,7 +146,40 @@ direccion("Patricia Wilm","Lenguaje Latino","Cali","Colombia","Sur America")
 
 Y el orden de los parametros deben ser respetado
 
+## Argumentos
+
 Y asi podemos definir tantas funciones como lo queramos, y cada una con una labor determinada, pero `latino` nos facilita la vida y ya los creadores han creado algunas funciones y a estas que viene instaladas en `latino` se les llama funciones nativas.
+
+Se pueden crear funciones con un número variable de argumentos con `...` en el ultimo parámetro de la definición.
+
+```
+funcion varArgs(arg1, arg2, ...)
+  va = [...] #se obtienen los parametros 3 en adelante como una lista y se asignan a la variable va
+  escribir("parametro 1: " .. arg1) #imprime el parametro 1
+  escribir("parametro 2: " .. arg2) #imprime el parametro 2
+  escribir("parametro 3: " .. va[0]) #imprime el parametro 3
+  retornar arg1 + arg2
+fin
+
+#llamada a función varArgs con 2 elementos
+r = varArgs(1, 2)
+escribir(r)
+#salida:
+parametro 1: 1
+parametro 2: 2
+parametro 3: nulo
+3
+
+#llamada a funcion varArgs con 3 elementos
+r = varArgs(1, 2, 3)
+escribir(r)
+#salida:
+parametro 1: 1
+parametro 2: 2
+parametro 3: 3
+3
+
+```
 
 ## Funciones nativas
 
