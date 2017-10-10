@@ -15,3 +15,9 @@ A continuación se listan los operadores:
 
 
 
+La precedencia de operadores es la misma que otros lenguajes de programación como C / Python / Lua.
+
+El operador ternario se puede usar para asignar valores basado en una condición, los paréntesis son requeridos para obtener el resultado esperado.
+
+
+
