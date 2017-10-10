@@ -1,10 +1,12 @@
-f
-
-|  |
-| :--- |
 
 
-| Latino | tipo de dato en C |
+
+
+
+
+## Tipos de datos
+
+| latino | tipo de dato en C |
 | :--- | :--- |
 | logico | bool |
 | númerico | double |
@@ -14,7 +16,9 @@ f
 
 
 
-f
+
+
+
 
 
 
