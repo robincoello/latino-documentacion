@@ -8,15 +8,7 @@ Tipos de datos
 | lista \(arreglo\) | struct |
 | diccionario | struct |
 
-
-
-
-
-* * * * Cadena
-* Números
-* Listas
-* Diccionarios
-* Lógico
+* * * * 
 
 
 
