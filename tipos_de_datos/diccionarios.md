@@ -16,7 +16,7 @@ escribir(personajes["Chilindrina"])
 y el resultado seria:
 
 ```
-[robinson@fedora ejemplos]$ latino hola.lat 
+
 Maria Antonieta de las Nieves
 ```
 
