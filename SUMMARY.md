@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Caratula](caratula.md)
 * [Inicio](inicio.md)
 * [Instalar latino](introduccion/instalar_latino.md)
   * [Windows](introduccion/instalar_latino/windows.md)
