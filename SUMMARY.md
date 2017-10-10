@@ -38,7 +38,7 @@
   * [Globales](globales.md)
   * [Variable de texto](variable-de-texto.md)
   * [Variable con valor númerico](variable-con-valor-numerico.md)
-  * Valor lógico o booleano
+  * [Valor lógico o booleano](valor-logico-o-booleano.md)
   * [Variables como un diccionario](variables-como-un-diccionario.md)
   * [Variables tipo lista o arreglos](variables-tipo-lista-o-arreglos.md)
 * [Funciones](funciones.md)
