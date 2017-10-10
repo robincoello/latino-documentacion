@@ -1,6 +1,10 @@
-Tipos de datos
+f
 
-| latino | tipo de dato en C |
+|  |
+| :--- |
+
+
+| Latino | tipo de dato en C |
 | :--- | :--- |
 | logico | bool |
 | númerico | double |
@@ -8,7 +12,11 @@ Tipos de datos
 | lista \(arreglo\) | struct |
 | diccionario | struct |
 
-* * * * 
+
+
+f
+
+
 
 
 
