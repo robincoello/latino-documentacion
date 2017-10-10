@@ -27,6 +27,7 @@
   * [repetir - hasta](repetir.md)
   * [desde \(for\)](desde.md)
   * [elegir \(switch\)](elejir.md)
+* [Operadores](operadores.md)
 * [Tipos de datos](tipos_de_datos.md)
   * [Cadena](tipos_de_datos/cadena.md)
   * [Números](tipos_de_datos/numeros.md)
