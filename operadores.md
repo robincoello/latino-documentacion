@@ -22,9 +22,7 @@ numero = -5
 ```
 
 ```
-mensaje = (numero 
-<
- 0) ? " es negativo" : " es positivo"
+mensaje = (numero < 0) ? " es negativo" : " es positivo"
 escribir("El número " .. numero .. mensaje)
 #salida: El número -5 es negativo
 ```
