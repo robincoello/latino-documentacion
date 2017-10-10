@@ -6,7 +6,6 @@ Tel: +32474624707
 
 **Colaboradores**:
 
-* Melvin Guerrero \| Email: melving24@gmail.com \| [LinkedIn](https://www.linkedin.com/in/melvinguerrero/)
 * \(pon tus datos si es el caso\)
 
 **Correcciones realizadas por:**  
