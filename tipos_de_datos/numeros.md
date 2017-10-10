@@ -9,3 +9,5 @@ area = 12.354
 
 
 
+Para separar los deciamles se emplea el punto
+
