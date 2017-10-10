@@ -52,8 +52,6 @@
     * [Funciones para diccionarios](funciones/funciones-nativas/funciones-para-diccionarios.md)
     * [Funciones para entrada y salida](funciones/funciones-nativas/funciones-para-entrada-y-salida.md)
     * [Funciones simples](funciones/funciones-nativas/funciones-simples.md)
-* [Listas](listas.md)
-* [Diccionarios](diccionarios.md)
 * [Expresiones](expresiones.md)
 * [Librerias dinamicas](librerias-dinamicas.md)
   * [Redis](librerias-dinamicas/redis.md)
