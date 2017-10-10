@@ -40,6 +40,7 @@
   * [Variable con valor númerico](variable-con-valor-numerico.md)
   * Valor lógico o booleano
   * [Variables como un diccionario](variables-como-un-diccionario.md)
+  * [Variables tipo lista o arreglos](variables-tipo-lista-o-arreglos.md)
 * [Funciones](funciones.md)
   * [Funciones nativas](funciones/funciones-nativas.md)
     * [Funciones para archivos](funciones/funciones-nativas/funciones-para-archivos.md)
