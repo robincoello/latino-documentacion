@@ -1,13 +1,25 @@
-### Palabras reservadas
+## Palabras reservadas hasta el momento
 
 ```
-si osi sino fin romper continuar 
+caso
+cierto | verdadero
+defecto | otro
+desde
+elegir
+falso
+fin
+funcion | fun
+global
+hasta
+mientras
+nulo
+repetir
+regresar | retornar | ret
+romper
+si
+sino
+osi
 
-mientras hacer cuando desde nulo 
-
-retorno caso defecto verdadero 
-
-falso cierto
 ```
 
 
