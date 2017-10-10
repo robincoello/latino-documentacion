@@ -1,9 +1,13 @@
-# Constantes
+## Constantes:
 
-Las constantes se escriben en MAYÚSCULAS
+Cuando se declara una constante, también se debe asignar el valor forzosamente.
+
+Las constantes se deben declarar en mayúsculas.
 
 ```
-PI = 3.1416
+PI = 3.14159
+G = 9.8
+
 ```
 
 
