@@ -36,6 +36,10 @@
 * [Variables](variables.md)
   * [Constantes](constantes.md)
   * [Globales](globales.md)
+  * [Variable de texto](variable-de-texto.md)
+  * Variable con valor númerico
+  * Valor lógico o booleano
+  * [Variables como un diccionario](variables-como-un-diccionario.md)
 * [Funciones](funciones.md)
   * [Funciones nativas](funciones/funciones-nativas.md)
     * [Funciones para archivos](funciones/funciones-nativas/funciones-para-archivos.md)
