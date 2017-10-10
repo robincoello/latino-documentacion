@@ -52,6 +52,7 @@
     * [Funciones para diccionarios](funciones/funciones-nativas/funciones-para-diccionarios.md)
     * [Funciones para entrada y salida](funciones/funciones-nativas/funciones-para-entrada-y-salida.md)
     * [Funciones simples](funciones/funciones-nativas/funciones-simples.md)
+* [Listas](listas.md)
 * [Expresiones](expresiones.md)
 * [Librerias dinamicas](librerias-dinamicas.md)
   * [Redis](librerias-dinamicas/redis.md)
@@ -80,4 +81,5 @@
   * [Avanzado](avanzado.md)
 * [Actualizar](actualizar.md)
 * [notas del autor](notas-del-autor.md)
+* [Diccionarios](diccionarios.md)
 
