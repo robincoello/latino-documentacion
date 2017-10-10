@@ -1,4 +1,4 @@
-# Repetir - hasta
+## repetir-hasta \(parecido al `repeat` de Lua\)
 
 Se parece a mientras pero en esta el codigo se ejecuta por lo menos la primera vez
 
