@@ -19,7 +19,6 @@ romper
 si
 sino
 osi
-
 ```
 
 

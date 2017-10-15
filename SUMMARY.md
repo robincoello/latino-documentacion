@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Caratula](caratula.md)
 * [Inicio](inicio.md)
+  * [a](inicio/a.md)
 * [Instalar latino](introduccion/instalar_latino.md)
   * [Windows](introduccion/instalar_latino/windows.md)
   * [Debian / Ubuntu](introduccion/instalar_latino/debian-ubuntu.md)
