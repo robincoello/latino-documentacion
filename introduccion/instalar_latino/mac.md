@@ -35,3 +35,9 @@ cd ~
 
 
 
+## Ayuda en nuestro foro
+
+[http://lenguaje-latino.org/foro/mac/](http://lenguaje-latino.org/foro/mac/)
+
+Cualquier aportación o sugerencia es bienvenida.
+
