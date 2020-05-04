@@ -1,0 +1,2 @@
+# Valor lógico o booleano
+

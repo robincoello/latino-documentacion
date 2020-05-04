@@ -1,6 +1,6 @@
-## Palabras reservadas hasta el momento
+# Palabras reservadas
 
-```
+```text
 caso
 cierto | verdadero
 defecto | otro
@@ -20,6 +20,4 @@ si
 sino
 osi
 ```
-
-
 

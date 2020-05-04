@@ -2,12 +2,11 @@
 
 Los diccionarios, también llamados matrices asociativas, deben su nombre a que son colecciones que relacionan una clave y un valor, entre llaves y separado el valor de la clave con dos puntos.
 
-```
+```text
 #Diccionario de personajes y actores:
 actores = { "Chilindrina": "Maria Antonieta de las Nieves",
      "El chavo del 8": "Roberto Gomez Bolaños",
      "Tres patines": "Leopoldo Fernandez" }
-
 ```
 
 El primer valor se trata de la clave y el segundo del valor asociado a la clave.
@@ -18,20 +17,16 @@ Si se modificara el objeto clave después de haber sido introducido en el diccio
 
 La diferencia principal entre los diccionarios y las listas es que a los valores almacenados en un diccionario se les accede no por su índice, porque de hecho no tienen orden, sino por su clave, utilizando corchetes `[]`.
 
-```
+```text
 escribir(actores["Chilindrina"])
 #salida: Maria Antonieta de las Nieves
-
 ```
 
 Al igual que en listas también se puede utilizar corchetes para reasignar valores.
 
-```
+```text
 actores["Chilindrina"] = "Maria Antonieta"
 escribir(actores["Chilindrina"])
 #salida: Maria Antonieta
-
 ```
-
-
 

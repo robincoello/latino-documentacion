@@ -1,0 +1,2 @@
+# Funciones para cadena \(texto\)
+
