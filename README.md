@@ -63,43 +63,57 @@ nos vamos a esta carpeta
 cd ../../manual/
 
 Alli iniciamos in git
-```
 
 git init
+```
 
-```text
+
+
 Ahora configuramos el ftp del servidor de latino
-```
-
-git config git-ftp.url "ftp.lengueje-latino.org" git config git-ftp.user "miusuario" git config git-ftp.password "misuperclave"
 
 ```text
-verificamos haciendo un cat
+git config git-ftp.url "ftp.lengueje-latino.org" 
+git config git-ftp.user "miusuario" 
+git config git-ftp.password "misuperclave"
 ```
 
+Verificamos haciendo un cat
+
+```text
 cat .git/config
+```
 
-```text
 nos debe dar algo parecido a esto
-```
-
-\[core\] repositoryformatversion = 0 filemode = true bare = false logallrefupdates = true \[git-ftp\] url = ftp.lenguaje-latino.org user = mans@lenguaje-latino.org password = 2?A\_0!XSfdeOiX5 \[pack\] buildbitmaps = false
 
 ```text
+[core] repositoryformatversion = 0 
+filemode = true 
+bare = false 
+logallrefupdates = true 
+[git-ftp] 
+    url = ftp.lenguaje-latino.org 
+    user = mans@lenguaje-latino.org 
+    password = 2?A_0!XSfdeOiX5 
+
+[pack] 
+    buildbitmaps = false
+```
+
 ahora registramos las modificaciones antes de subir al servidor
-```
 
-git add . git commit -m 'creacion de la doc'
+
 
 ```text
-con esto configurado mandamos todos los ficheros al servidor
+git add . git commit -m 'creacion de la doc'
 ```
 
+con esto configurado, mandamos toros los archivos al servidor
+
+```text
 git ftp init
+```
 
 Listo, documentación creada y publicada en el servidor, si quieres ayudar en la redacción, corrección, de la documentación porfavor lee esto
-
-\`\`\`
 
 chao
 
