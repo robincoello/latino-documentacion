@@ -27,7 +27,7 @@ En realidad no necesitas mayor cosa, solo el deseo de aprender, y saber que: _Pr
 
 ## Instalar Latino
 
-Antes de empezar debes instalar latino en tu computadora en vista que vamos a trabajar con este sistema, también vamos a usar los recursos que ponen a nuestra disposición el sitio oficial de latino [http://lenguaje-latino.org/](http://lenguaje-latino.org/) ...acá puedes tener la última versión de este lenguaje de programación.
+Antes de empezar debes instalar latino en tu computadora en vista que vamos a trabajar con este sistema, también vamos a usar los recursos que ponen a nuestra disposición el sitio oficial de latino [http://lenguaje-latino.org/](http://lenguaje-latino.org/) acá puedes tener la última versión de este lenguaje de programación.
 
 ## Quieres contribuir con la elaboración o corrección de este manual?
 
