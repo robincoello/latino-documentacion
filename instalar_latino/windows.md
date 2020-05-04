@@ -24,5 +24,5 @@ Sigue los pasos
 
 Listo !!
 
-Si tienes alguna dificultad, dejanos un mensaje en el [foro](http://lenguaje-latino.org/foro/)
+Si tienes alguna dificultad, dejanos un mensaje en el [http://lenguaje-latino.org/foro/](http://lenguaje-latino.org/foro/) 
 

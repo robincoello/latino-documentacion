@@ -1,4 +1,4 @@
-# Latino
+# Inicio
 
 > Esta documentación no está aun terminada, se encuentra en un proceso de desarrollo y cada día trato de escribir algo, espero pronto terminarla, si tienes sugerencias, gracias.
 
@@ -27,9 +27,9 @@ En realidad no necesitas mayor cosa, solo el deseo de aprender, y saber que: _Pr
 
 ## Instalar Latino
 
-Antes de empezar debes instalar latino en tu computadora en vista que vamos a trabajar con este sistema, también vamos a usar los recursos que ponen a nuestra disposición el sitio oficial de latino [http://lenguaje-latino.org/](http://lenguaje-latino.org/) ...acá puedes tener la última versión de este lenguaje de programación.
+Antes de empezar debes instalar latino en tu computadora en vista que vamos a trabajar con este sistema, también vamos a usar los recursos que ponen a nuestra disposición el sitio oficial de latino [http://lenguaje-latino.org/](http://lenguaje-latino.org/) acá puedes tener la última versión de este lenguaje de programación.
 
 ## Quieres contribuir con la elaboración o corrección de este manual?
 
-Primero, gracias por tu interes y las horas que quieres dedicarle gratuitamente a este trabajo,  lee las instucciones de como y donde puedes ayudarnos aca: [http://lenguaje-latino.org/comunidad/](http://lenguaje-latino.org/comunidad/)
+Primero, gracias por tu interes y las horas que quieres dedicarle gratuitamente a este trabajo, lee las instucciones de como y donde puedes ayudarnos aca: [http://lenguaje-latino.org/comunidad/](http://lenguaje-latino.org/comunidad/)
 

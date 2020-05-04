@@ -13,6 +13,7 @@ global
 hasta
 mientras
 nulo
+poner
 repetir
 regresar | retornar | ret
 romper
