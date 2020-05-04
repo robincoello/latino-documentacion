@@ -104,7 +104,8 @@ ahora registramos las modificaciones antes de subir al servidor
 
 
 ```text
-git add . git commit -m 'creacion de la doc'
+git add . 
+git commit -m 'creacion de la doc'
 ```
 
 con esto configurado, mandamos toros los archivos al servidor
