@@ -1,15 +1,25 @@
 # Variables
 
-Una variable es una cadena \(conjunto de letras\) que toma un valor y este no cambia hasta que se le asigne otro valor, para definir una variable en "Latino" se hace de la siguiente manera:
+Una variable puede ser una conbinación de `letras`, `números`, y guió bajo `_` no puede empezar por mayusculas ni números
 
-## Variable de texto
+Si una variable de texto debe iniciar por comillas simples `' '` o dobles. `" "`.
 
-El valor de una variable si contiene texto se debe encerrar en comillas simples `' '` o dobles. ```" "``.
+Ejemplos de definición correcta de variables 
 
 ```text
 una_letra = 'a'
 palabra = 'Latino'
 frase = 'Latino, lenguaje de programación en español'
+edad = 18
+peso = 71.05
+//n3 = 1,2 //error
+pais = 'Ecuador'
+capital = "Quito"
+_tiene_telefono = falso /// valor booleano
+_1_nombre = "Lenguaje"
+_2_NOmBRe = "Latino"
+nombreDeMiPerro = "Firulais"
+
 ```
 
 ## Variable con valor númerico
