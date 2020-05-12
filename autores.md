@@ -1,18 +1,13 @@
 # Autores
 
 Este libro fue escrito por:  
-**Róbinson E. Coello Sánchez**  
-Bruselas - Bélgica  
-Email: robincoello@hotmail.com  
-Tel: +32474624707
+**Róbinson Coello** Bruselas - Bélgica robincoello@hotmail.com http://coello.be 
 
 El lenguaje de programación creado por 
 
 **Primitivo R. Montero**
 
 * cibercafe\_montero@hotmail.com [https://github.com/primitivorm](https://github.com/primitivorm) Mexico DF
-
-
 
 **Colaboradores**:
 
